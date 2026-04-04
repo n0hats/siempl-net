@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Security news aggregator — KrebsOnSecurity, Hacker News, Bleeping Computer, Dark Reading, Schneier, SANS ISC" />
+  <title>siempl.net — Security Intel Feed</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+
+  <!-- ── Header ──────────────────────────────────────────────────────────── -->
+  <header class="site-header">
+    <div class="header-inner">
+
+      <div class="logo">
+        <!-- Shield icon -->
+        <svg class="logo-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2L3 7v5c0 5.25 3.75 10.15 9 11.25C17.25 22.15 21 17.25 21 12V7L12 2z"/>
+          <polyline points="9 12 11 14 15 10"/>
+        </svg>
+        <span class="logo-text">siempl<span>.net</span></span>
+      </div>
+
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input id="search" type="search" placeholder="Search… (press / to focus)" autocomplete="off" spellcheck="false" />
+      </div>
+
+      <div class="header-meta">
+        <span><span class="status-dot"></span> LIVE</span>
+        <span>SOURCES: 6</span>
+        <span>DAILY BUILD</span>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ── Stats Bar ─────────────────────────────────────────────────────── -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <span class="stat">
+        ITEMS:&nbsp;<span class="stat-value" id="stat-total">…</span>
+      </span>
+      <span class="stat">
+        NEW (24H):&nbsp;<span class="stat-value stat-new" id="stat-new">…</span>
+      </span>
+      <span class="stat">
+        UPDATED:&nbsp;<span id="stat-updated">…</span>
+      </span>
+    </div>
+  </div>
+
+  <!-- ── Filters ───────────────────────────────────────────────────────── -->
+  <div class="filters-wrap">
+    <div class="filter-row">
+      <span class="filter-label">Source</span>
+      <div id="source-filters" style="display:contents"></div>
+
+      <div class="divider"></div>
+
+      <span class="filter-label">Category</span>
+      <div id="category-filters" style="display:contents"></div>
+    </div>
+  </div>
+
+  <!-- ── Feed Grid ─────────────────────────────────────────────────────── -->
+  <main class="main">
+    <div id="feed-grid">
+      <!-- Cards rendered by app.js -->
+    </div>
+  </main>
+
+  <!-- ── Footer ────────────────────────────────────────────────────────── -->
+  <footer class="site-footer">
+    <p>
+      siempl.net &mdash; aggregating
+      <a href="https://krebsonsecurity.com" target="_blank" rel="noopener">Krebs</a>,
+      <a href="https://news.ycombinator.com" target="_blank" rel="noopener">HN</a>,
+      <a href="https://www.bleepingcomputer.com" target="_blank" rel="noopener">Bleeping Computer</a>,
+      <a href="https://www.darkreading.com" target="_blank" rel="noopener">Dark Reading</a>,
+      <a href="https://www.schneier.com" target="_blank" rel="noopener">Schneier</a>,
+      <a href="https://isc.sans.edu" target="_blank" rel="noopener">SANS ISC</a>
+      &mdash; rebuilt daily &mdash; press <kbd style="background:var(--bg-card);border:1px solid var(--border);border-radius:3px;padding:1px 5px">/</kbd> to search
+    </p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

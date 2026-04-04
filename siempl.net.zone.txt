@@ -1,0 +1,38 @@
+; Domain: siempl.net
+; Updated for GitHub Pages hosting
+;
+; Points to: n0hats.github.io
+
+$ORIGIN siempl.net.
+
+; SOA Record (unchanged — GoDaddy manages this)
+@   3600  IN  SOA  ns01.domaincontrol.com.  dns.jomax.net. (
+                   2026040401   ; serial (increment if you re-upload)
+                   28800
+                   7200
+                   604800
+                   3600
+                   )
+
+; NS Records (unchanged — GoDaddy nameservers)
+@   3600  IN  NS   ns01.domaincontrol.com.
+@   3600  IN  NS   ns02.domaincontrol.com.
+
+; ── GitHub Pages — apex domain (siempl.net) ──────────────────────────────
+; Four A records required by GitHub Pages
+@   600   IN  A    185.199.108.153
+@   600   IN  A    185.199.109.153
+@   600   IN  A    185.199.110.153
+@   600   IN  A    185.199.111.153
+
+; IPv6 — optional but recommended
+@   600   IN  AAAA 2606:50c0:8000::153
+@   600   IN  AAAA 2606:50c0:8001::153
+@   600   IN  AAAA 2606:50c0:8002::153
+@   600   IN  AAAA 2606:50c0:8003::153
+
+; ── www subdomain ────────────────────────────────────────────────────────
+www  3600  IN  CNAME  n0hats.github.io.
+
+; ── GoDaddy domain connect (keep as-is) ─────────────────────────────────
+_domainconnect  3600  IN  CNAME  _domainconnect.gd.domaincontrol.com.
