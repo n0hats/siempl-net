@@ -1,170 +1,271 @@
 {
-  "last_updated": "2026-04-12T08:03:19.322800+00:00",
-  "item_count": 95,
-  "failed_sources": [],
+  "last_updated": "2026-04-13T09:01:31.696097+00:00",
+  "item_count": 85,
+  "failed_sources": [
+    "SANS ISC"
+  ],
   "items": [
     {
-      "id": "9e727a252150d6985af885c3f0b8bf95",
-      "title": "Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war",
-      "url": "https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142",
+      "id": "f04971b13f65e86ada7e51c2854d4780",
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T07:13:55+00:00",
+      "published": "2026-04-13T05:45:32+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "9b386a66f92a3304597fd31130c29f36",
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "id": "b6df027db22122571d901c4f64fc8dd0",
+      "title": "A Canonical Generalization of OBDD",
+      "url": "https://arxiv.org/abs/2604.05537",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T06:00:00+00:00",
+      "published": "2026-04-13T04:26:15+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "4ba372cea01e2d374c7e892ae231d70e",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "id": "aba98b88e9a93628d534c0289960b5d1",
+      "title": "Haunt, the 70s text adventure game, is now playable on a website",
+      "url": "https://haunt.madebywindmill.com",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T05:08:03+00:00",
+      "published": "2026-04-13T03:31:02+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "b72333a9f318847683892dd978bf2e89",
-      "title": "Why meaningful days look like nothing while you are living them",
-      "url": "https://pilgrima.ge/p/the-grand-line",
+      "id": "57dd203e46ba7c60bf5b0e715cce6305",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T03:04:05+00:00",
+      "published": "2026-04-13T02:53:10+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "677399ecffd695a08d6fa9db4b19967b",
-      "title": "How a dancer with ALS used brainwaves to perform live",
-      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "id": "289a5b2f8d235112999df44a90b89caf",
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T02:09:13+00:00",
+      "published": "2026-04-13T01:49:32+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "cafda0d907e24e0bdacba418db048d11",
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
+      "id": "e302bddd7a5e4448444e4197d2f2ce89",
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T01:55:48+00:00",
+      "published": "2026-04-12T22:38:45+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "102c0626bb67c81b2eeef4332730ceb1",
-      "title": "Software Preservation Group: C++ History Collection",
-      "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+      "id": "e6a16ba2973ad9e5dee4ebbe222e0605",
+      "title": "A perfectable programming language",
+      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-12T01:24:25+00:00",
+      "published": "2026-04-12T21:11:24+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "32fc1c14bb6862614b4202f9204d3805",
-      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
-      "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "id": "a0b24e559389a294b5fa8cc20cc113b2",
+      "title": "I ran Gemma 4 as a local model in Codex CLI",
+      "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-11T23:30:40+00:00",
+      "published": "2026-04-12T20:43:08+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "1806b6c8b67c4d11602d3fe8dbca8da0",
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "id": "749bb68398c24590510803d9bbd4987b",
+      "title": "Uncharted island soon to appear on nautical charts",
+      "url": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-11T20:58:48+00:00",
+      "published": "2026-04-12T20:30:11+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "f7f1f9f1c548f820309b72691ee69671",
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
+      "id": "2b5b00c6b94472b1905c7a1d4e54145d",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-11T20:08:46+00:00",
+      "published": "2026-04-12T19:53:08+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "39b1b44c1aa7d796d5fd92d83b57fa8e",
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
+      "id": "8cfeaa6ca26e27a3f75c6c03f1b129db",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-11T20:01:59+00:00",
+      "published": "2026-04-12T17:25:44+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "589df95768dd3f3397b9285c8383c6f8",
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T16:38:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "24ea484fc5932e558a4abcf1caa4d74a",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T16:24:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "dcaa1aa2bade1fc1293915799a5ff04f",
+      "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
+      "url": "https://arxiv.org/abs/2505.09509",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T16:17:59+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c20f567c1b07277ca81c012d3630587f",
+      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-04-12T14:20:31+00:00",
+      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+      "tags": []
+    },
+    {
+      "id": "0f4e6e73c144b0def55a028e96be0098",
+      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T13:21:39+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "db576c7c0b5c1ee5f2459c33a1b1eda3",
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T13:06:44+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6d4e874cc07dcf917962b8da7629a09c",
+      "title": "We have a 99% email reputation, but Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T12:42:25+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7cf09d4e6c71e7d440cedad63f776c2a",
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T12:28:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "29ae514ec91149976afac6aabbb31fb3",
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T12:21:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "028fccb0bd19190d1631370615f7f527",
+      "title": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T10:29:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "85bfa4e943c9d8ba24672b406e7c3385",
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T09:14:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5d09fe6b16ffb5e59ef933c554df3c01",
+      "title": "Is math big or small?",
+      "url": "https://chessapig.github.io/talks/Big-Small",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-12T08:25:03+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
       "id": "8221e7c8d1c35b122fccc71efae68908",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "title": "Exploiting the most prominent AI agent benchmarks",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
       "published": "2026-04-11T19:15:56+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "40311c00dfe128fa97e0798420e6a886",
-      "title": "How to build a `Git diff` driver",
-      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-11T18:07:49+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "dcb73030ff8cbfbab3fd86c60c614c35",
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-11T16:47:28+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "cd2990c5b30081b9fbc39f35c569e353",
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-11T15:39:19+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -177,28 +278,6 @@
       "source_color": "#4a9eff",
       "published": "2026-04-11T14:20:40+00:00",
       "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
-      "tags": []
-    },
-    {
-      "id": "b3d3a83e59314f2d514382873e0d0610",
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-11T13:01:34+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e513133ba26f0769f2603800b11cdf86",
-      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "url": "https://news.ycombinator.com/item?id=47727960",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-11T06:19:25+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -271,6 +350,17 @@
       "source_color": "#9b59b6",
       "published": "2026-04-10T15:52:28+00:00",
       "summary": "",
+      "tags": []
+    },
+    {
+      "id": "b064b1c80fa19409de683d4e8b740d8e",
+      "title": "I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-10T15:21:07+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -363,17 +453,6 @@
       "source_color": "#2ecc71",
       "published": "2026-04-10T10:41:06+00:00",
       "summary": "Claude is actually pretty good on the issues.",
-      "tags": []
-    },
-    {
-      "id": "aa346d67c13fc8830280f87f8b437c3f",
-      "title": "Obfuscated JavaScript or Nothing, (Thu, Apr 9th)",
-      "url": "https://isc.sans.edu/diary/rss/32884",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-10T06:40:46+00:00",
-      "summary": "I spotted an interesting piece of JavaScript code that was delivered via a phishing email in a RAR archive. The file was called cbmjlzan.JS (SHA256:a8ba9ba93b4509a86e3d7dd40fd0652c2743e32277760c5f7942b788b74c5285) and is only identified as malicious by 15 AV&#x27s on VirusTotal 1 .",
       "tags": []
     },
     {
@@ -484,6 +563,17 @@
       "tags": []
     },
     {
+      "id": "27d04aa47151bbdc3e07b05e3072b388",
+      "title": "Most people can't juggle one ball",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-09T12:35:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "11830da04a1c1a36bcee1d53b3ea44c9",
       "title": "Webinar: From noise to signal - What threat actors are targeting next",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
@@ -506,30 +596,6 @@
       "tags": []
     },
     {
-      "id": "5c7ba3e6eb0dd8779ade873666a9f1f6",
-      "title": "Eurail says December data breach impacts 300,000 individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-04-09T10:31:54+00:00",
-      "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "cc78d4f3471a6a1e8eb725126647788c",
-      "title": "ISC Stormcast For Thursday, April 9th, 2026 https://isc.sans.edu/podcastdetail/9886, (Thu, Apr 9th)",
-      "url": "https://isc.sans.edu/diary/rss/32882",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-09T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "03e2b50624fa84d4dd96637907055342",
       "title": "Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers",
       "url": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
@@ -538,17 +604,6 @@
       "source_color": "#9b59b6",
       "published": "2026-04-09T01:00:00+00:00",
       "summary": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
-      "tags": []
-    },
-    {
-      "id": "fc64b78848b794bbea3ae9ea5a29a259",
-      "title": "Number Usage in Passwords: Take Two, (Thu, Apr 9th)",
-      "url": "https://isc.sans.edu/diary/rss/32866",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-09T00:58:14+00:00",
-      "summary": "In a previous diary 1 , we looked to see how numbers were used within passwords submitted to honeypots. One of the items of interest was how dates, and more specifically years, were represented within the data and how that changed over time. It is often seen that years and seasons are used in passwords, especially when password change requirements …",
       "tags": []
     },
     {
@@ -574,31 +629,6 @@
       "tags": []
     },
     {
-      "id": "1824bbfae25cf3e2b63c21875f98bb57",
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-08T17:36:19+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "78d4580cb384ff7cf2c894abc42e2ed0",
-      "title": "TeamPCP Supply Chain Campaign: Update 007 - Cisco Source Code Stolen via Trivy-Linked Breach, Google GTIG Tracks TeamPCP as UNC6780, and CISA KEV Deadline Arrives with No Standalone Advisory, (Wed, Apr 8th)",
-      "url": "https://isc.sans.edu/diary/rss/32880",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-08T17:15:05+00:00",
-      "summary": "This is the seventh update to the TeamPCP supply chain campaign threat intelligence report,&&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 \"When the Security Scanner Became the Weapon\" &&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 (v3.0, March 25, 2026).&&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 Update 006 &&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 covered dev…",
-      "tags": [
-        "PATCH",
-        "BREACH"
-      ]
-    },
-    {
       "id": "919f63d3470742f7cd89f0375f012cd5",
       "title": "Fraud Rockets Higher in Mobile-First Latin America",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america",
@@ -618,17 +648,6 @@
       "source_color": "#9b59b6",
       "published": "2026-04-08T14:43:49+00:00",
       "summary": "",
-      "tags": []
-    },
-    {
-      "id": "7334af77e5337d83b25aff1710d671a9",
-      "title": "More Honeypot Fingerprinting Scans, (Wed, Apr 8th)",
-      "url": "https://isc.sans.edu/diary/rss/32878",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-08T14:23:28+00:00",
-      "summary": "One question that often comes up when I talk about honeypots: Are attackers able to figure out if they are connected to a honeypot The answer is pretty simple: Yes",
       "tags": []
     },
     {
@@ -678,17 +697,6 @@
       "tags": []
     },
     {
-      "id": "4ef75fdbf183ad828409f616597d89c1",
-      "title": "ISC Stormcast For Wednesday, April 8th, 2026 https://isc.sans.edu/podcastdetail/9884, (Wed, Apr 8th)",
-      "url": "https://isc.sans.edu/diary/rss/32876",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-08T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "5d4c09877286a94c36b21b459accc908",
       "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
       "url": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
@@ -715,17 +723,6 @@
         "PATCH",
         "BREACH"
       ]
-    },
-    {
-      "id": "688740b5fd2b25262ad9716ac1a5c98a",
-      "title": "A Little Bit Pivoting: What Web Shells are Attackers Looking for , (Tue, Apr 7th)",
-      "url": "https://isc.sans.edu/diary/rss/32874",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-07T18:28:16+00:00",
-      "summary": "Webshells remain a popular method for attackers to maintain persistence on a compromised web server. Many \"arbitrary file write\" and \"remote code execution\" vulnerabilities are used to drop small files on systems for later execution of additional payloads. The names of these files keep changing and are often chosen to \"fit in\" with other files. Web…",
-      "tags": []
     },
     {
       "id": "c4610d3dacc4e18527f3dc2dd4ed6504",
@@ -794,50 +791,6 @@
       "tags": []
     },
     {
-      "id": "dc3c32e8274cd9af0f41b3fe5e1fa03d",
-      "title": "The Soul of an Old Machine",
-      "url": "https://skalski.dev/the-soul-of-an-old-machine/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T12:30:49+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "138448e4cb3d90a5176f32fcc673127f",
-      "title": "What is a property?",
-      "url": "https://alperenkeles.com/posts/what-is-a-property/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T12:16:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8a9442668950241b6b08934b01079e2b",
-      "title": "How Complex is my Code?",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T10:44:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "cd1c88c101924fde7145839847b1bc72",
-      "title": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T10:16:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "48423e99d03a029b1856d64a867fcd37",
       "title": "Hong Kong Police Can Force You to Reveal Your Encryption Keys",
       "url": "https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html",
@@ -846,50 +799,6 @@
       "source_color": "#2ecc71",
       "published": "2026-04-07T09:45:33+00:00",
       "summary": "According to a new law, the Hong Kong police can demand that you reveal the encryption keys protecting your computer, phone, hard drives, etc. even if you are just transiting the airport. In a security alert dated March 26, the U.S. Consulate General said that, on March 23, 2026, Hong Kong authorities changed the rules governing enforcement of the …",
-      "tags": []
-    },
-    {
-      "id": "a34baf8a1223507d9aef6aa0857947a8",
-      "title": "Tofolli gates are all you need",
-      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T09:40:57+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "fbe42068842a6219336010a84f58fbad",
-      "title": "Simplest Hash Functions",
-      "url": "https://purplesyringa.moe/blog/simplest-hash-functions/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T09:40:08+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "894e4f057df9063570d37cabc47d9078",
-      "title": "Network Flow Algorithms",
-      "url": "https://www.networkflowalgs.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-07T07:27:14+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c7afcdf58ea8168af455e955bc3e91c5",
-      "title": "ISC Stormcast For Tuesday, April 7th, 2026 https://isc.sans.edu/podcastdetail/9882, (Tue, Apr 7th)",
-      "url": "https://isc.sans.edu/diary/rss/32872",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-07T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -937,17 +846,6 @@
       "tags": []
     },
     {
-      "id": "674105522dd256957493cdb85540348d",
-      "title": "How often are redirects used in phishing in 2026 , (Mon, Apr 6th)",
-      "url": "https://isc.sans.edu/diary/rss/32870",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-06T08:50:27+00:00",
-      "summary": "In one of his recent diaries, Johannes discussed how open redirects are actively being sought out by threat actors 1 , which made me wonder about how commonly these mechanisms are actually misused",
-      "tags": []
-    },
-    {
       "id": "dc201ebceab0e56e79e76989e699906e",
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
@@ -959,17 +857,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "8a939fdf77ed0dd32dbf74a45f424bc6",
-      "title": "ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)",
-      "url": "https://isc.sans.edu/diary/rss/32868",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-06T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
     },
     {
       "id": "d8ae3d90f2384505c9d9ed74e4c883bb",
