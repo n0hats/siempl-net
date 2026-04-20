@@ -1,8 +1,243 @@
 {
-  "last_updated": "2026-04-19T08:06:25.092591+00:00",
-  "item_count": 95,
+  "last_updated": "2026-04-20T09:07:08.431935+00:00",
+  "item_count": 94,
   "failed_sources": [],
   "items": [
+    {
+      "id": "926c4e7833c8b19cb867f06cf6c45787",
+      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+      "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T08:49:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "43a02d1995b32b08ad5e13c7a7892730",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-04-20T08:30:56+00:00",
+      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "bdca22eb1bafeb898f4ae6df7655beed",
+      "title": "GitHub's Fake Star Economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T08:26:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "cad73c1e57f4e7a170933978eea190f7",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T07:49:48+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "915119647a12848d3fe7f2458c281569",
+      "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+      "url": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T07:07:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3020dff813b2b11f61394c769a5fa76c",
+      "title": "Handling the CVE Flood With EPSS, (Mon, Apr 20th)",
+      "url": "https://isc.sans.edu/diary/rss/32914",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-04-20T06:43:22+00:00",
+      "summary": "Every morning, security people around the world face the same ritual: opening their vulnerability feed to find a lot of new CVE entries that appeared overnight. Over the past decade, this flood has become a defining challenge of modern defensive security. Some numbers 1 :",
+      "tags": []
+    },
+    {
+      "id": "034f1cb7c661fd6ee60fa624a44afe88",
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "url": "https://stripe.dev/blog/payment-api-design",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T05:05:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6a57d9249fb4cd76efb67bfecd639cf5",
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "url": "https://github.com/esutcu/planb-lpm",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T03:24:21+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ffc4d8219b214456395a324ea99c8bc3",
+      "title": "ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)",
+      "url": "https://isc.sans.edu/diary/rss/32912",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-04-20T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "d02512e06852f6d8b16a9ec3b02579f4",
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T00:56:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "499747d71253709b881a9a86d02c3aad",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-20T00:07:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f9594810d12ec74df79bc7f0f663c1d5",
+      "title": "Swiss AI Initiative (2023)",
+      "url": "https://www.swiss-ai.org",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T22:58:35+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "37229ce5aeee69b28991dc934232399f",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T22:55:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b7c645ec440d9c1fea21988b82fe8235",
+      "title": "Stop trying to engineer your way out of listening to people",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T20:09:09+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "66efe5fa125426e8fd2a724db1732661",
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T17:44:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "31daa99e829c7034d988bc46f4730b25",
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-04-19T17:32:45+00:00",
+      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "8587cddad60f06d91b92c747f2f5420f",
+      "title": "Apple account change alerts abused to send phishing emails",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-04-19T16:03:01+00:00",
+      "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
+      "tags": []
+    },
+    {
+      "id": "50ceb5a21697143a1bf18aaba648e4db",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T15:48:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e877a6f6a9db8d3f38200ed858a8d4b4",
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-04-19T14:17:43+00:00",
+      "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
+      "tags": []
+    },
+    {
+      "id": "4ae539cbbe4d1e224eb12d4a70c417b7",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T10:36:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9fd5ce4903ef12a82c9fc14748f0caa3",
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-19T08:32:53+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
     {
       "id": "8bc307ae958ca9cfb15b68df6bf01b9f",
       "title": "The RAM shortage could last years",
@@ -15,123 +250,13 @@
       "tags": []
     },
     {
-      "id": "f6bb39118d07527a2763d21540dcd592",
-      "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
-      "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+      "id": "febd408c3324b0d05790f1a400ca392a",
+      "title": "SDF Public Access Unix System",
+      "url": "https://sdf.org/?ssh",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-19T07:05:17+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "bcd9ce8697b17f1eaa2f27097b369d37",
-      "title": "The world in which IPv6 was a good design",
-      "url": "https://apenwarr.ca/log/20170810",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-19T02:50:43+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1eee6b7a77de849137b0a858950c2fba",
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T23:47:45+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "ada898d64f17481ed4e76d47ee6521ad",
-      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T22:46:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3662ef8b88a3019881f688cff7279fd8",
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T20:54:17+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a39548fe64a0c45501d0ccf3bef39ef8",
-      "title": "Optimizing Ruby Path Methods",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T20:42:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e06a667d2cbe22a28fdd49f66d105d72",
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T19:19:24+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "44c0f4d03505a287d98bdff1b35385f0",
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T19:00:00+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8a3fc0ddbf58d3f586ae949559b1ff60",
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T16:26:47+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "37b2be484a772702e587027bc09c5db0",
-      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T16:05:43+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "513edbc29c72466a50fe646ac8c85058",
-      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
-      "url": "https://github.com/drasimwagan/mdv",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T15:24:39+00:00",
+      "published": "2026-04-18T20:48:35+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -173,39 +298,6 @@
       ]
     },
     {
-      "id": "8558c9a45522f1820d35301802f59de5",
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T13:29:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "30a1ae5aad51bda6e301a2e7c8ad3c15",
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T12:29:06+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1627fcc5af9dbb2b86eae53c1376f4f1",
-      "title": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-18T11:42:37+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "1bd7e3021986ea6eac7e6b6f8f085bcc",
       "title": "Friday Squid Blogging: New Giant Squid Video",
       "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html",
@@ -214,6 +306,28 @@
       "source_color": "#2ecc71",
       "published": "2026-04-17T21:05:07+00:00",
       "summary": "Pretty fantastic video from Japan of a giant squid eating another squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "a904000b05bb5b258a6d6e631b2fe6c5",
+      "title": "Two Motorola Transistors Became the Default NPNs",
+      "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-17T20:27:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "11785107cc51a283f455ae9a9f6c8a38",
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-17T20:14:30+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -285,17 +399,6 @@
       "tags": []
     },
     {
-      "id": "f277712e5a9c310caae634f28abcb7a8",
-      "title": "What are skiplists good for?",
-      "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-17T13:57:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "3702ea27c853866e287506bef9badc73",
       "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
       "url": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
@@ -326,6 +429,17 @@
       "source_color": "#2ecc71",
       "published": "2026-04-17T11:02:37+00:00",
       "summary": "Last week, Anthropic pulled back the curtain on Claude Mythos Preview , an AI model so capable at finding and exploiting software vulnerabilities that the company decided it was too dangerous to release to the public. Instead, access has been restricted to roughly 50 organizations Microsoft, Apple, Amazon Web Services, CrowdStrike and other vendors…",
+      "tags": []
+    },
+    {
+      "id": "95d7bf481021ca9fab94f9a086309696",
+      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+      "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-17T09:50:53+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -402,25 +516,14 @@
       "tags": []
     },
     {
-      "id": "a9bf5ed9c68a02a3c1f981a6d36eb0f9",
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-      "url": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-04-16T22:26:34+00:00",
-      "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
-      "tags": []
-    },
-    {
-      "id": "ef39f7291c8c88b7df818ad6043ce58e",
-      "title": "ZionSiphon malware designed to sabotage water treatment systems",
-      "url": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-04-16T22:04:53+00:00",
-      "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
+      "id": "605a8c7c2aa5ae44c390213023ef07cf",
+      "title": "Zero-copy protobuf and ConnectRPC for Rust",
+      "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-17T00:29:37+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -433,19 +536,6 @@
       "published": "2026-04-16T21:47:31+00:00",
       "summary": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
       "tags": []
-    },
-    {
-      "id": "fca90b336cc7719103c80d2e2314d297",
-      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-04-16T20:19:31+00:00",
-      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
-      "tags": [
-        "0DAY"
-      ]
     },
     {
       "id": "61f3088171e50161485b4a1696969668",
@@ -485,39 +575,6 @@
       ]
     },
     {
-      "id": "8f8c8c06db7f204b72cb3f2a6baa9b4d",
-      "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
-      "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-16T19:05:20+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6f415bfddf08ddad2315c9e95c37fba9",
-      "title": "Bypassing the kernel for 56ns cross-language IPC",
-      "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-16T17:13:50+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "58779b89ffa5516182f5e7f395a5d189",
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-04-16T16:58:06+00:00",
-      "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
-      "tags": []
-    },
-    {
       "id": "cfae369723828c38c6992316638a2af3",
       "title": "Two-Factor Authentication Breaks Free from the Desktop",
       "url": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
@@ -542,35 +599,13 @@
       ]
     },
     {
-      "id": "5e52a9c1f0030d47594c4477c9745636",
-      "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
-      "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+      "id": "d3cc8b81341faaea8f180204919329cf",
+      "title": "Knitout and Kniterate 3",
+      "url": "https://soup.agnescameron.info//2026/04/01/transfers.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-16T15:08:33+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "b8540f8bcf431a5a6d7a1a806786b94c",
-      "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-16T14:05:10+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "dff3c32a285340e61de2370334967a94",
-      "title": "Updating Gun Rocket through 10 years of Unity Engine",
-      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-16T12:00:00+00:00",
+      "published": "2026-04-16T14:43:14+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -586,17 +621,6 @@
       "tags": []
     },
     {
-      "id": "5738c042c90444fc6304730bb893a3fd",
-      "title": "SI Units for Request Rate (2024)",
-      "url": "https://entropicthoughts.com/si-units-for-request-rate",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-16T08:42:05+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "31889dfaca49970f0a0938704b4be050",
       "title": "6-Year Ransomware Campaign Targets Turkish Homes & SMBs",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
@@ -609,6 +633,17 @@
         "RANSOMWARE",
         "BREACH"
       ]
+    },
+    {
+      "id": "3bb691c59f06aaeed4c8ef9f6821f46e",
+      "title": "Ben Lerner's Big Feelings",
+      "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-04-16T05:43:09+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "467c7b5f6bb785401bd068ac56e4bcdd",
@@ -633,17 +668,6 @@
       "tags": []
     },
     {
-      "id": "b526ad6d09abdd81220a33a8ca6df3f5",
-      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-15T19:56:31+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "e0e42310c68962940d3d517943efa373",
       "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
       "url": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
@@ -655,13 +679,13 @@
       "tags": []
     },
     {
-      "id": "6c131f44d9b2bc6066ef2f69a8db6aeb",
-      "title": "Metatextual Literacy",
-      "url": "https://www.jenn.site/metatextual-literacy/",
+      "id": "d0b269c5422d0cc5a30c12872cd0ba85",
+      "title": "Mechanical Keyboard Sounds – A listening Museum",
+      "url": "https://sheets.works/data-viz/keyboard-sounds",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-04-15T19:18:38+00:00",
+      "published": "2026-04-15T15:45:45+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -685,17 +709,6 @@
       "source_color": "#9b59b6",
       "published": "2026-04-15T14:38:53+00:00",
       "summary": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
-      "tags": []
-    },
-    {
-      "id": "d868a9e9e04badbdafb2be9edad6bb18",
-      "title": "Modern Common Lisp with FSet",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-04-15T14:38:38+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -922,17 +935,6 @@
       "tags": []
     },
     {
-      "id": "8cdc4c4f643ebe4c19cb052c2a596a33",
-      "title": "Scans for EncystPHP Webshell, (Mon, Apr 13th)",
-      "url": "https://isc.sans.edu/diary/rss/32892",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-13T13:02:50+00:00",
-      "summary": "Last week, I wrote about attackers scanning for various webshells, hoping to find some that do not require authentication or others that use well-known credentials. But some attackers are paying attention and are deploying webshells with more difficult-to-guess credentials. Today, I noticed some scans for what appears to be the \"EncystPHP\" web shel…",
-      "tags": []
-    },
-    {
       "id": "c27db42eb18ffe1539ddd6a1c16ed5ea",
       "title": "AI Chatbots and Trust",
       "url": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
@@ -941,17 +943,6 @@
       "source_color": "#2ecc71",
       "published": "2026-04-13T10:10:45+00:00",
       "summary": "All the leading AI chatbots are sycophantic, and that s a problem : Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn t tell the difference between sycophantic and objective responses. Both felt eq…",
-      "tags": []
-    },
-    {
-      "id": "ff675a52dce36ec1e0f6d074f01d3f12",
-      "title": "ISC Stormcast For Monday, April 13th, 2026 https://isc.sans.edu/podcastdetail/9888, (Mon, Apr 13th)",
-      "url": "https://isc.sans.edu/diary/rss/32890",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-04-13T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
