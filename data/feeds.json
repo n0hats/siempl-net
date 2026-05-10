@@ -1,38 +1,216 @@
 {
-  "last_updated": "2026-05-09T08:26:56.457533+00:00",
+  "last_updated": "2026-05-10T08:54:25.223006+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "05e2bb91bda8a1ab24e6bdba7b898a4d",
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "id": "db0b8a112773989957e47eea5cdfe709",
+      "title": "Rotten Dot Com",
+      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-09T07:23:40+00:00",
+      "published": "2026-05-10T08:25:55+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1bbca47c748558ebcc3439810d25981c",
+      "title": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T05:26:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "72fe5a222dbc884ff94c71e05adf0ea1",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T04:47:45+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "24d8d2f0d673d7220ad944a73fa1f36b",
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T03:22:02+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0f942c5515925a63166d8204c3e8219c",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T03:01:44+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "290864bea4ed979d715b7b9f0be14411",
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T21:46:27+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b487b0728bb63bdba3f89758a143efa2",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T20:31:21+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b2d4ac66b1656fbcb69507582158a263",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-09T19:27:58+00:00",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+      "tags": []
+    },
+    {
+      "id": "2aef9bf8ac0386e539a321260d46d2e8",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T17:52:13+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9612e2ac6e6e027eedc73b4eb38dbfc8",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T17:30:39+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "86b87cdcd02ac045f9beebb4a18e5613",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T17:06:46+00:00",
+      "summary": "Comments",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "19ecd877067f078aaa2e84e3642b7bbc",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T16:28:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a0325af83b11c952cacf5e04132fa72d",
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T14:40:58+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4c60c8567b7ddc4f88e16b7779471ad0",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-09T14:26:03+00:00",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "tags": []
+    },
+    {
+      "id": "a57674e0e61f879a65f0af8da1868711",
+      "title": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T13:48:32+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "79683e444d491e18bb6e4aef753aceb7",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T12:00:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "edf29cf444b8e57c355ec56dd5875112",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T10:12:55+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "dfc4a7c06394571a82cdff6c9dea6d24",
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-09T08:44:34+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
       "id": "fbc85d1422693f83b24e6101b9a62a6d",
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
       "published": "2026-05-09T05:52:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "772fa466a3960088a1c622b2775486de",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T04:53:52+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -70,50 +248,6 @@
       "tags": []
     },
     {
-      "id": "f0d58f8cfe1e3d067cd9092c51e16937",
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T19:40:39+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6690fa79123b4bdfc1f0dcf0bd077915",
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T18:45:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9f84393ae804bdcd647aab3d21ced92c",
-      "title": "Teaching Claude Why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T17:59:41+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "45f425d42eabd972759051cb22101c28",
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T17:55:08+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "a8228f872eadebabf7a71430a560d7bd",
       "title": "Insider Betting on Polymarket",
       "url": "https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html",
@@ -122,39 +256,6 @@
       "source_color": "#2ecc71",
       "published": "2026-05-08T17:49:01+00:00",
       "summary": "Insider trading is rife on Polymarket: Analysis by the Anti-Corruption Data Collective, a non-profit research and advocacy group, found that long-shot bets ­defined as wagers of $2,500 or more at odds of 35 percent or less ­on the platform had an average win rate of around 52 percent in markets on military and defense actions. That compares with a …",
-      "tags": []
-    },
-    {
-      "id": "851dbae4424bdbca37d072d5b81fe9e4",
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T16:39:48+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6e7318ff133abd6cf10368a210201648",
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T16:29:52+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7f64fc2d625fdec8169c383e39b4f65b",
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T16:21:56+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -169,17 +270,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "fde5801ac015a6745300fa294de93b36",
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T15:10:35+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "2a633f2515116f4b97ca4fe02a702d7d",
@@ -233,28 +323,6 @@
       ]
     },
     {
-      "id": "9c386bd08149672f4b14d700450b8dd6",
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T12:03:26+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "d4fd3601fe21c27185761764e5bf805f",
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T11:22:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "e3478b80dc6161235ab9ed2d3161a65d",
       "title": "Zara data breach exposed personal information of 197,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
@@ -292,17 +360,6 @@
       ]
     },
     {
-      "id": "be4d71c77ee3722a3aa52502eba330c1",
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T03:31:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "3360143fe09690c3eb696208f3626b4b",
       "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -314,17 +371,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "9ff5f6a963f4863a8afa7473090cabbd",
-      "title": "Mojo 1.0 Beta",
-      "url": "https://mojolang.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-08T02:49:01+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "620c0f35691dd8680654e1f560f9237f",
@@ -410,17 +456,6 @@
       ]
     },
     {
-      "id": "73683c6e74f465b39eedd86420d28f51",
-      "title": "OpenAI’s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-07T17:11:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "17c7133b8c475ffb2390debbfdd0b4eb",
       "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
@@ -435,6 +470,17 @@
       ]
     },
     {
+      "id": "438361910c818f152bc26be36b4fa63a",
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-07T14:19:55+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "ab7265dcfd9e1a0b143c6aed36b09430",
       "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
       "url": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
@@ -446,14 +492,14 @@
       "tags": []
     },
     {
-      "id": "8412a4e335525523fe83422107545e59",
-      "title": "Americans sentenced for running 'laptop farms' for North Korea",
-      "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-07T13:45:48+00:00",
-      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
+      "id": "6be3cd0904d42596f78dbd33203db58e",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-07T13:01:21+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -481,14 +527,25 @@
       ]
     },
     {
-      "id": "0d62b9950cf4e63ad2f858ab8ddf2206",
-      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-07T12:11:53+00:00",
-      "summary": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
+      "id": "c6f30bdc225d7039dcaad39e146f6340",
+      "title": "The One Dollar Counterfeiter",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-07T12:40:35+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "bced32650f0274558e5449b1ac8753d5",
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-07T12:09:47+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -500,17 +557,6 @@
       "source_color": "#2ecc71",
       "published": "2026-05-07T11:07:07+00:00",
       "summary": "ICE is developing its own version of smart glasses, with facial recognition tied to various databases.",
-      "tags": []
-    },
-    {
-      "id": "bb3d7cf842f590a91a4cee4243d7466a",
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-07T07:20:55+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -560,68 +606,35 @@
       ]
     },
     {
-      "id": "6282112e09bb3898144ded9cf4a69b61",
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "id": "c8900aee9198d0b090ab943b2bf0e3d1",
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-06T19:21:34+00:00",
+      "published": "2026-05-06T17:52:29+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "95aaf8e9a7a96a4144371a43d6dbb5b3",
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "id": "901972c3f09564763604f4996b0f5f8b",
+      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-06T19:09:29+00:00",
+      "published": "2026-05-06T17:00:03+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "114052a8aa8c7afc165d7d238d973eae",
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
+      "id": "a1daf48baff8d79951cb53bc26cabf41",
+      "title": "We see something that works, and then we understand it",
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-06T16:01:50+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "fda5912e35cfeeaf2f516e1c737b048b",
-      "title": "All means are fair except solving the problem",
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T15:52:25+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "cb84e5a29e46b25e2d6d09dbcb7fb12d",
-      "title": "What causes lightning? The answer keeps getting more interesting",
-      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T15:41:06+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "fd60de8d2c8c5698581b52b279226365",
-      "title": "America's carpet capital: an empire and its toxic legacy",
-      "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T15:17:44+00:00",
+      "published": "2026-05-06T15:15:23+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -670,17 +683,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "9f97873cc7c7e1ef88b294568db92035",
-      "title": "The Soul of Maintaining a New Machine",
-      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T04:01:42+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "ae8f52a49621e1a3764db22ceac6d26b",
