@@ -1,83 +1,217 @@
 {
-  "last_updated": "2026-05-10T08:54:25.223006+00:00",
+  "last_updated": "2026-05-11T10:38:35.496504+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "db0b8a112773989957e47eea5cdfe709",
-      "title": "Rotten Dot Com",
-      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+      "id": "be0d5fa266263d348b1cffdc4e7bbfb7",
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-11T09:03:02+00:00",
+      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
+      "tags": []
+    },
+    {
+      "id": "8e0650013311fe16598698ee8dde3c28",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-10T08:25:55+00:00",
+      "published": "2026-05-11T06:39:08+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "1bbca47c748558ebcc3439810d25981c",
-      "title": "Debian must ship reproducible packages",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "id": "b1b3ea01831b87ec3fa6d5519fafe85a",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-10T05:26:03+00:00",
+      "published": "2026-05-11T04:34:40+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "72fe5a222dbc884ff94c71e05adf0ea1",
-      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "id": "0c2c06d4d4d1cbc59324676fd31f46fc",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-10T04:47:45+00:00",
+      "published": "2026-05-11T02:43:34+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "24d8d2f0d673d7220ad944a73fa1f36b",
-      "title": "Gemini API File Search is now multimodal",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "id": "d468665f3b705e24e89b21c1fb80bf33",
+      "title": "ISC Stormcast For Monday, May 11th, 2026 https://isc.sans.edu/podcastdetail/9926, (Mon, May 11th)",
+      "url": "https://isc.sans.edu/diary/rss/32972",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-05-11T02:15:11+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "03a2cc6f0867d9bcba7ebcd31bc52010",
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-10T03:22:02+00:00",
+      "published": "2026-05-11T02:06:29+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "0f942c5515925a63166d8204c3e8219c",
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
+      "id": "18f70b6ddcd1a7b3a738177c6951ed49",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-10T03:01:44+00:00",
+      "published": "2026-05-11T01:23:51+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "290864bea4ed979d715b7b9f0be14411",
-      "title": "Show HN: Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "id": "a27820a51fc16596c8647c87a39f2e08",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-09T21:46:27+00:00",
+      "published": "2026-05-10T23:39:55+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "b487b0728bb63bdba3f89758a143efa2",
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "id": "e94801208f3d19749e2ccb15ca0b861d",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-09T20:31:21+00:00",
+      "published": "2026-05-10T23:09:10+00:00",
       "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "274358a2f2640ec90fdf52428b05bc7f",
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T23:02:31+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d4a60dd034efc43238e2e3a5ddad730b",
+      "title": "YARA-X 1.16.0 Release, (Sun, May 10th)",
+      "url": "https://isc.sans.edu/diary/rss/32970",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-05-10T22:37:08+00:00",
+      "summary": "YARA-X&&#x23 x26 &#x23 39 s 1.16.0 release brings 4 improvements and 4 bugfixes.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "f3a11648837a70425859abb4d1c73466",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T22:02:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b3b8b105b70b0c8a01e785b0356e2dd4",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T17:54:02+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1b7ffe155571c1b73c9f19cbf977eda3",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-10T17:52:15+00:00",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
+      "tags": []
+    },
+    {
+      "id": "a78ae4336b6ecb6a2d11e08b825a5bd7",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T17:43:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "50727319243cae2f88ec63ef958e53a4",
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=48085993",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T17:34:41+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "dc647b36d07068a1583771107e7bed0a",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T17:19:28+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "892d3f891d495ba5afc6c7dcf2aa9684",
+      "title": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-10T17:15:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1a75c2816f603ccee1ca17e7922a2288",
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-10T14:16:47+00:00",
+      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
       "tags": []
     },
     {
@@ -92,63 +226,6 @@
       "tags": []
     },
     {
-      "id": "2aef9bf8ac0386e539a321260d46d2e8",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T17:52:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9612e2ac6e6e027eedc73b4eb38dbfc8",
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T17:30:39+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "86b87cdcd02ac045f9beebb4a18e5613",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T17:06:46+00:00",
-      "summary": "Comments",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "19ecd877067f078aaa2e84e3642b7bbc",
-      "title": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T16:28:36+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a0325af83b11c952cacf5e04132fa72d",
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T14:40:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "4c60c8567b7ddc4f88e16b7779471ad0",
       "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
@@ -160,68 +237,13 @@
       "tags": []
     },
     {
-      "id": "a57674e0e61f879a65f0af8da1868711",
-      "title": "The hypocrisy of cyberlibertarianism",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "id": "e52d030c71b804aa0a935a4729979ead",
+      "title": "I returned to AWS and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-09T13:48:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "79683e444d491e18bb6e4aef753aceb7",
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T12:00:30+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "edf29cf444b8e57c355ec56dd5875112",
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T10:12:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "dfc4a7c06394571a82cdff6c9dea6d24",
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T08:44:34+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "fbc85d1422693f83b24e6101b9a62a6d",
-      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T05:52:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "287a3727d48974917055f5103f89a050",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-09T02:41:42+00:00",
+      "published": "2026-05-09T08:37:41+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -245,6 +267,17 @@
       "source_color": "#9b59b6",
       "published": "2026-05-08T20:08:06+00:00",
       "summary": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+      "tags": []
+    },
+    {
+      "id": "334faf6588436bfab271050d1cc40dea",
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T19:36:45+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -323,6 +356,28 @@
       ]
     },
     {
+      "id": "b54bf0f0fdcc34f6b79c73825287f039",
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T11:26:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "376512974d9f3a0c399b1b81568d37e9",
+      "title": "Eight More '8-Bit Era' Microprocessors",
+      "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T11:21:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "e3478b80dc6161235ab9ed2d3161a65d",
       "title": "Zara data breach exposed personal information of 197,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
@@ -360,6 +415,39 @@
       ]
     },
     {
+      "id": "fa1f12fba24c039b26c2960dc5842612",
+      "title": "Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars",
+      "url": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T07:18:24+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d523441d44a04fe368d523ef056128fe",
+      "title": "dBase: 1979-2026",
+      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T05:00:05+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2ddbc2ae271621f4de6da559c0a6ac48",
+      "title": "Guitar tuner that uses phone accelerometer",
+      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T03:43:08+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "3360143fe09690c3eb696208f3626b4b",
       "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -373,6 +461,17 @@
       ]
     },
     {
+      "id": "17de6bbc2c2161510174d9a5f2d5b3ab",
+      "title": "Bliss (Photograph)",
+      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T02:31:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "620c0f35691dd8680654e1f560f9237f",
       "title": "ISC Stormcast For Friday, May 8th, 2026 https://isc.sans.edu/podcastdetail/9924, (Fri, May 8th)",
       "url": "https://isc.sans.edu/diary/rss/32966",
@@ -381,6 +480,28 @@
       "source_color": "#e74c3c",
       "published": "2026-05-08T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "a91dfc8bdaeabab2cc0a6a3e0e6ddb5c",
+      "title": "Seeing Birdsong",
+      "url": "https://www.lucioarese.net/seeing-birdsong/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-08T00:55:25+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0d1485b0d6b78001b90969ee3b6de55b",
+      "title": "The people preserving the scientific practice of bird banding",
+      "url": "https://thenarwhal.ca/bird-banding-ontario/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-07T23:49:51+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -443,62 +564,13 @@
       ]
     },
     {
-      "id": "d1fed97785db70a064d9370f6e2a8c41",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-07T18:00:59+00:00",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "17c7133b8c475ffb2390debbfdd0b4eb",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-07T15:20:51+00:00",
-      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "438361910c818f152bc26be36b4fa63a",
-      "title": "The Serial TTL connector we deserve",
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "id": "e2b72082807ef8420aab97589f0a80ec",
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-07T14:19:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "ab7265dcfd9e1a0b143c6aed36b09430",
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-      "url": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-07T14:01:11+00:00",
-      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
-      "tags": []
-    },
-    {
-      "id": "6be3cd0904d42596f78dbd33203db58e",
-      "title": "Making your own programming language is easier than you think (but also harder)",
-      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-07T13:01:21+00:00",
+      "published": "2026-05-07T15:34:04+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -525,28 +597,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "c6f30bdc225d7039dcaad39e146f6340",
-      "title": "The One Dollar Counterfeiter",
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-07T12:40:35+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "bced32650f0274558e5449b1ac8753d5",
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-07T12:09:47+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "a9ee44067683a2d52934d23ca73c2058",
@@ -604,39 +654,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "c8900aee9198d0b090ab943b2bf0e3d1",
-      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T17:52:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "901972c3f09564763604f4996b0f5f8b",
-      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
-      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T17:00:03+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a1daf48baff8d79951cb53bc26cabf41",
-      "title": "We see something that works, and then we understand it",
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-06T15:15:23+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "921b1323085166833415aee2ebc256b6",
@@ -834,17 +851,6 @@
       ]
     },
     {
-      "id": "082e4b5b3206c16c5fe4591602213edc",
-      "title": "TeamPCP Weekly Analysis: 2026-W18 (2026-04-27 through 2026-05-03), (Mon, May 4th)",
-      "url": "https://isc.sans.edu/diary/rss/32950",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-05-04T17:12:18+00:00",
-      "summary": "Summary",
-      "tags": []
-    },
-    {
       "id": "5f0282436bb5e4e978d3a7b525be5758",
       "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
       "url": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
@@ -854,19 +860,6 @@
       "published": "2026-05-04T14:39:26+00:00",
       "summary": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
       "tags": []
-    },
-    {
-      "id": "26ca3c8df4e7676023ac153c0b679b3e",
-      "title": "DShield Honeypot Update, (Mon, May 4th)",
-      "url": "https://isc.sans.edu/diary/rss/32948",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-05-04T14:23:33+00:00",
-      "summary": "This week, I will release a few updates to our DShield honeypot. The update should happen automatically if you have \"automatic updates\" enabled on your system. There will be two major changes:",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "326eea6b7f06f5319062ef764f006ec2",
