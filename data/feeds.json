@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T08:47:39.107709+00:00",
+  "last_updated": "2026-05-17T09:05:56.215721+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
@@ -12,6 +12,206 @@
       "source_color": "#9b59b6",
       "published": "2026-05-18T13:00:00+00:00",
       "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+      "tags": []
+    },
+    {
+      "id": "40e4281777d3de7a565b004caae592ac",
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-17T08:00:04+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d485969f99d11818a710dc2a06ebc1da",
+      "title": "Ten Signs of Fascism. America has all of them",
+      "url": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-17T07:50:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "351a8c78e10c06bb34f7937b47caec21",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-17T06:17:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "fe2ed43ca678af1d81074633ebeb2fb2",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-17T01:25:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "602a222f0e6796be75f14a54a8022057",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-17T01:19:14+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "174d3af00670a3840f2958ea3e8dbb13",
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T22:45:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1e15594fce98063d7a495538945e93e2",
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T22:25:33+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9cbe2363eee406c8183444b5cefab2c2",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T22:23:50+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "30d9bc855bb8a8fca8d875b5c921544d",
+      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T21:25:07+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9e788aff73d450e691d7feb3471a4f21",
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-16T20:55:44+00:00",
+      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "ca3d22b0c7f2b648812410b97d372c3a",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T20:14:06+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "84d618770d3182aca624ed34d4cefe31",
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T18:16:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8295eb13b2dc4fce8f0405bc201fe5aa",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-05-16T14:15:37+00:00",
+      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "tags": []
+    },
+    {
+      "id": "2647bd3e0a2ad0dccbfc3a21c44cf690",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T12:06:21+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f2ae554d6d69eec78974d8ce44040c2d",
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T11:36:32+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "19689632479d42ad6aa7918b05d3cea6",
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T09:30:06+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "071ba7bf1560bdcbdbd48ee739600841",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T09:14:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2ee50eabcd524750837e92c71d47b151",
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-16T08:25:17+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -37,96 +237,6 @@
       "tags": []
     },
     {
-      "id": "146e71b8486c23caae27730a63a4fbe8",
-      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
-      "url": "https://ljtn.github.io/epiq/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-16T00:18:03+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3936258e89e86a23c22853646914965a",
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T23:37:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e991a78422016f0ab2da4a44c36dbfae",
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T23:33:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "2e556a08ce170db6e7ea5fa821a67ec4",
-      "title": "SQL patterns I use to catch transaction fraud",
-      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T23:22:30+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "d82dee5b6295b083d95bdd7dcbd5b368",
-      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
-      "url": "https://github.com/chiennv2000/orthrus",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T22:38:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c2d906312bafaedfaa0f85281e2e46d3",
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T22:23:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "0fa3fe1131736ad68a13ad4458a4d266",
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T20:26:47+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "838c6602c4af24c12f1948e8ff93c1e3",
-      "title": "California bill would require patches or refunds when online games shut down",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T19:48:48+00:00",
-      "summary": "Comments",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "afb5616051f725feb59250e5d47cbf48",
       "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
       "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
@@ -135,17 +245,6 @@
       "source_color": "#4a9eff",
       "published": "2026-05-15T19:30:33+00:00",
       "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-      "tags": []
-    },
-    {
-      "id": "134c40e3de6a43e084cae2ff1fe07c18",
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T18:37:01+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -162,17 +261,6 @@
       ]
     },
     {
-      "id": "516f21667aa22e6780dbb20a1a046e5a",
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T17:15:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "7331c457b54df05247d0f40de9eca3fd",
       "title": "Popular node-ipc npm package compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
@@ -181,17 +269,6 @@
       "source_color": "#4a9eff",
       "published": "2026-05-15T17:10:42+00:00",
       "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-      "tags": []
-    },
-    {
-      "id": "6e47c98b585aa8572fa04987cc651441",
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T16:15:36+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -206,17 +283,6 @@
       "tags": []
     },
     {
-      "id": "dffb9b54ba3023bac67401e59e2d0e4c",
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "url": "https://github.com/neilsonnn/image-blaster",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T15:42:37+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "273e7bc3c0f2b6b9d615d5b844c1284d",
       "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
@@ -228,17 +294,6 @@
       "tags": []
     },
     {
-      "id": "d964d20b4eccc32ce53fc560d61528f8",
-      "title": "Additive Blending on the Nintendo 64",
-      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T14:39:51+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "803f445be5a9367a5d234c1ad2b1cb3c",
       "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
       "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
@@ -247,17 +302,6 @@
       "source_color": "#4a9eff",
       "published": "2026-05-15T14:02:12+00:00",
       "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-      "tags": []
-    },
-    {
-      "id": "6829a4b13e4b1c7abb1562d1bb3d1ed6",
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T13:39:54+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -296,17 +340,6 @@
       "tags": []
     },
     {
-      "id": "ed98e6f1b3d607d352c8be886a9f4d54",
-      "title": "The sigmoids won't save you",
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-15T10:51:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "c76cfc0839dab71c9edfe8a278cdca63",
       "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
@@ -320,6 +353,17 @@
       ]
     },
     {
+      "id": "0ff30d87eb78ee282ba1b96ff418ef78",
+      "title": "Citroën metropolis concept car (2010)",
+      "url": "https://www.citroenet.org.uk/prototypes/metropolis/metropolis1.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-15T09:18:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "ba15944b14d457dd0fca39766719f91e",
       "title": "Guest Diary New Malware Libraries means New Signatures, (Fri, May 15th)",
       "url": "https://isc.sans.edu/diary/rss/32986",
@@ -328,6 +372,17 @@
       "source_color": "#e74c3c",
       "published": "2026-05-15T06:38:33+00:00",
       "summary": "&&#x23 xd &&#x23 xd",
+      "tags": []
+    },
+    {
+      "id": "78363da6a969cea8e08fe5d07bcf1e8d",
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-15T04:32:21+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -353,6 +408,17 @@
       "tags": []
     },
     {
+      "id": "7fbd0942669a4539d13e8b5ea976c454",
+      "title": "XS Programming Language",
+      "url": "https://news.ycombinator.com/item?id=48143205",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-15T00:58:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "44ce1b2d2f3b2be27f1b28af1755ad2e",
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
@@ -364,6 +430,17 @@
       "tags": [
         "BREACH"
       ]
+    },
+    {
+      "id": "c8ee491489ac31f41d94090ec9c0bb6f",
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-14T22:30:16+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "66c1096625f8a2e225ca2157fbcd269f",
@@ -424,6 +501,17 @@
       ]
     },
     {
+      "id": "05778dc91bfa910a034e8ac1869fa056",
+      "title": "Illusions of Understanding in the Sciences",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-14T19:49:56+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "7edb19429daff7f56c437207ab542ae9",
       "title": "OpenAI confirms security breach in TanStack supply chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
@@ -450,6 +538,17 @@
       ]
     },
     {
+      "id": "d967bc2eda89faf3b17b8cf12d4954e7",
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-14T18:43:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "821f70888b0b84a0aba1cf5ad4a2ac45",
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
@@ -469,39 +568,6 @@
       "source_color": "#2ecc71",
       "published": "2026-05-14T16:01:06+00:00",
       "summary": "This is a current list of where and when I am scheduled to speak: I’m giving a virtual talk on “The Security of Trust in the Age of AI,” hosted by the Financial Women’s Association of New York , at 6:00 PM ET on May 21, 2026. I’m speaking at the Potsdam Conference on National Cybersecurity at the Hasso Plattner Institut in Potsdam, Germany. The eve…",
-      "tags": []
-    },
-    {
-      "id": "a7fe37d873a31cb8ee40041fe95abd5c",
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-14T15:43:41+00:00",
-      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
-      "tags": []
-    },
-    {
-      "id": "e9237d79b4e6bf79ecd63d65197c480c",
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-05-14T15:21:32+00:00",
-      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
-      "tags": []
-    },
-    {
-      "id": "2acaf6636442f38215430f33671f7a9e",
-      "title": "Naturally Occurring Quasicrystals",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-14T14:32:46+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -529,17 +595,6 @@
       ]
     },
     {
-      "id": "1ef0ffbe1f635624b40b0591bc048644",
-      "title": "Research on mildew contamination affecting the sound quality of analog tapes",
-      "url": "https://www.nature.com/articles/s40494-026-02592-7",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-14T11:55:43+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "49b5aa16ea8807cc0f1e5a34ea3390d8",
       "title": "How Dangerous Is Anthropic’s Mythos AI?",
       "url": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
@@ -551,17 +606,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "cdd2b7b6de5277e2ad33ce86cbf75528",
-      "title": "The bird eye was pushed to an evolutionary extreme",
-      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-14T07:17:16+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "5638ccb16bd80cfd3e7f23bf577d6c7d",
@@ -583,17 +627,6 @@
       "source_color": "#e74c3c",
       "published": "2026-05-14T04:20:11+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "612da06cb8c9706803bab4b8fc88cdf7",
-      "title": "Gaining control of every projector and camera on campus",
-      "url": "https://www.edna.land/blogs/posts/scanning/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-14T02:37:22+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -644,24 +677,13 @@
       "tags": []
     },
     {
-      "id": "d1eb5c888767870e6bd1c0e34e8b334c",
-      "title": "EMiX: Emulating Beyond Single-FPGA Limits",
-      "url": "https://arxiv.org/abs/2604.27012",
+      "id": "1bf5e473eaba9b9678a97f54d8279f05",
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-05-13T14:47:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a96633116f8d3dd5f34dc0a8afd81b2e",
-      "title": "ESP-EEG is an affordable 8-channel biosensing board",
-      "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-13T13:00:09+00:00",
+      "published": "2026-05-13T16:09:00+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -710,17 +732,6 @@
       "tags": []
     },
     {
-      "id": "d4d3d0cef937f2e890777bdf3cdcb182",
-      "title": "England Runestones",
-      "url": "https://en.wikipedia.org/wiki/England_runestones",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-13T06:25:01+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "ba8be069c18ab46be6850d0e605f3b28",
       "title": "ISC Stormcast For Wednesday, May 13th, 2026 https://isc.sans.edu/podcastdetail/9930, (Wed, May 13th)",
       "url": "https://isc.sans.edu/diary/rss/32984",
@@ -740,17 +751,6 @@
       "source_color": "#e74c3c",
       "published": "2026-05-13T01:20:35+00:00",
       "summary": ".. if unproxyable is a word that is ..",
-      "tags": []
-    },
-    {
-      "id": "5fc7845b3009094740dc3bec5adb0465",
-      "title": "I Bought a “Junk” PSP From Japan",
-      "url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-12T22:26:51+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -781,17 +781,6 @@
       ]
     },
     {
-      "id": "7ccb7573406d82042ce2100d6bceeffa",
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-05-12T20:39:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "2a344fb34ba891e04aca23698c1b15e4",
       "title": "Microsoft May 2026 Patch Tuesday, (Tue, May 12th)",
       "url": "https://isc.sans.edu/diary/rss/32980",
@@ -803,6 +792,17 @@
       "tags": [
         "PATCH"
       ]
+    },
+    {
+      "id": "57d1a52f8b886503ab0e274fca18ad69",
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-05-12T15:28:31+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "345d7d93a5a491bbda88ea5fd1932ec9",
