@@ -1,159 +1,286 @@
 {
-  "last_updated": "2026-06-07T10:05:15.942342+00:00",
+  "last_updated": "2026-06-08T11:58:10.301350+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "b291182be44f6dc65f392b2a309a9ec3",
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
+      "id": "a0ac83a8d9ffd03d6c3c998f74577157",
+      "title": "Oxford University discloses data breach after careers platform hack",
+      "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-08T11:14:41+00:00",
+      "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "ec4203aea884aca414a59555956cf59d",
+      "title": "Anthropic’s Project Glasswing Update",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-06-08T11:01:47+00:00",
+      "summary": "In April, Anthropic initated Project Glasswing . The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic s claims that it s now common wisdom that Mythos is better at finding software vulnerabilities than other…",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "daac7207737a3ff96346aff57c5d62b5",
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "url": "https://safedep.io/config-files-that-run-code/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T05:47:54+00:00",
+      "published": "2026-06-08T09:35:19+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "90ca8d3ced0f85f42a8ccc6d9bd25139",
-      "title": "I design with Claude more than Figma now",
-      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "id": "bebd561ca7dd30422e43dc18ed126460",
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T05:04:24+00:00",
+      "published": "2026-06-08T08:32:52+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "6390c07cf5168362f7d79f0611194c57",
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "id": "4e6c9d8be8dc636b5bc3a1b981e3384c",
+      "title": "OneDrive data now has an expiry date",
+      "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T03:21:52+00:00",
+      "published": "2026-06-08T08:11:24+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "75471a6be22c280a3ce9d3a532e132a3",
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "id": "3e4b98845178328ac551aa237118fa6e",
+      "title": "The EU Open Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T02:46:37+00:00",
+      "published": "2026-06-08T08:00:01+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "3e4b82be04cc2f6737227336c34bcdac",
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "id": "2743779ed6906e6e5446d74192801016",
+      "title": "Age verification tech could put children at greater risk, says think tank",
+      "url": "https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T02:12:19+00:00",
+      "published": "2026-06-08T07:40:27+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "a273f1e4d439628eb4b228c9b9b71c48",
-      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "url": "https://github.com/sauravrao637/oproxy",
+      "id": "d31431f5479ba82993276d3354f461dc",
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T02:11:29+00:00",
+      "published": "2026-06-08T06:56:06+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "39eea90dbdc29a33debf6955e38e9f0c",
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
+      "id": "b3da4125bc01c47f6169dd245e5d9ed0",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-08T06:00:27+00:00",
+      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "tags": []
+    },
+    {
+      "id": "647eb4d08b29689cb95289c9c0015b01",
+      "title": "Richard Scolyer Has Died",
+      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T01:37:11+00:00",
+      "published": "2026-06-08T04:10:08+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "2449056cf32121ae90795c0199a56cd6",
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
+      "id": "873e07d6bb5901ecf01705beedceab26",
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-07T00:22:51+00:00",
+      "published": "2026-06-08T03:17:10+00:00",
+      "summary": "Comments",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "e44db6ea752a319640202d8e9d193f67",
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-08T02:42:24+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "4ef1f9f7722085ae23a3d6b638b6355d",
-      "title": "Human-Like Neural Nets by Catapulting",
-      "url": "https://gwern.net/llm-catapult",
+      "id": "faff9f0fc26e91695d27654a8967681b",
+      "title": "ISC Stormcast For Monday, June 8th, 2026 https://isc.sans.edu/podcastdetail/9962, (Mon, Jun 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33058",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-06-08T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "d15f82f18a4e5d0de1cdc2e849015b8e",
+      "title": "Algorithmic Monocultures in Hiring",
+      "url": "https://algorithmichiring.github.io/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T23:45:36+00:00",
+      "published": "2026-06-08T01:54:54+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "040be72b59702cc666c207d2cefb8c5d",
-      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
-      "url": "https://ataraxy-labs.github.io/sem/",
+      "id": "aa0b6aa0c21772fcd73317731e7c4fc4",
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T20:03:55+00:00",
+      "published": "2026-06-08T01:41:42+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "e0c52205400bfeab91a53cb8fd4dd62b",
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
+      "id": "fe24c2fa598615827264236f765bf0af",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T19:17:46+00:00",
+      "published": "2026-06-08T01:39:30+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "3c5baeffc5b7761a3106051c1e12751a",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "id": "c3146dfd132564edc8ed19bf3b343457",
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T18:35:27+00:00",
+      "published": "2026-06-08T01:27:22+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "4d9fadeb082c4f82059c082e8a765969",
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "url": "https://su3.io/posts/introducing-zeroserve",
+      "id": "1b45ac9b63d7e0ff3dccde865789fea2",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T14:59:43+00:00",
+      "published": "2026-06-08T00:28:37+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "bcffa4aa2b44b4001e91905be652efa7",
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "id": "c0ae1387a05c4e8365846a7c457db1e9",
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-06T14:34:20+00:00",
+      "published": "2026-06-08T00:17:45+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "02746a69533b66b9a111011ef859d08f",
+      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-07T23:20:02+00:00",
+      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+      "tags": []
+    },
+    {
+      "id": "94c3c63741a51ec059b640ff3a8c4fe5",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-07T18:33:07+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "213b359a895ab8015fd6c40610f99425",
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-07T18:15:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8e1be0ce669efcf871c51d816ee74043",
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+      "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-07T14:17:46+00:00",
+      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+      "tags": []
+    },
+    {
+      "id": "60bf91b4795059bbd989176969a14137",
+      "title": "Silent Ransom Group targets law firms with fake IT support calls",
+      "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-07T14:09:19+00:00",
+      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
+      "tags": []
+    },
+    {
+      "id": "b8754bcd3653ed42d6a2ce24daf34fe6",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-07T11:16:46+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -171,17 +298,6 @@
       ]
     },
     {
-      "id": "aaab49a61417b3dd09be7df7b2b0d711",
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-06T12:52:18+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "ac3e155e98a5d5ce6ea8dbe62ee7fdeb",
       "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
       "url": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
@@ -190,17 +306,6 @@
       "source_color": "#4a9eff",
       "published": "2026-06-05T21:54:42+00:00",
       "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
-      "tags": []
-    },
-    {
-      "id": "b357afa17917c6892f934c6118459b76",
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-05T20:06:36+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -230,17 +335,6 @@
       ]
     },
     {
-      "id": "cddfa4a4dcc6d85598d3b6d4f40a061f",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-05T18:20:06+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "5045e688925a9ade79aa05edd844c0d8",
       "title": "Chinese APT deploys new malware to keep access to hacked networks",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
@@ -263,13 +357,35 @@
       "tags": []
     },
     {
-      "id": "5e0664857a0a78b80a62180f6879d818",
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "id": "87125351a5a4d136b8ac9e1dca120589",
+      "title": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-05T17:13:59+00:00",
+      "published": "2026-06-05T17:41:58+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f5c1a042e18fdd513797ab732cf65e8d",
+      "title": "A Family Project (2022)",
+      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-05T15:15:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4920ca0005907562d70a8cbecf339d9a",
+      "title": "Playing with Vision Embeddings",
+      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-05T14:54:37+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -331,24 +447,13 @@
       "tags": []
     },
     {
-      "id": "4c373826f7a36d61bff8c00d32e08c5b",
-      "title": "Win16 Memory Management",
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "id": "cc09454d901d6d4a63e9a01564d8df57",
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-05T11:16:47+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3a3181806e7f4fb1f676be34aef12582",
-      "title": "Arithmetic Without Numbers – How LLMs Do Math",
-      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-05T10:19:39+00:00",
+      "published": "2026-06-05T08:08:33+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -361,6 +466,17 @@
       "source_color": "#e74c3c",
       "published": "2026-06-05T06:47:26+00:00",
       "summary": "A few months ago, I wrote a diary about a payload that was embedded into a JPEG picture. It was a MSI-branded background 1 . Yesterday, I spotted another one It seems that the technic is getting more and more popular. This time, it started with a mail containing a WeTransfer link.",
+      "tags": []
+    },
+    {
+      "id": "7e99f24d78a025975b0f657d2a3d7bed",
+      "title": "Show HN: I Derived a Pancake",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-05T06:42:42+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -387,17 +503,6 @@
       "source_color": "#e74c3c",
       "published": "2026-06-05T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "5ec76032da139815fa7c33bc4e610b27",
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-04T22:58:48+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -456,76 +561,6 @@
       "tags": []
     },
     {
-      "id": "cbd30d91620993db985cf7b506049107",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-04T20:47:16+00:00",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "tags": []
-    },
-    {
-      "id": "bccf1c3164478e840411365b9b7d254b",
-      "title": "DentaQuest data breach exposed info of 2.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-04T18:36:27+00:00",
-      "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "15d8d8f780b08ed9c8120fa86591a9f6",
-      "title": "Games Between Programs: The Ruliology of Competition",
-      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-04T17:54:28+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "eabdddc01be9f53f210b993f99d27aa9",
-      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
-      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-04T16:38:49+00:00",
-      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "df2a673a14c06b5613d9e6870d75ff57",
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-04T15:29:53+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "f8cdfe3339ff2d14c9708e278f166169",
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-04T15:25:37+00:00",
-      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
-      "tags": []
-    },
-    {
       "id": "b5d43e867ba2014b0ab3bcf26abd59e6",
       "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs",
       "url": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
@@ -537,17 +572,6 @@
       "tags": []
     },
     {
-      "id": "5856f746654ad4dc503593fe9fc449a3",
-      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-04T14:01:11+00:00",
-      "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
-      "tags": []
-    },
-    {
       "id": "f3515600bd1084c0b8b168a6e13190ea",
       "title": "Hacking Meta’s AI Chatbot",
       "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
@@ -556,6 +580,17 @@
       "source_color": "#2ecc71",
       "published": "2026-06-04T11:04:09+00:00",
       "summary": "Hackers are convincing Meta s AI support chatbot to let them take over other peoples accounts: A video posted on X showed the step-by-step process to hack someone s Instagram account. The hacker allegedly used a VPN to spoof the targets presumed location to avoid triggering Instagram s automated account protections. Then, the hacker opened a chat w…",
+      "tags": []
+    },
+    {
+      "id": "462f586ac428dfd2817f0b7f23540949",
+      "title": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-04T06:28:36+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -581,17 +616,6 @@
       "tags": []
     },
     {
-      "id": "7cdcc23fa3857689713817f9030231a3",
-      "title": "Biohub releases a world model of protein biology",
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-04T03:12:05+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "25c2c64bfbb143215d82b9ec10288d4b",
       "title": "ISC Stormcast For Thursday, June 4th, 2026 https://isc.sans.edu/podcastdetail/9958, (Thu, Jun 4th)",
       "url": "https://isc.sans.edu/diary/rss/33046",
@@ -611,17 +635,6 @@
       "source_color": "#9b59b6",
       "published": "2026-06-03T21:34:07+00:00",
       "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
-      "tags": []
-    },
-    {
-      "id": "e5675e09c67dd8845e6de0d174b3bfef",
-      "title": "My Software North Star",
-      "url": "https://kristoff.it/blog/north-star/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-03T20:16:07+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -657,6 +670,17 @@
       "source_color": "#9b59b6",
       "published": "2026-06-03T19:00:41+00:00",
       "summary": "A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
+      "tags": []
+    },
+    {
+      "id": "8c0ee2e773426466981c36f23145d6b1",
+      "title": "Spherical Voronoi Diagram",
+      "url": "https://www.jasondavies.com/maps/voronoi/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-03T15:32:12+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -899,17 +923,6 @@
       "tags": []
     },
     {
-      "id": "ddd4f5d91db2c52547e2d27a19632559",
-      "title": "Unidentified RAT pushes NetSupport RAT, (Mon, Jun 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33034",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-06-01T00:02:30+00:00",
-      "summary": "Introduction",
-      "tags": []
-    },
-    {
       "id": "5d2b04b085bad049f3001b5bbf090cc0",
       "title": "Friday Squid Blogging: Another Squid",
       "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html",
@@ -962,17 +975,6 @@
       "source_color": "#2ecc71",
       "published": "2026-05-27T14:02:44+00:00",
       "summary": "The 2025 Internet Crime Report was published a few weeks ago, but I only just saw it. Lots of interesting statistics. Press release . News articles .",
-      "tags": []
-    },
-    {
-      "id": "9dfd426c1c46067107dfc202dc15e1d8",
-      "title": "Identifying People Using Wi-Fi Routers",
-      "url": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-05-26T15:02:06+00:00",
-      "summary": "Not identifying people based on their use of Wi-Fi routers, but identifying people using Wi-Fi signals . This is accomplished through what is known as WiFi sensing , or the use of WiFi signals to infer information about a physical environment. When radio signals like WiFi travel through a space, they interact with the objects and people around them…",
       "tags": []
     },
     {
