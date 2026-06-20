@@ -1,8 +1,245 @@
 {
-  "last_updated": "2026-06-19T11:23:40.684054+00:00",
+  "last_updated": "2026-06-20T10:08:50.685701+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
+    {
+      "id": "65b502da4928be7ebf375d041d875f54",
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T05:33:59+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a107aaac2a051676d2074cc8d75e845a",
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T04:07:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "03237db1be47df21098c8a5a5a86487a",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T03:36:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1b1fd40c34f847a49c3bf22cbbdae18f",
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T22:31:04+00:00",
+      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "53468afad3a347cefa0082c356d92b5c",
+      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-06-19T21:03:48+00:00",
+      "summary": "Dolphins, sharks, turtles, and human workers are all victims of unregulated squid fishing fleets. Another news article . As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "8dc3a3d3ce04a947fcbad9bd346c62fd",
+      "title": "Surprising economics of load-balanced systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T20:30:59+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3912158d914e5a07d4ee6c05cf25d08e",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T20:25:02+00:00",
+      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+      "tags": []
+    },
+    {
+      "id": "be9ecced1e3009445fd14ec0511e5b80",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T19:35:15+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "301d976a6e49e9cb7b6659858e7296f1",
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T17:53:00+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8048e1a365c1ac260e2cea56925e3ce7",
+      "title": "Court Records Should Be Free",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T17:34:18+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "568d3932b158cc6005f34bf71c02bf85",
+      "title": "AURpocalypse now: a look at the recent AUR attacks",
+      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T16:59:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "359a8d1c31d49cae350c40b2ed8adc6d",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T16:28:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "12cc54355addb3b6372679b436fc9ff3",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T16:12:41+00:00",
+      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "89a83bf2a75cf33eedd8e5d569e9341c",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T16:11:25+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "deade1e4e10ee305bf3746cfd031e720",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T16:03:15+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7ce0b1f27241a195d27fc6cb2df02f71",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T15:10:02+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7a508986bc6515abbdde6ffdbbb102bf",
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T13:51:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b83855c5e359b27aeb3588f2062bac48",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T13:10:19+00:00",
+      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
+      "tags": []
+    },
+    {
+      "id": "e4376dcf8590cd2da00fbe17045cd261",
+      "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+      "url": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-06-19T13:00:00+00:00",
+      "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+      "tags": []
+    },
+    {
+      "id": "53e3022f69882cc06e7a7e6ae1325767",
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T12:12:20+00:00",
+      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
+      "tags": []
+    },
+    {
+      "id": "932b681fafbc72dac7ec42692cd9a952",
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-19T11:32:34+00:00",
+      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "640a57d33ce439d3eb0ae3e767f2567e",
       "title": "Anthropic’s Fable and the State of AI",
@@ -26,17 +263,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "4cba1ab56e586590193aa3707cc39a1f",
-      "title": "Norway greenlights first full-scale ship tunnel",
-      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T10:16:10+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "235fde603d6f70f2b7f3aa6213569e4f",
@@ -85,61 +311,6 @@
       "tags": []
     },
     {
-      "id": "6b3258e8737399539ac3aa2e242fcaf8",
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T06:05:01+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "71d703ec98a84caf5a858591de7347f3",
-      "title": "Ice water drowning survival of young patient (2025)",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T03:50:25+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "b9c0b15dfb359dbc6aad4d6da049d09c",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T01:06:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a0d9bbf61ced68945129c82084f24a07",
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "url": "https://www.flexport.com/company/careers/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T01:01:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "dec972a85618a8559acefc352f9e06f4",
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T23:08:35+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "5bf0c00d6c0221e97704be3b855a535c",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
@@ -151,17 +322,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "e4922565bf91b13bbb74e0b12aaaa034",
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T21:54:10+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "eec0a4c620496ea39e9e23cd2b07a1b1",
@@ -254,17 +414,6 @@
       "tags": []
     },
     {
-      "id": "c287befe6b422887a2d2ea022e519f31",
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T14:24:30+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "08da26aacf86bc926435968d5e886c5f",
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
@@ -300,17 +449,6 @@
       "tags": []
     },
     {
-      "id": "60b39acb7bf9cc3d5139250c1bfe70b7",
-      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T13:10:44+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "7781847fd92bd5503db959bc77959ef9",
       "title": "Get Out of Security Debt by Tackling the Exposure Problem",
       "url": "https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem",
@@ -324,104 +462,6 @@
       ]
     },
     {
-      "id": "a2437a3c3a11bca31fa6a203271afaeb",
-      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T12:55:36+00:00",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "edecd6d0db5480b9a5486836d9e543de",
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T12:54:39+00:00",
-      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "0937462ed37f48263d188bcbcc907302",
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T12:46:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "15d6c6d9ce5de4125264b6e05c04d3af",
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T12:23:58+00:00",
-      "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "0f99ac8a3c42777a28a6976c2e829f76",
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T12:18:49+00:00",
-      "summary": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "71ed7c4e1bbc227e93d6b0861987fd4d",
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T11:45:43+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3b47df7d8aa1e12162ef432610a07144",
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T11:33:00+00:00",
-      "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "9c690dab56209278aacc609027b86ab7",
-      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T11:04:31+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "f488b36a22291065b94ec439d56cc081",
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
@@ -433,39 +473,26 @@
       "tags": []
     },
     {
-      "id": "e53b83b1b288b8fff4241e0216bdcbf7",
-      "title": "Hospitals and universities repurposing drugs at lower cost",
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "id": "010676714b0cac2427ca7ae072fbe0f1",
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-18T10:33:22+00:00",
+      "published": "2026-06-18T08:16:20+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "3a2cac8b384a69aa740e50107ab8d52a",
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "id": "dbfc228e7c09a03531c837c529611e3a",
+      "title": "A Perceptron in Age of Empires II",
+      "url": "https://adewynter.github.io/notes/aoe2-circuits",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-18T10:29:20+00:00",
+      "published": "2026-06-18T07:50:12+00:00",
       "summary": "Comments",
       "tags": []
-    },
-    {
-      "id": "d00184687348ba400f53710fcf17839b",
-      "title": "Microsoft fixes Windows Server 2016 security update failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T10:14:20+00:00",
-      "summary": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "289a42ff7b3b727d5557506f46372ab2",
@@ -536,13 +563,13 @@
       "tags": []
     },
     {
-      "id": "cfd91b229d18a6cb58e540f6b7dd72cd",
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
+      "id": "96ac23bd146eb21c688d7d836ef701be",
+      "title": "The discovery that changed how scientists think about memory",
+      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-17T14:03:58+00:00",
+      "published": "2026-06-17T11:09:29+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -591,6 +618,17 @@
       "tags": []
     },
     {
+      "id": "be7e598a3f7220c4f305d34a17fd1b3c",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-16T22:23:04+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "e35b71b9c7182cbffc58ecf2ebe0c0a7",
       "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
       "url": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
@@ -602,6 +640,17 @@
       "tags": []
     },
     {
+      "id": "d0d63c1c075e98f31eee8109424dc5a6",
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-16T21:51:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "10055f2300e50bf96e6968908788b410",
       "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
       "url": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
@@ -610,6 +659,17 @@
       "source_color": "#9b59b6",
       "published": "2026-06-16T20:11:48+00:00",
       "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "621c369bb66f499bb213bc11b74b30b6",
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "url": "https://ironicsans.ghost.io/the-color-strike/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-16T18:24:39+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -638,13 +698,13 @@
       ]
     },
     {
-      "id": "b179b7d3ae0d05d544728428feb43ec5",
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "id": "a95b1da98ceab1fad4e7fcbde1874994",
+      "title": "Soccer Arcade Games Through the Years",
+      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-16T11:07:08+00:00",
+      "published": "2026-06-16T14:30:12+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -657,6 +717,17 @@
       "source_color": "#2ecc71",
       "published": "2026-06-16T11:03:31+00:00",
       "summary": "There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people . Alternate link .",
+      "tags": []
+    },
+    {
+      "id": "c6c0f806a16262613e7415fc51d35f15",
+      "title": "What Happens When Your Domain Expires",
+      "url": "https://urlwatch.io/blog/what-happens-when-domain-expires.php",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-16T08:32:13+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -693,24 +764,13 @@
       "tags": []
     },
     {
-      "id": "558d32830c0c1b901aa5d96a2cdaad4e",
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "id": "c7ba94348bd7a89db8c2a447d17292ee",
+      "title": "Egyptian Fractions (2006)",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-15T22:36:33+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "f61269e8abce77ace062fdc5db08ffdd",
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T20:51:54+00:00",
+      "published": "2026-06-15T23:37:54+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -740,17 +800,6 @@
       ]
     },
     {
-      "id": "b63198e0b4b7be67d569673572defa38",
-      "title": "If your product is Great, it doesn't need to be Good (2010)",
-      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T17:26:52+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "4962fb56c8ac0c9b40ee0247e14bf1c4",
       "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
       "url": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
@@ -775,17 +824,6 @@
       "tags": []
     },
     {
-      "id": "5b4f43138cc5b0fc213db935d3da6ca2",
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T16:06:22+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "c2cbd6d15705092707f5224bac592b9f",
       "title": "The Beginning of the End of Social Engineering",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
@@ -794,28 +832,6 @@
       "source_color": "#9b59b6",
       "published": "2026-06-15T15:08:32+00:00",
       "summary": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-      "tags": []
-    },
-    {
-      "id": "4ed3ecc3e8fb7475786fc59748f0e331",
-      "title": "The Raku Foundation is born",
-      "url": "https://raku.foundation",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T14:36:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6e5858031c787dbeddb9d6aaac6867c8",
-      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T13:35:23+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -953,17 +969,6 @@
       "tags": []
     },
     {
-      "id": "bd901e09b5592b076e8878ee4533dd7d",
-      "title": "Segmentation Works for OT If Operators Are Paying Attention",
-      "url": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-06-11T14:51:48+00:00",
-      "summary": "Even the best segmentation strategy will fall apart without constant oversight and disciplined operations.",
-      "tags": []
-    },
-    {
       "id": "a3216421d532ab5eb661afcf4fd8b325",
       "title": "Enhanced License Plate Tracking",
       "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
@@ -986,17 +991,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "92314984c6da1aa52fd76f835ccd5f6f",
-      "title": "NSO Group Hacking WhatsApp Despite Court Order",
-      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-06-10T11:08:59+00:00",
-      "summary": "WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
-      "tags": []
     },
     {
       "id": "213876dbb156473d0909768f5a7305cb",
