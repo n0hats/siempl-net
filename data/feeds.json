@@ -1,38 +1,205 @@
 {
-  "last_updated": "2026-06-20T10:08:50.685701+00:00",
+  "last_updated": "2026-06-21T10:29:36.297602+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "65b502da4928be7ebf375d041d875f54",
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "id": "ddbb96b980d94c5d41648edd78c95858",
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T05:33:59+00:00",
+      "published": "2026-06-21T08:21:22+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "a107aaac2a051676d2074cc8d75e845a",
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "id": "e433105cd6c0f0f811d6090e11bd5870",
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T04:07:03+00:00",
+      "published": "2026-06-21T08:04:54+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "03237db1be47df21098c8a5a5a86487a",
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "id": "a9e75c753b2f9b70361e8aa7daf6668b",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T03:36:49+00:00",
+      "published": "2026-06-21T06:24:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "65411946b238acf3fdad4c918b3e7942",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T04:28:39+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f208560178c90ab6234e1085e633e816",
+      "title": "Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T04:02:08+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "dab11b5beb8c504191dd6d10077eab66",
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T01:35:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "052a30c7a5b36f4af2a0de12f6298e8c",
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T00:58:13+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6e70f48cceac3aac9064167890da8446",
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T23:07:09+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "dc20851c2b48c21a11ff562db5edf931",
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T22:54:11+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "cccc46bd6d982e32e61699ba77527502",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T22:22:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8331b567ff2e1d6509ad365958361c36",
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T20:05:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c75edcbe8313f72c367ed060e3de44bc",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T17:04:24+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5a60fcd9ee73131ee31becdb8c6eab6b",
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T17:01:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8b5688190b3d8ea01f6592aefece5145",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-20T15:23:46+00:00",
+      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "18af52ad9fea716440b3febee6bd8eb5",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T15:10:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6dc962b757f829c626cf588d6e969168",
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-20T14:09:19+00:00",
+      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+      "tags": []
+    },
+    {
+      "id": "85a07497876c90a0e4a9a5834cf44fe4",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T12:08:23+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ca4348dd926dfed9d76d8ed1ca19d9bf",
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T11:55:03+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -61,17 +228,6 @@
       "tags": []
     },
     {
-      "id": "8dc3a3d3ce04a947fcbad9bd346c62fd",
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T20:30:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "3912158d914e5a07d4ee6c05cf25d08e",
       "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
@@ -83,57 +239,13 @@
       "tags": []
     },
     {
-      "id": "be9ecced1e3009445fd14ec0511e5b80",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "id": "6115619d3c394e56f755ee397e10eaa7",
+      "title": "Proportional-Integral-Derivative Controllers",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-19T19:35:15+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "301d976a6e49e9cb7b6659858e7296f1",
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T17:53:00+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8048e1a365c1ac260e2cea56925e3ce7",
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T17:34:18+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "568d3932b158cc6005f34bf71c02bf85",
-      "title": "AURpocalypse now: a look at the recent AUR attacks",
-      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T16:59:16+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "359a8d1c31d49cae350c40b2ed8adc6d",
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T16:28:20+00:00",
+      "published": "2026-06-19T16:28:19+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -151,46 +263,13 @@
       ]
     },
     {
-      "id": "89a83bf2a75cf33eedd8e5d569e9341c",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "id": "d3515c14aec0b17fb2859923ed8e4a20",
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-19T16:11:25+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "deade1e4e10ee305bf3746cfd031e720",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T16:03:15+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7ce0b1f27241a195d27fc6cb2df02f71",
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T15:10:02+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7a508986bc6515abbdde6ffdbbb102bf",
-      "title": "How many of the 170k English words do you know?",
-      "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T13:51:36+00:00",
+      "published": "2026-06-19T15:13:11+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -300,17 +379,6 @@
       ]
     },
     {
-      "id": "b72492024c5b64de21d11363ce748690",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-19T06:35:57+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "5bf0c00d6c0221e97704be3b855a535c",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
@@ -322,6 +390,17 @@
       "tags": [
         "RANSOMWARE"
       ]
+    },
+    {
+      "id": "310d1387fab875fff8a70c5064f48a41",
+      "title": "Guide to the TD4 4-bit DIY CPU",
+      "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-18T20:44:00+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "eec0a4c620496ea39e9e23cd2b07a1b1",
@@ -403,17 +482,6 @@
       "tags": []
     },
     {
-      "id": "c8d50b44fc7057ce60ea39ef80a4c4bb",
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T14:51:53+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "08da26aacf86bc926435968d5e886c5f",
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
@@ -425,28 +493,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "b26a61d2dd0891654bb6d85bf8d6006f",
-      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-      "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T13:48:56+00:00",
-      "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]",
-      "tags": []
-    },
-    {
-      "id": "1030e126505816292249d0a2e8513726",
-      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-      "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T13:25:47+00:00",
-      "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
-      "tags": []
     },
     {
       "id": "7781847fd92bd5503db959bc77959ef9",
@@ -462,6 +508,17 @@
       ]
     },
     {
+      "id": "160911aa213f7a416d5b0beb78588cb0",
+      "title": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-18T12:22:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "f488b36a22291065b94ec439d56cc081",
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
@@ -473,24 +530,24 @@
       "tags": []
     },
     {
-      "id": "010676714b0cac2427ca7ae072fbe0f1",
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "id": "394de4742d2a0ddff880b61a0f26299b",
+      "title": "Excessive nil pointer checks in Go",
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-18T08:16:20+00:00",
+      "published": "2026-06-18T10:36:32+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "dbfc228e7c09a03531c837c529611e3a",
-      "title": "A Perceptron in Age of Empires II",
-      "url": "https://adewynter.github.io/notes/aoe2-circuits",
+      "id": "c18f7c6d7ddb50ccdb98aa7e258c1fcd",
+      "title": "Whole cross-sectional human ultrasound tomography",
+      "url": "https://www.nature.com/articles/s41551-026-01660-4",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-18T07:50:12+00:00",
+      "published": "2026-06-18T09:23:16+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -528,6 +585,17 @@
       "tags": []
     },
     {
+      "id": "0d252617275f0269a4c12ea7534e68f1",
+      "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+      "url": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-17T22:07:02+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "4f14539838a4996b30ef861994604316",
       "title": "INC Ransomware Thrives by Mastering the Basics",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
@@ -539,6 +607,17 @@
       "tags": [
         "RANSOMWARE"
       ]
+    },
+    {
+      "id": "87a87691f012dbd462dccde2fcca4adb",
+      "title": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-17T17:43:22+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "194966822e3fb2d0f74a876a5ddeb49e",
@@ -563,17 +642,6 @@
       "tags": []
     },
     {
-      "id": "96ac23bd146eb21c688d7d836ef701be",
-      "title": "The discovery that changed how scientists think about memory",
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-17T11:09:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "20448051362ea4147c6e02fc7d2419c3",
       "title": "AI Use by the US Government",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
@@ -582,6 +650,17 @@
       "source_color": "#2ecc71",
       "published": "2026-06-17T11:04:04+00:00",
       "summary": "On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden administrat…",
+      "tags": []
+    },
+    {
+      "id": "510e69e0424741e0f0c1d3ce28723648",
+      "title": "A tale of two path separators",
+      "url": "https://alexwlchan.net/2021/slashes/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-17T10:14:53+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -618,17 +697,6 @@
       "tags": []
     },
     {
-      "id": "be7e598a3f7220c4f305d34a17fd1b3c",
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T22:23:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "e35b71b9c7182cbffc58ecf2ebe0c0a7",
       "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
       "url": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
@@ -640,17 +708,6 @@
       "tags": []
     },
     {
-      "id": "d0d63c1c075e98f31eee8109424dc5a6",
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T21:51:57+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "10055f2300e50bf96e6968908788b410",
       "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
       "url": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
@@ -659,17 +716,6 @@
       "source_color": "#9b59b6",
       "published": "2026-06-16T20:11:48+00:00",
       "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
-      "tags": []
-    },
-    {
-      "id": "621c369bb66f499bb213bc11b74b30b6",
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T18:24:39+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -698,17 +744,6 @@
       ]
     },
     {
-      "id": "a95b1da98ceab1fad4e7fcbde1874994",
-      "title": "Soccer Arcade Games Through the Years",
-      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T14:30:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "98ccbcf0d677b7977dfdd0be137f40a0",
       "title": "Flock Cameras Are Being Used for Stalking",
       "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
@@ -717,17 +752,6 @@
       "source_color": "#2ecc71",
       "published": "2026-06-16T11:03:31+00:00",
       "summary": "There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people . Alternate link .",
-      "tags": []
-    },
-    {
-      "id": "c6c0f806a16262613e7415fc51d35f15",
-      "title": "What Happens When Your Domain Expires",
-      "url": "https://urlwatch.io/blog/what-happens-when-domain-expires.php",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T08:32:13+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -750,28 +774,6 @@
       "source_color": "#e74c3c",
       "published": "2026-06-16T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "bce649a7bcab3c1fcf6c3f9af53d7522",
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-16T00:45:50+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c7ba94348bd7a89db8c2a447d17292ee",
-      "title": "Egyptian Fractions (2006)",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-15T23:37:54+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
