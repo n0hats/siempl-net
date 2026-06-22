@@ -1,148 +1,214 @@
 {
-  "last_updated": "2026-06-21T10:29:36.297602+00:00",
+  "last_updated": "2026-06-22T12:50:00.263686+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "ddbb96b980d94c5d41648edd78c95858",
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "id": "da106a1848d509f0b04e2abfe82365a3",
+      "title": "Professional Athletes and Wearables",
+      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-06-22T11:02:55+00:00",
+      "summary": "I haven t thought about the privacy issues surrounding professional athletes and wearables. Wearables present serious privacy issues for Average Joe consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the stakes for a professional athlete, whose entire livelihood could be affected by a single biome…",
+      "tags": []
+    },
+    {
+      "id": "1480b925e54600e107b9ef98ad8c32cf",
+      "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+      "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T08:21:22+00:00",
+      "published": "2026-06-22T10:35:21+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "e433105cd6c0f0f811d6090e11bd5870",
-      "title": "A 3D voxel game engine written in APL",
-      "url": "https://github.com/namgyaaal/avoxelgame",
+      "id": "2b00c0817808d76ac8f7f2e2e6cac1ba",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T08:04:54+00:00",
+      "published": "2026-06-22T07:30:17+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "a9e75c753b2f9b70361e8aa7daf6668b",
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "id": "9cf50dac98bec3eb29a8cb42dc3c1b07",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T06:24:52+00:00",
+      "published": "2026-06-22T07:29:17+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "65411946b238acf3fdad4c918b3e7942",
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "id": "3bf232ebef4153a61be425223c95b5e6",
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T04:28:39+00:00",
+      "published": "2026-06-22T07:22:03+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "f208560178c90ab6234e1085e633e816",
-      "title": "Your brain was never designed for this much bad news",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "id": "691905f30bc7be7eab7455d16638ad58",
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T04:02:08+00:00",
+      "published": "2026-06-22T05:38:40+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "dab11b5beb8c504191dd6d10077eab66",
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "id": "0cd966d465988642bb32611bc19d582b",
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T01:35:40+00:00",
+      "published": "2026-06-22T04:50:26+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "052a30c7a5b36f4af2a0de12f6298e8c",
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "id": "1039cabbb76c4740c8e9146c357a7130",
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-21T00:58:13+00:00",
+      "published": "2026-06-22T02:08:18+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "6e70f48cceac3aac9064167890da8446",
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "id": "e2b345644c5d7b9f7ade3583de84ea80",
+      "title": "ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)",
+      "url": "https://isc.sans.edu/diary/rss/33092",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-06-22T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "963a38bbce8bba14ddd8908774645785",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T23:07:09+00:00",
+      "published": "2026-06-21T22:55:23+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "dc20851c2b48c21a11ff562db5edf931",
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "id": "35e25d4dec72c524abdb840057c6773a",
+      "title": "Japanese verb conjugation the simple hard way",
+      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T22:54:11+00:00",
+      "published": "2026-06-21T22:53:50+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "cccc46bd6d982e32e61699ba77527502",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "id": "9bd7a67eddd4600ae9805119c5d2a16e",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T22:22:52+00:00",
+      "published": "2026-06-21T21:40:53+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "8331b567ff2e1d6509ad365958361c36",
-      "title": "Unauthorized alert sent to cell phones across Brazil",
-      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "id": "ea5a45c3af5bf436808ac21b7abdc4ad",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T20:05:03+00:00",
+      "published": "2026-06-21T21:29:43+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "c75edcbe8313f72c367ed060e3de44bc",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "id": "e7bab2232f0d31e471b92d0ee7036a04",
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T17:04:24+00:00",
+      "published": "2026-06-21T21:10:32+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "5a60fcd9ee73131ee31becdb8c6eab6b",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "id": "a39868291eaf3a8b5c5a04311b6e901a",
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T17:01:36+00:00",
+      "published": "2026-06-21T20:56:01+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9ab140b948c262b27cc44ec247a53c05",
+      "title": "JSON-LD explained for personal websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T18:51:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9bd54d2b090f8ebb59864b1bc272c85a",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-06-21T14:14:22+00:00",
+      "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+      "tags": []
+    },
+    {
+      "id": "8b8c3ddbcc0446a48ac9b9c710bb5fff",
+      "title": "Show HN: Teach your kids perfect pitch",
+      "url": "https://github.com/paytonjjones/bsharp",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T12:49:48+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ead6b93e051102f593597f4685578b0f",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-21T12:44:13+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -160,17 +226,6 @@
       ]
     },
     {
-      "id": "18af52ad9fea716440b3febee6bd8eb5",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-20T15:10:03+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "6dc962b757f829c626cf588d6e969168",
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
@@ -182,24 +237,35 @@
       "tags": []
     },
     {
-      "id": "85a07497876c90a0e4a9a5834cf44fe4",
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
+      "id": "95b4dcf9dc62213c30fe57d053665a2f",
+      "title": "Lisp in the Rust Type System",
+      "url": "https://github.com/playX18/lisp-in-types/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T12:08:23+00:00",
+      "published": "2026-06-20T05:43:54+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "ca4348dd926dfed9d76d8ed1ca19d9bf",
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
+      "id": "9ab35c3e2b937f5b5524de6535835dc4",
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-20T11:55:03+00:00",
+      "published": "2026-06-20T03:29:19+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d4f488a27724a59d20c99c4ccfcb99da",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-20T01:55:16+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -239,13 +305,13 @@
       "tags": []
     },
     {
-      "id": "6115619d3c394e56f755ee397e10eaa7",
-      "title": "Proportional-Integral-Derivative Controllers",
-      "url": "https://en.wikipedia.org/wiki/PID_controller",
+      "id": "4ba04cccbfdb9160f5f59117ac75e1e7",
+      "title": "The Story of Semicolon",
+      "url": "https://sheets.works/data-viz/semicolon",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-19T16:28:19+00:00",
+      "published": "2026-06-19T18:47:37+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -263,13 +329,24 @@
       ]
     },
     {
-      "id": "d3515c14aec0b17fb2859923ed8e4a20",
-      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "id": "299189fcbd81ad70f88b3ea2d2b952bb",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-19T15:13:11+00:00",
+      "published": "2026-06-19T15:54:23+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b44a20f9e751ae3e861e4e24aa3a2a87",
+      "title": "My 1992 view of the problems of computer programming in 1992",
+      "url": "https://blog.plover.com/prog/fortran-i.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T14:30:46+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -379,6 +456,17 @@
       ]
     },
     {
+      "id": "7abf7ab4f0162f58a63e56566daaaab2",
+      "title": "Writing Postcards with a 3D Printer",
+      "url": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-19T00:20:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "5bf0c00d6c0221e97704be3b855a535c",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
@@ -390,17 +478,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "310d1387fab875fff8a70c5064f48a41",
-      "title": "Guide to the TD4 4-bit DIY CPU",
-      "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T20:44:00+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "eec0a4c620496ea39e9e23cd2b07a1b1",
@@ -424,6 +501,17 @@
       "source_color": "#9b59b6",
       "published": "2026-06-18T19:09:21+00:00",
       "summary": "The threat group's curious business model may combine opportunistic monetization alongside intel collection, without much coordination between the two.",
+      "tags": []
+    },
+    {
+      "id": "ee031e3b07dc878e8f37e9116f2f0680",
+      "title": "How I play video games with spinal muscular atrophy",
+      "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-06-18T18:45:03+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -482,19 +570,6 @@
       "tags": []
     },
     {
-      "id": "08da26aacf86bc926435968d5e886c5f",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-06-18T14:19:50+00:00",
-      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "7781847fd92bd5503db959bc77959ef9",
       "title": "Get Out of Security Debt by Tackling the Exposure Problem",
       "url": "https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem",
@@ -508,17 +583,6 @@
       ]
     },
     {
-      "id": "160911aa213f7a416d5b0beb78588cb0",
-      "title": "15-minute at-home Lyme disease tick test",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T12:22:36+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "f488b36a22291065b94ec439d56cc081",
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
@@ -527,28 +591,6 @@
       "source_color": "#2ecc71",
       "published": "2026-06-18T11:04:01+00:00",
       "summary": "At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details : The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-triggering content. Because it is inside a comment, it does not affect JavaScript…",
-      "tags": []
-    },
-    {
-      "id": "394de4742d2a0ddff880b61a0f26299b",
-      "title": "Excessive nil pointer checks in Go",
-      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T10:36:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c18f7c6d7ddb50ccdb98aa7e258c1fcd",
-      "title": "Whole cross-sectional human ultrasound tomography",
-      "url": "https://www.nature.com/articles/s41551-026-01660-4",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-18T09:23:16+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -585,13 +627,13 @@
       "tags": []
     },
     {
-      "id": "0d252617275f0269a4c12ea7534e68f1",
-      "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
-      "url": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+      "id": "eb96afc928a03a9127cf1e50ba40c5a9",
+      "title": "UTFS: A Tar-Like File System for Embedded Systems (2025)",
+      "url": "https://clisystems.com/article-UTFS-intro/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-06-17T22:07:02+00:00",
+      "published": "2026-06-18T00:41:52+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -607,17 +649,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "87a87691f012dbd462dccde2fcca4adb",
-      "title": "Zigzag Decoding with AVX-512",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-17T17:43:22+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "194966822e3fb2d0f74a876a5ddeb49e",
@@ -650,17 +681,6 @@
       "source_color": "#2ecc71",
       "published": "2026-06-17T11:04:04+00:00",
       "summary": "On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden administrat…",
-      "tags": []
-    },
-    {
-      "id": "510e69e0424741e0f0c1d3ce28723648",
-      "title": "A tale of two path separators",
-      "url": "https://alexwlchan.net/2021/slashes/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-06-17T10:14:53+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -927,17 +947,6 @@
       "tags": []
     },
     {
-      "id": "39296503e9317a974ecd092322279e9d",
-      "title": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
-      "url": "https://isc.sans.edu/diary/rss/33074",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-06-12T12:30:10+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "6066b3670bf5e636e92266d262cd5fc2",
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
       "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
@@ -968,17 +977,6 @@
       "source_color": "#9b59b6",
       "published": "2026-06-11T18:43:57+00:00",
       "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "tags": []
-    },
-    {
-      "id": "a3216421d532ab5eb661afcf4fd8b325",
-      "title": "Enhanced License Plate Tracking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-06-11T11:01:19+00:00",
-      "summary": "The surveillance company Leonardo wants more data : A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, poten…",
       "tags": []
     },
     {
