@@ -1,115 +1,253 @@
 {
-  "last_updated": "2026-07-19T09:04:20.991606+00:00",
+  "last_updated": "2026-07-20T10:11:12.503916+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
+      "id": "71992f465399a15e6347508dc8b4de58",
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-20T10:06:17+00:00",
+      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "99dbe3f9638e70cb69e05af7a87fe846",
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-20T09:29:20+00:00",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "tags": [
+        "CVE"
+      ]
+    },
+    {
+      "id": "58bfd998afbc47599e5875254d294487",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T08:13:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8c57a066ad3392bffd5acdef77ae3ed1",
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T04:45:15+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2d603aee23963ac63d1b2acefd8e1c8a",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T04:24:48+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "287dc4b7b5d389d8e86b19300ce21b5c",
+      "title": "When can a power company take your land for data center infrastructure?",
+      "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T04:19:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7419db4888d9cb78ed9bed0917db07c1",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T02:51:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "46dd4ee20608257359e97596be25cb41",
+      "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
+      "url": "https://isc.sans.edu/diary/rss/33166",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-20T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "10e8f8db374bb7e2863e758f513af1c5",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-20T00:16:50+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6d7f7bed44e04d2c6af48e3ae68183e1",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T19:13:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2e2bc6e71da83ad13726912509b486b1",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T18:57:01+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7e6afcb45ed4e7a365be9bc2adf6963e",
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T17:25:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ad76eea1bca5cdc4f02cd62c9f485485",
+      "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
+      "url": "https://isc.sans.edu/diary/rss/33164",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-19T15:00:38+00:00",
+      "summary": "We have been following issues with Hikvision cameras for a long, long time . Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.",
+      "tags": []
+    },
+    {
+      "id": "8f1e596996f16d3ed88a7668471e6709",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T14:41:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "636d6927a0079955cae7d465e42714dc",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-19T14:23:46+00:00",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "2475ace0e9afd966eb205be9c8651b98",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T13:29:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1b3ef0a649c3a0414abf997726ed59b5",
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T12:01:53+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0b4fb7fdaa784fdbc0d5bc08c7f39809",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T11:48:18+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b5b0f4e003d027d853d0bae88c3c8f50",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T11:14:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "262590a6eaebda6c24d68b2c62a48b5a",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T10:34:58+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a69cdbbe8c39ba8564588a956a3a51f4",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-19T10:03:23+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "c8b4b3d83f24e14547f205aa47853dac",
-      "title": "Qwen3.8 is launching and going open-weight soon",
+      "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
       "published": "2026-07-19T08:44:57+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "f57b1182fef9ff1f11ca9c158f858448",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-19T08:00:24+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "74e7ed5d35b82c1b37fc6f694864d5ad",
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-19T05:07:08+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "85b10e17a33b49b191548f780ceb893a",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-19T01:29:19+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1690c623113a8c4d37c56b9a9f698755",
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-19T00:59:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "4276818fd4632bbf0e6ad43686172905",
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-19T00:38:26+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "f0749cd9f30a40fadf7c28da2236d476",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T23:24:26+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "94b209d96e330ab37c2ce300c080fe50",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T22:13:39+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "dc996d8c198facf974c452efc27851f7",
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T21:55:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1de0d1c2053434a54d50de0172d54a1c",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T21:45:12+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -121,32 +259,10 @@
       "source_category": "news",
       "source_color": "#4a9eff",
       "published": "2026-07-18T19:32:02+00:00",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "a7a58eeb6e522a0175d0a776288cd75c",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T17:32:40+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7f324de620cb1b7fe5a39ff132d7b316",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T17:27:24+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "dae53909cc88f08b97d2b8f9944e2d14",
@@ -160,50 +276,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "86dcef5416f95e095fc1e85939bae541",
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T16:12:08+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8237a3e6579c0421fd6236ad771ca1f3",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T15:44:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e73d92dd02ac8a9ec26131b45c500409",
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T15:37:01+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3bace98b7eb742f16c2627ef82862ce5",
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T15:32:04+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "4d670530739e69fa6dfae9b6eafe583d",
@@ -225,17 +297,6 @@
       "source_color": "#4a9eff",
       "published": "2026-07-18T13:15:24+00:00",
       "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]",
-      "tags": []
-    },
-    {
-      "id": "da56b4ec122664954da647d3b152248d",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-18T13:00:52+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -418,30 +479,6 @@
       "tags": []
     },
     {
-      "id": "043ce4d04c228d8e0ae24725cecb2e53",
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-16T21:52:54+00:00",
-      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
-      "tags": []
-    },
-    {
-      "id": "7499f8a193dabf8f62cfd342333354b1",
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-16T21:09:41+00:00",
-      "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
       "id": "3a153b5cc93a56014bf6021450b4f32a",
       "title": "Agentic AI: Taming the Unpredictable",
       "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
@@ -464,14 +501,14 @@
       "tags": []
     },
     {
-      "id": "e47bfb83332c1efaed028dcbe80b8919",
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-16T19:26:07+00:00",
-      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+      "id": "aee338645f9f8886306fa9db12dc49f4",
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-16T16:50:32+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -505,6 +542,17 @@
       "source_color": "#e74c3c",
       "published": "2026-07-16T02:40:10+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "7b6a6cc1f13007bce257bd3bdd4e8d9b",
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-15T23:44:59+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -567,17 +615,6 @@
       ]
     },
     {
-      "id": "17dbe44ad715bd00a259dc64354383c6",
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-15T13:10:01+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "6cecd7ae6b013df170038b7987d29323",
       "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
       "url": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
@@ -597,6 +634,17 @@
       "source_color": "#2ecc71",
       "published": "2026-07-15T11:04:06+00:00",
       "summary": "Amazing : Researchers from ETH Zurich in Switzerland, however, managed to create a new type of pixel that can simultaneously do both. This hypercharged pixel, called a Fourier pixel, can generate and sense arbitrary light fields and tap into a pixel s full potential for carrying information by manipulating light s intensity, oscillation phases, and…",
+      "tags": []
+    },
+    {
+      "id": "864d79399fc35b758e22007beaf46b2a",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-15T08:35:46+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -646,6 +694,17 @@
       "tags": []
     },
     {
+      "id": "b420015ef1e6bfab4511c30a54f4cbae",
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-14T22:19:13+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "720cc4062c4a819535bf679fc34780b8",
       "title": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes",
       "url": "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes",
@@ -668,17 +727,6 @@
       "source_color": "#9b59b6",
       "published": "2026-07-14T19:58:31+00:00",
       "summary": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
-      "tags": []
-    },
-    {
-      "id": "d8fb288a83174b41cb64b3383c900b32",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-14T19:25:10+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -741,6 +789,17 @@
       "tags": []
     },
     {
+      "id": "11b196f8cd68a27902fffb054316cf83",
+      "title": "Eliminating Go bounds checks with unsafe",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-14T16:01:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "70a2087217a5294aa10d2a7097f3baa1",
       "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
@@ -754,6 +813,28 @@
       ]
     },
     {
+      "id": "c4a9f32000321ae7f76acf22ef080422",
+      "title": "Korg PS-3300 is back",
+      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-14T14:33:32+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "19278d01b6d0599da2001a078202a3a6",
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-14T14:23:26+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "5a8bc7137361c33ba97716f8f6ee5e2f",
       "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
       "url": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
@@ -765,17 +846,6 @@
       "tags": []
     },
     {
-      "id": "2a18e4ac5320ea72c709ed68a62c10bd",
-      "title": "Using self-hosted Umami for iOS app analytics",
-      "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-14T12:34:41+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "a594b12ab48437f91f883818919785e6",
       "title": "Vulnerability in FIFA’s Network",
       "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
@@ -784,17 +854,6 @@
       "source_color": "#2ecc71",
       "published": "2026-07-14T11:06:51+00:00",
       "summary": "FIFA s network was vulnerable to anyone with even minimal access.",
-      "tags": []
-    },
-    {
-      "id": "092082649750ac9db02591b8511f7d65",
-      "title": "Making Software: How to make a font",
-      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-14T09:41:29+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -831,28 +890,6 @@
       "tags": []
     },
     {
-      "id": "c34cf53ddb5c48ce51008b829b036479",
-      "title": "How the Elite See Rome",
-      "url": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-13T18:16:03+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "24375f049c8592d9bd31d43d6c3c79e2",
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-13T17:21:10+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "f1376037a624e23a1f8a3022f2524826",
       "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
@@ -875,17 +912,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "e8e8a56c575f383b6c5bcec1a004730d",
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-13T13:00:35+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "a9a6d0a90443f69d4ad4183ff670f156",
@@ -932,30 +958,6 @@
       "tags": []
     },
     {
-      "id": "b2f9018c8e5ce124fbcec7b19aeeb33b",
-      "title": "A Visual Catalog of Retro Macintosh Software",
-      "url": "https://www.marciot.com/mac68k-visual-catalog/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-12T00:22:14+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "04d926844e7ec7485cfc028637b44c4f",
-      "title": "Wireshark 4.6.7 Released, (Sat, Jul 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33146",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-11T09:07:06+00:00",
-      "summary": "Wireshark release 4.6.7 fixes 12 vulnerabilities and 16 bugs.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "46dbc825480802240835a50e1989d5bc",
       "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
@@ -969,14 +971,14 @@
       ]
     },
     {
-      "id": "013ee7e5dda499e2b0ec8bcc96f6b703",
-      "title": "My Stack Simulator, (Wed, Jul 8th)",
-      "url": "https://isc.sans.edu/diary/rss/33138",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-10T15:52:27+00:00",
-      "summary": "The stack is a memory region where a program stores temporary data -&&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 like local variables and return addresses. Think of the stack as a pile of plates in your kitchen: you can only add a new plate to the top, and you can only take one away from the top too. Programs use this same \"last in, first out\" princip…",
+      "id": "b03fcfa9b699975c3ce03e8e7e52576c",
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-10T15:44:36+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
