@@ -1,150 +1,260 @@
 {
-  "last_updated": "2026-07-26T09:12:29.011241+00:00",
+  "last_updated": "2026-07-27T10:42:50.505106+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "f98451746f8a503120e8347ef26aa7eb",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "id": "5340248e02c950af803eb1e6e5683131",
+      "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
+      "url": "https://isc.sans.edu/diary/rss/33188",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-27T10:04:51+00:00",
+      "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, core dumps, which are produced by binaries to expo…",
+      "tags": []
+    },
+    {
+      "id": "d10af500299c7138b6476fa6ae47d37c",
+      "title": "Chinese chipmaker shares surge 470%",
+      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T05:57:22+00:00",
+      "published": "2026-07-27T09:11:59+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "34f552dd97c65bd9adf0c550f6844880",
-      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-      "url": "https://github.com/mulfyx/w4me-station",
+      "id": "289c0542fb98b9290904da093038104f",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T04:19:59+00:00",
+      "published": "2026-07-27T08:43:11+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "16818787a51d83e82d1f22b1db7df689",
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
+      "id": "b605e00bfbbf2fc93f6da1b2547f168a",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T02:55:50+00:00",
+      "published": "2026-07-27T06:18:10+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "461018098e71f1bc8608227699de1d29",
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "id": "ca039042a786a541356196eaa0ea5697",
+      "title": "The old-school way of keeping the summer heat out of your home",
+      "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T02:35:43+00:00",
+      "published": "2026-07-27T02:33:22+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "698ebaaadefd9e6271418a18a6102ef3",
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
+      "id": "a5106e50291bb8d73f49659edeada411",
+      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
+      "url": "https://isc.sans.edu/diary/rss/33186",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-27T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "eeaa321cd070695cd56677c41dec9ee2",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T02:22:26+00:00",
+      "published": "2026-07-27T00:19:04+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "858d560c91992c9e0aeb09d8eb3e1332",
-      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "id": "5edb5377e8374c67c0b314a53d003cc4",
+      "title": "Fonts In Use – Find out where a font is used",
+      "url": "https://fontsinuse.com/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T01:35:03+00:00",
+      "published": "2026-07-26T23:45:09+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "9dc243de8f7a641a6fdff03cd707f195",
-      "title": "Git rebase -I is not that scary",
-      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "id": "062c9562666f71ed51e14ff2d28c46c2",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T00:37:54+00:00",
+      "published": "2026-07-26T22:46:10+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "485da066e08ea5a7fa1ddd47e8e5a650",
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "id": "0cfe9a49ca39ee3b4eb7854654b4f9ac",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T00:37:30+00:00",
+      "published": "2026-07-26T22:21:41+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "59618d4219cd59c135460654224e46dd",
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "id": "3dd7e1d3e9c486aa72e7409812794d95",
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T00:36:30+00:00",
+      "published": "2026-07-26T20:53:26+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "7d2d21f0d72920c59519d102a8e0ec51",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "id": "cc44ef51c68f5eb2f3b1209f5a769ded",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-25T23:32:50+00:00",
+      "published": "2026-07-26T20:02:15+00:00",
       "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "06d8e97a7fcf509b1e696da320fa4f1f",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T18:23:06+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "049f9ba83c8dcdc72f6b7f043c803249",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T18:11:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "74fa33b5f6bf39bbe96cff40faaf0fdd",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T17:49:44+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "da53476a4bf4719329cc97ab1c44cb1b",
+      "title": "How to write English prose (2023)",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T17:29:35+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a956f9e60dee497c843974b3e5a4afd4",
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T15:53:55+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "04a1803c5810b3f27b399b60ac549cc8",
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T15:51:12+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e6b1569021314179aaf4391b487301b5",
+      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+      "url": "https://isc.sans.edu/diary/rss/33184",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-26T15:26:14+00:00",
+      "summary": "ESAFENET&&#x23 x26 &#x23 39 s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market 1 . Sadly, like so many security products, it suffers from basic security vulnerabilitie…",
       "tags": [
         "BREACH"
       ]
     },
     {
-      "id": "37281e1df82078a4f899228c48e059dc",
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "id": "c8d5104cc7f3adcb581ed85b2758fda5",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-26T14:13:39+00:00",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "tags": []
+    },
+    {
+      "id": "ef89241e4bbdf94c825a98a75b2fc26a",
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-25T22:57:17+00:00",
+      "published": "2026-07-26T12:51:03+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "719e63d03733035fbd389d894cc96be1",
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "id": "c683c4e30ec3be67dcb286726387b09c",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-25T22:51:10+00:00",
+      "published": "2026-07-26T12:21:26+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "c13d67073208cf1074e850ff0077fd76",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "id": "ff02f88490955ea88424132ff21f7344",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-25T22:50:49+00:00",
+      "published": "2026-07-26T12:00:11+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -160,61 +270,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "39dd863f3ac887908e9c7c858a709124",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T21:48:22+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9b29631a6a5adf30d83cea949b87c8e7",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T20:42:35+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c28024dfea702fee69cd8a3c81e588d9",
-      "title": "LLM Usage in Debian: Three Proposals",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T19:44:39+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6e860f05dfb64d0540c8b58b0016a485",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T18:59:50+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3f9700fa5caa4f44a851037edf75ebf0",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T17:34:34+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "dd5867bc820c397311e01df625c0bcdd",
@@ -239,17 +294,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "757f8f41e6e8a0cc4b626983f29bc9fe",
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-25T13:33:49+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "326db9e0a755907e67999865531d8ea8",
@@ -320,17 +364,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "d0177a1324b4d592ba650e68edee4e68",
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-24T18:37:06+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "31be0c581789e0dee4ff9838735d5431",
@@ -414,17 +447,6 @@
       "tags": []
     },
     {
-      "id": "d56189dd1047e9e2984a88871b152230",
-      "title": "Stinkpot: SQLite-backed shell history",
-      "url": "https://tangled.org/oppi.li/stinkpot",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-24T12:44:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "a8f6194405298799edf519dcd111455a",
       "title": "Man gets six years for hacking 750 women's Snapchat accounts",
       "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
@@ -444,6 +466,17 @@
       "source_color": "#2ecc71",
       "published": "2026-07-24T11:03:06+00:00",
       "summary": "This essay was written with Barath Raghavan, and originally appeared in IEEE Spectrum . Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There s often a ga…",
+      "tags": []
+    },
+    {
+      "id": "4761daf41eab93c1d0989de7e117bbe9",
+      "title": "Measuring developer productivity with the DX Core 4",
+      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-24T10:28:33+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -507,30 +540,6 @@
       "tags": []
     },
     {
-      "id": "c2d795916de9a627fddfc41b17e96404",
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-23T20:14:35+00:00",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "d4ab8d34ab08851017e79b1262a58020",
-      "title": "Rethinking Legal Education in the AI Era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-23T17:12:48+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "4198c9bbea8a8c341ebe997428bf1144",
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33180",
@@ -539,6 +548,39 @@
       "source_color": "#e74c3c",
       "published": "2026-07-23T13:40:27+00:00",
       "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends one from the victim, one from the party that turned out to be responsible and together they make one of the more instructive incidents of the year for defenders.",
+      "tags": []
+    },
+    {
+      "id": "1bcd90fc20b17647beda5e5276b1477d",
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-23T13:29:24+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c66c03c566252a0889c7b1a6804cdd18",
+      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-23T12:58:02+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "32eaa28c00bc4c867836ccac866d8c32",
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-23T12:01:52+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -623,13 +665,13 @@
       "tags": []
     },
     {
-      "id": "5af2ccc1952b21be6d71ad120174cf44",
-      "title": "SIMD for Collision",
-      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "id": "eb319d34251c41d08d854abd562ecc89",
+      "title": "Boox Go 10.3 (gen II) Lumi: First impressions",
+      "url": "https://manualdousuario.net/en/boox-go-10-3-lumi-first-impressions/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-22T21:09:59+00:00",
+      "published": "2026-07-22T21:25:40+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -653,6 +695,17 @@
       "source_color": "#e74c3c",
       "published": "2026-07-22T17:35:33+00:00",
       "summary": "This isn&&#x23 x26 &#x23 39 t a new attack, but something I saw \"pop-up\" in our logs this week:",
+      "tags": []
+    },
+    {
+      "id": "e01bff03847c3566825790df26dbbc1c",
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-22T16:49:29+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -688,17 +741,6 @@
       "source_color": "#2ecc71",
       "published": "2026-07-22T11:02:26+00:00",
       "summary": "Harrowing story of an identity theft victim. Yes, the person made a mistake they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the security of most of our accounts hangs on the security of our email accounts.",
-      "tags": []
-    },
-    {
-      "id": "1f18a73cdf1cb62d4483e544229e0dd0",
-      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
-      "url": "https://github.com/jdefrancesco/dskDitto",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-22T06:52:20+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -745,17 +787,6 @@
       "source_color": "#9b59b6",
       "published": "2026-07-21T21:27:37+00:00",
       "summary": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
-      "tags": []
-    },
-    {
-      "id": "5515294c81d9ce71e481a6d1d371571e",
-      "title": "Some more things about Django I've been enjoying",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-21T20:30:22+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -860,19 +891,6 @@
       "tags": []
     },
     {
-      "id": "a3c592671a924ac64cd5bae1c57e46a3",
-      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-      "url": "https://isc.sans.edu/diary/rss/33168",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-20T18:41:24+00:00",
-      "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL injection vulnerability in WordPress C…",
-      "tags": [
-        "CVE"
-      ]
-    },
-    {
       "id": "e052fa48db842b0fa7c4257643c6ff1e",
       "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
       "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
@@ -903,28 +921,6 @@
       "source_color": "#2ecc71",
       "published": "2026-07-20T11:03:45+00:00",
       "summary": "A recent story of a writer who was mistakenly identified, tracked, and arrested using data from Flock cameras has gone viral. The New Jersey plates that were allegedly stolen from the LA dealer were 34 03 DTM , not 34 10 DTM . But when the police report was created and the plate was entered into Flock’s system, it was just recorded as 34 DTM . Just…",
-      "tags": []
-    },
-    {
-      "id": "46dd4ee20608257359e97596be25cb41",
-      "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
-      "url": "https://isc.sans.edu/diary/rss/33166",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-20T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "ad76eea1bca5cdc4f02cd62c9f485485",
-      "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
-      "url": "https://isc.sans.edu/diary/rss/33164",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-19T15:00:38+00:00",
-      "summary": "We have been following issues with Hikvision cameras for a long, long time . Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.",
       "tags": []
     },
     {
