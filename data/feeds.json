@@ -1,8 +1,451 @@
 {
-  "last_updated": "2026-07-29T09:36:55.929313+00:00",
+  "last_updated": "2026-07-30T09:30:16.981078+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
+    {
+      "id": "b3bd7551ae8f9d220bcd902966ed6a34",
+      "title": "Why the future is local app",
+      "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-30T03:44:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6b72a753d29a308845bbd64166a8a1c8",
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "url": "https://noelo.org/blog/kuna-release/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-30T02:41:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "fae62da137c9ea1775f61d2a599b9a8d",
+      "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+      "url": "https://isc.sans.edu/diary/rss/33200",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-30T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "7aa195770a1825d51ba5c23d549d5f7b",
+      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+      "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-30T01:00:00+00:00",
+      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "tags": []
+    },
+    {
+      "id": "0ada6f048610af2c310053172148543f",
+      "title": "Logic for Programmers",
+      "url": "https://logicforprogrammers.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-30T00:51:39+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4fd24321e4f60cdd3e79c4e7419c9ef6",
+      "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner Guest Diary , (Thu, Jul 30th)",
+      "url": "https://isc.sans.edu/diary/rss/33198",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-07-30T00:42:29+00:00",
+      "summary": "This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program",
+      "tags": []
+    },
+    {
+      "id": "e5e1fe6c47e998769f70c8e122751b8f",
+      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+      "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-30T00:30:00+00:00",
+      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "tags": []
+    },
+    {
+      "id": "d7b1817edbb382f0308d2691d16b6ced",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T23:44:07+00:00",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "cf9847582c7977067e5ba4c5a0de0b6d",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T23:18:11+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0bbffbe9e09b59aace165fec94949624",
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "url": "https://archive.org/details/mancomputerbyjoh0000john",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T22:53:44+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0d2705fe3918d15ce983e63e6d72ebbf",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T22:51:03+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f18fa2fa84f7c458d60e08b01fca8a47",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T21:39:29+00:00",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
+      "tags": []
+    },
+    {
+      "id": "e4632b68afd3c2c6ac2648f05502bb51",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T21:35:40+00:00",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "tags": [
+        "CVE",
+        "0DAY"
+      ]
+    },
+    {
+      "id": "1bb6a0f5101fa13ba55bf4b54ed684dd",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T21:25:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "baa2ee0191ec5cb1b759446df3cd8dda",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T21:06:42+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "92e6cbdb00f7716323fbe38e758ee260",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T20:39:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "bcd5193c720928058bf7703385237589",
+      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+      "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T19:48:12+00:00",
+      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "tags": []
+    },
+    {
+      "id": "8bc048856c85f63358c42a5c14916909",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T19:46:20+00:00",
+      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+      "tags": []
+    },
+    {
+      "id": "bdb17025d67218b246fa631e030e1a3d",
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T19:25:33+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5d64ff90c7e1475d276a7e9f53955cc8",
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T18:28:51+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "95627e1284c051a060047032a59b8853",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T17:54:05+00:00",
+      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "tags": []
+    },
+    {
+      "id": "c94b81bf683b13e6c5b0ef70ba5a78d2",
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T17:43:38+00:00",
+      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "993bad0842a62c7dca982d561977f273",
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T17:35:23+00:00",
+      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "tags": []
+    },
+    {
+      "id": "b638b7689e6c0092e6abacea753fdedf",
+      "title": "Measuring the Tendency of AI Agents to Go Rogue",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-07-29T17:07:53+00:00",
+      "summary": "This essay was written with Barath Raghavan, and originally appeared in The Guardian . In July, Hugging Face, a company that hosts much of the world s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it captured internal security credentials and moved through …",
+      "tags": []
+    },
+    {
+      "id": "3e681a8c588901647fc719bc7aefb6d2",
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "url": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T17:06:52+00:00",
+      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "tags": []
+    },
+    {
+      "id": "7a743d5fbf0458409f9975b128dbcdac",
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "url": "https://cheapfoodmap.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T16:59:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8a335c182dd316f9b6d754ac55b0e8ee",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T16:42:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "77fdc712014a2ba2321a126526a338ee",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T16:36:59+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e18bf428568a53c85a6feed7ccd1c759",
+      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T16:04:59+00:00",
+      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+      "tags": [
+        "PATCH",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "5f61daa2cf4a1ed0db3f1ccaad0019ef",
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T15:55:27+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "377f5ac875144055a3aeff8de3d04d24",
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T15:41:33+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e50aac1017d1f915b7483ee9693c4ec8",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T15:05:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2ac57ac54d8c18ba056a0ac0b7528735",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T14:55:57+00:00",
+      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
+      "tags": []
+    },
+    {
+      "id": "70861b4f54e6d8171d68d017b82798be",
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T14:43:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "061524e3ae5657e20fdc86d87d6a1cbb",
+      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+      "url": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T14:40:33+00:00",
+      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "5657fbee94451e75ec6272676985fa79",
+      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+      "url": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T14:02:12+00:00",
+      "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
+      "tags": []
+    },
+    {
+      "id": "f13e8a775f885636ef5173e5d4d75665",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T13:56:22+00:00",
+      "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "1e1e7c64ded339842f6ae42e49204b46",
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-07-29T11:12:19+00:00",
+      "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
+      "tags": []
+    },
+    {
+      "id": "6141a9e883f0d4a1910ace961bdbbcac",
+      "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
+      "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-07-29T11:01:09+00:00",
+      "summary": "Microsoft s Secure Boot has had a serious vulnerability for most of its existence. An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmwar…",
+      "tags": []
+    },
     {
       "id": "691caccff1deb004d475682a58364442",
       "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
@@ -17,72 +460,6 @@
       ]
     },
     {
-      "id": "a99ff38362efe3d9ce3952731631f2ef",
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T07:18:24+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "0e009b8b962b81c8e42e05caa38bcaf3",
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T04:58:46+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3da7aae9e7a3427fd93b896e52d567dd",
-      "title": "Cracking Windows Open: Porting RADV to Win32",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T04:30:47+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "fb23fb7c98b7d041e50d53e51768b89a",
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T04:30:36+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9d8c61bd8a970baaaaa505433859bcda",
-      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "url": "https://transformer-transformer.github.io/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T03:52:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "4a98c984549f2e9726879d8109fc7477",
-      "title": "Hooray for the Sockets Interface",
-      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T02:25:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "7dd6ce50e964730dd75d5da7d0cb6665",
       "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
       "url": "https://isc.sans.edu/diary/rss/33194",
@@ -91,17 +468,6 @@
       "source_color": "#e74c3c",
       "published": "2026-07-29T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "bd26df5a6c52ff0ce7e104b2b40d999c",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T01:49:19+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -116,39 +482,6 @@
       "tags": []
     },
     {
-      "id": "2a9390c69b1af54e685e72c16d4b4f17",
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-29T00:11:23+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "936e1c57cd06b143c8a1abfd1ac110a7",
-      "title": "ReFrame – The EPaper Camera",
-      "url": "https://reframe.camera/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T23:27:09+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e46640725feb7acd104f1b4fbad2d811",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T22:09:06+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "210a69c93181189331965bb9d7eb785a",
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "url": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
@@ -156,7 +489,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-07-28T21:33:23+00:00",
-      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
       "tags": []
     },
     {
@@ -184,28 +517,6 @@
       ]
     },
     {
-      "id": "b42ee2dcd776a949ec84fae35bf0546c",
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T20:58:39+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "2a9bb2bf7afb0f8635b257c07ae56ea1",
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T20:52:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "d66c826e4ac427b21af710f0aefa5edd",
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
@@ -217,6 +528,17 @@
       "tags": [
         "0DAY"
       ]
+    },
+    {
+      "id": "45ee50f08ad37dbcee2eaebcf0c58826",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-28T20:28:33+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "5f3ecc20dc5df5d6585f0a6a61827148",
@@ -265,39 +587,6 @@
       ]
     },
     {
-      "id": "f79750898e2b895ed91258f1d8aaaa83",
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T17:37:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "4136a28fa8a8af27d01a4992fd441032",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T17:11:54+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "de2fd5acd51b05547ddeeebf3aac3d36",
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T16:58:31+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "859eb8d96b6b540df0bc7a26a76b21a8",
       "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
       "url": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
@@ -309,50 +598,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "0128a6806bf564c70da396c856545b9f",
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "url": "https://www.slow-journalism.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T15:50:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8cf35aebd06a8a75904a2770be496f48",
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T15:48:34+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "ca1411951282c86d54a7151d56dda871",
-      "title": "Zig's Incremental Compilation Internals",
-      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T15:46:45+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7d972e2803f93e339cb711fbf8137112",
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "url": "https://unawatch.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-28T14:48:13+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "3502858f824ff1951e1458ddbccada9b",
@@ -401,19 +646,6 @@
       "tags": []
     },
     {
-      "id": "013eca2840bc315ffc66bf9ec2d098f6",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-28T09:10:03+00:00",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "6b9dd07f409bf305e797f4985a44f11c",
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
       "url": "https://isc.sans.edu/diary/rss/33192",
@@ -447,44 +679,6 @@
       "tags": []
     },
     {
-      "id": "5e606b4313aff0521301f0382d2a0686",
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T23:49:44+00:00",
-      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "tags": [
-        "0DAY"
-      ]
-    },
-    {
-      "id": "944220319cbf7e0dd4408132482ff373",
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T22:49:44+00:00",
-      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "288c6a4ca3f9af33fd1479bd21306d8a",
-      "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
-      "url": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-27T22:42:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "88974caebfd55cf0f9e3c33020b0b415",
       "title": "Agentic Browsers Rewind Web Security by 20 Years",
       "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
@@ -496,28 +690,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "660736a6f32807309a6f51f93b1f4e72",
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T21:08:15+00:00",
-      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-      "tags": []
-    },
-    {
-      "id": "2d0169c1a76d13237455b81f1eee37a3",
-      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T21:00:25+00:00",
-      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-      "tags": []
     },
     {
       "id": "1c5cc4419e1131e1be3de5cef438c578",
@@ -568,65 +740,6 @@
       ]
     },
     {
-      "id": "730675e14172db1cc7c11efdf86daffd",
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T17:29:07+00:00",
-      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
-      "tags": []
-    },
-    {
-      "id": "a9e9792c2d424cfbc6d0ec475e29e252",
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T15:39:51+00:00",
-      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "2972402d057c91dc339306dbb6b13f78",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T15:12:27+00:00",
-      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "180b0339dfa841d1c16d1ce662ffd18b",
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-27T14:01:11+00:00",
-      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
-      "tags": []
-    },
-    {
-      "id": "b8504dc7d737ed9d4d09b4d39c97bb22",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-27T12:56:36+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "451194beb47e34c900136cda537d750e",
       "title": "Cognyte Sells a Mobile Cell Surveillance Van",
       "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
@@ -649,6 +762,28 @@
       "tags": []
     },
     {
+      "id": "fa4cf61632b143f9087408f3a920381f",
+      "title": "Concurrency, interactivity, mutability, choose two",
+      "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-27T06:38:54+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a3c64f587c1252dfdcfa9c4ed51b2199",
+      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-27T06:23:46+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "a5106e50291bb8d73f49659edeada411",
       "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
       "url": "https://isc.sans.edu/diary/rss/33186",
@@ -660,13 +795,24 @@
       "tags": []
     },
     {
-      "id": "46206328bebf9d06c9622747069c5b60",
-      "title": "Lisp moving Forth moving Lisp",
-      "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+      "id": "b2c572c3f8d1bd174970f1a4a6b8b1e6",
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T17:37:33+00:00",
+      "published": "2026-07-26T22:18:42+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e4f5a51ee253b2d186cda34ffb6c3d11",
+      "title": "Angels in Coptic Magic I: Introduction",
+      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-26T18:57:36+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -684,13 +830,24 @@
       ]
     },
     {
-      "id": "71806863c50362e4db439366d542bd89",
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
+      "id": "9559a273c202c86dcac63491e5574f82",
+      "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+      "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-26T08:06:45+00:00",
+      "published": "2026-07-25T18:27:41+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "099ff0f9cf63ce64bf28a728d2b4234c",
+      "title": "The Rust on ESP Book",
+      "url": "https://docs.espressif.com/projects/rust/book/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-25T13:15:41+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -725,17 +882,6 @@
       "source_color": "#9b59b6",
       "published": "2026-07-24T19:45:02+00:00",
       "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
-      "tags": []
-    },
-    {
-      "id": "4174065ea7e29712d609e6e8dee0cb1c",
-      "title": "Mag Computer: A Mag History of RAM (1960–2025)",
-      "url": "https://magworld.pw/episodes/computer/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-24T14:26:09+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -796,52 +942,6 @@
       "tags": []
     },
     {
-      "id": "9aa167bad6a50016bcad4d30645aeac2",
-      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-23T21:23:18+00:00",
-      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
-      "tags": [
-        "0DAY"
-      ]
-    },
-    {
-      "id": "3b8d810efa89cefcffed0ac90dec658a",
-      "title": "Log is non-monotonic in PHP and Lua",
-      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-23T14:00:48+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "4198c9bbea8a8c341ebe997428bf1144",
-      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33180",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-23T13:40:27+00:00",
-      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends one from the victim, one from the party that turned out to be responsible and together they make one of the more instructive incidents of the year for defenders.",
-      "tags": []
-    },
-    {
-      "id": "da013c6a42faa76a5a2a53c68045be96",
-      "title": "Agentic AI Challenges Progress in Confidential Computing",
-      "url": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-23T11:17:51+00:00",
-      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
-      "tags": []
-    },
-    {
       "id": "1787307dbc4ca081d191fddf544e23a6",
       "title": "End-to-End Encryption and “Going Dark”",
       "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
@@ -853,85 +953,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "588565e6f71479bbd857d12f399b70d8",
-      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
-      "tags": []
-    },
-    {
-      "id": "6d550340df8a32749e22d265998cc749",
-      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33178",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-23T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "796f16ba87422102d50c95f0d944a9de",
-      "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-23T01:00:00+00:00",
-      "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "dd2c0a0bf8a4bb2c24444ec9d1132388",
-      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
-      "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-22T23:50:01+00:00",
-      "summary": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
-      "tags": []
-    },
-    {
-      "id": "db5a2e440cbf8cd6ab14a956019deabe",
-      "title": "Attackers Are Learning to Live Off the AI Toolchain",
-      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-22T21:29:01+00:00",
-      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
-      "tags": []
-    },
-    {
-      "id": "f82989c88f5fe0a4e4b068d6b3b9753b",
-      "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
-      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-22T19:42:42+00:00",
-      "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
-      "tags": []
-    },
-    {
-      "id": "0ccdbdf01574c60766dec8a4109b09db",
-      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-      "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-22T15:53:47+00:00",
-      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-      "tags": []
     },
     {
       "id": "02ff2ba2c8225b6e4dd4d99744c66dcf",
@@ -964,28 +985,6 @@
       "source_color": "#2ecc71",
       "published": "2026-07-21T11:07:13+00:00",
       "summary": "It s a lot : According to information obtained by The Tech , MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely co…",
-      "tags": []
-    },
-    {
-      "id": "f78d65ac33fa9a950c09075d507ac228",
-      "title": "On Flock License Plate Tracking Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-07-20T11:03:45+00:00",
-      "summary": "A recent story of a writer who was mistakenly identified, tracked, and arrested using data from Flock cameras has gone viral. The New Jersey plates that were allegedly stolen from the LA dealer were 34 03 DTM , not 34 10 DTM . But when the police report was created and the plate was entered into Flock’s system, it was just recorded as 34 DTM . Just…",
-      "tags": []
-    },
-    {
-      "id": "94b71390dade5128830e39084ac85134",
-      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-07-17T21:01:37+00:00",
-      "summary": "Lots of articles about this . As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
       "tags": []
     },
     {
