@@ -1,39 +1,248 @@
 {
-  "last_updated": "2026-08-02T09:08:49.371126+00:00",
+  "last_updated": "2026-08-03T10:42:15.768874+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "f38cab8898fc9e17efc83abbdb5b302d",
-      "title": "Nerd culture is murdering intellectuals",
-      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+      "id": "d97d1465332650465ffaf19645389507",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-02T07:57:52+00:00",
+      "published": "2026-08-03T09:32:07+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "f1084262ec380c45b09194ba796e138e",
-      "title": "I don't recommend Tailwind CSS",
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "id": "5226a799751c25010886391284e6fe79",
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-02T07:09:38+00:00",
+      "published": "2026-08-03T09:29:46+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "e092adfe409a8edd5a00e8d1ce3cd639",
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "id": "5def2a7f05d2407d5c31255e1cb7a136",
+      "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+      "url": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-02T04:21:14+00:00",
+      "published": "2026-08-03T09:25:15+00:00",
       "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "49aaf6278a28b34786a45c4b38b88896",
+      "title": "Less Coffee, Better Sleep",
+      "url": "https://www.marginalia.nu/log/a_109_sleep2/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T09:10:07+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4998e7561d0d25902062c2599adc7d72",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T08:54:00+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "99460e2601c7046b49d46f5604e73174",
+      "title": "The true power of regular expressions (2012)",
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T08:47:23+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3eb15d5461b1282e14eab4ab5b9ecb4f",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T08:29:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3a365d386ab9b62f2a4a9940c52c50d3",
+      "title": "Octane – React's programming model, compiled",
+      "url": "https://octanejs.dev",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T08:04:04+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2d3b0031cb9bb39528020a62d67b3b5a",
+      "title": "The Shape of Things to Come",
+      "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T07:22:27+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3ab44a53c6d3e11fe7ff64a03de1df4c",
+      "title": "The AI Productivity Gap",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T07:07:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "2b906d668c99f705257ed8eaf1ec7864",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T06:42:00+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d2bd6fa3f519633ca8c37e947c0f88f1",
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T06:28:01+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c807447db1358d7750330e12370a2b68",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T02:16:09+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "af8403a283e863ea4ec0ec33fdaa3608",
+      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/33210",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-08-03T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "0bbbad000033f789cbb5200f7b13961c",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T00:46:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b1a168223a2c6effb7336bb1df26be25",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T00:38:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "09dc587a4105c1d5063778bdf63c6b0a",
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T00:23:21+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "42beb7db67f3f3b63ea078e0b6275882",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-03T00:12:16+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6d941f092d8edd29b8fa14353edaae6d",
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-02T22:31:41+00:00",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "tags": []
+    },
+    {
+      "id": "dea0b1cc98b5a8d780f2c40e13d2cc57",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-02T21:14:29+00:00",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "tags": []
+    },
+    {
+      "id": "16972dfbed916810784862830282b73c",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-02T16:26:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f245eb5c2fac84bf4783879a82b43be8",
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-02T14:17:16+00:00",
+      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
       "tags": []
     },
     {
@@ -45,204 +254,6 @@
       "source_color": "#e74c3c",
       "published": "2026-08-02T04:05:08+00:00",
       "summary": "Introduction",
-      "tags": []
-    },
-    {
-      "id": "beff2b746f54c3631726ae9f5dbd0771",
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T03:12:52+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6782fe8ab19e25eca934a575cbffb024",
-      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T02:51:15+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7443a99e46cf33360a1b619b1e6d4aaa",
-      "title": "Four Time Scales for Technology Development and Deployment",
-      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T02:26:52+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "08d85469fdca4a0ac1590f4b5acce00b",
-      "title": "When random.bytes() runs but doesn't work",
-      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T02:08:26+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "d8f8d4c8485f8d1940d9cad92d819a51",
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T02:07:09+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9cdef28e33cb0f25f9e6d9f58b6acf50",
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T01:35:51+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "85835ecd8ca3bf897c139c9eb9a7c80b",
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-02T01:35:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "22b5f285eb3e7a6f093d1566f835c119",
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T23:44:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9c0337b2fa8c80520a0419e88f5c6907",
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T22:55:52+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1d462044f2bce2b3df6220f818e78ec2",
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T22:52:44+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "2af7715e9dc023efec9b1170410efd13",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T22:25:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6e3f7af546b2b02dc5967ea532dae78a",
-      "title": "Atom is better than RSS, in ways that matter",
-      "url": "https://chrismorgan.info/atom%3Erss",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T22:00:16+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "1746f99df19d101bb8451c98256ac161",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T20:45:12+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6dbc532b9ee90b10614adf7a56fe75e0",
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T20:33:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "cbcaf7d982754c40e78ec5c884b76616",
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T19:44:48+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e4e5f3b9e7d18f7c99dac4f7a6b9c941",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T18:32:20+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "d4c817ef0de562ad10e2d8ace7594760",
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T18:07:07+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "93af30edfc7237ce06d03d59d8fb9d41",
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-01T15:23:15+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -334,7 +345,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-07-31T18:13:11+00:00",
-      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
       "tags": []
     },
     {
@@ -375,13 +386,13 @@
       ]
     },
     {
-      "id": "5bd460a0747a381c15be30044d10c390",
-      "title": "A big win for Android interoperability",
-      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "id": "e9f04ae8898fd2af117c51205b8fc96f",
+      "title": "Why we write our own C and C++ inference engines",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-31T15:01:07+00:00",
+      "published": "2026-07-31T16:17:04+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -433,6 +444,17 @@
       "tags": []
     },
     {
+      "id": "717fb7c2aa16b7808504aa6c7ea3bce5",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-31T13:08:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "b1f65ece50c6d3d515cee62a50b6c495",
       "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
       "url": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
@@ -466,6 +488,17 @@
       "tags": []
     },
     {
+      "id": "9be051bd6e485c872db21acae1ddfe44",
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "url": "https://handwritten.blog/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-31T06:37:42+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "d1e44440474c2c83e103379d0761c274",
       "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
       "url": "https://isc.sans.edu/diary/rss/33204",
@@ -488,17 +521,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "6b6c833effdc9e8fbe14ee5d4ca65e45",
-      "title": "We accidentally built an LLVM compiler for Jax",
-      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-30T23:46:05+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "c732a136b822c5fae34674d5e2608d8b",
@@ -536,17 +558,6 @@
       "tags": []
     },
     {
-      "id": "b7227ee3cf3902c9a183ff32a99674c7",
-      "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
-      "url": "https://sinusoft.com/loganbasic/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-30T20:36:53+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "ecb3c2bf5fa371b096a9bc84955fb7d5",
       "title": "AI Harnesses Burst With Potential Exploit Opps",
       "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
@@ -569,32 +580,6 @@
       "tags": []
     },
     {
-      "id": "740b4f7b5344fc44d1999e85b0445393",
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-30T18:00:51+00:00",
-      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "acd2501d5c5b9410a5332df4554ed587",
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-30T17:00:00+00:00",
-      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "9f753904c4945eea5ceaced1b28f2501",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -604,19 +589,6 @@
       "published": "2026-07-30T16:49:00+00:00",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clickin…",
       "tags": []
-    },
-    {
-      "id": "014e7a83f59d3f2cfea69dc14fc1349a",
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-07-30T16:46:15+00:00",
-      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "190acbf3973729fb90826752c9060a9d",
@@ -638,17 +610,6 @@
       "source_color": "#9b59b6",
       "published": "2026-07-30T15:28:43+00:00",
       "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
-      "tags": []
-    },
-    {
-      "id": "da871de56896cf272d6a1e8ecbac942f",
-      "title": "Elena, a library for building Progressive Web Components",
-      "url": "https://elenajs.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-30T13:31:56+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -704,6 +665,17 @@
       "source_color": "#9b59b6",
       "published": "2026-07-30T00:30:00+00:00",
       "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "tags": []
+    },
+    {
+      "id": "aea9c9512a5a8bf536d95022769c8a34",
+      "title": "Cybersecurity, Then & Now",
+      "url": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-07-29T23:26:46+00:00",
+      "summary": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
       "tags": []
     },
     {
@@ -788,6 +760,17 @@
       ]
     },
     {
+      "id": "c5526613cd5b12a26fb214d59fd76c8b",
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T14:25:54+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "6141a9e883f0d4a1910ace961bdbbcac",
       "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
       "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
@@ -831,6 +814,17 @@
       "source_color": "#2ecc71",
       "published": "2026-07-29T01:47:05+00:00",
       "summary": "There s new benchmark measuring AI s ability to perform mathematical cryptanalysis. Anthropic s frontier model actually found new attacks. The benchmark: CryptanalysisBench: Can LLMs do Cryptanalysis? The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Abstract: …",
+      "tags": []
+    },
+    {
+      "id": "7ecaeab249f8bbc98dfb6e199613133a",
+      "title": "How do you rewrite C/C++ projects to Rust?",
+      "url": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-29T01:12:09+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -893,6 +887,17 @@
       ]
     },
     {
+      "id": "92b7df5d83d017e608857f757ed25bae",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-28T14:21:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "cf64f2ef737a4e9e22b1538e515ffef1",
       "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
       "url": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
@@ -926,17 +931,6 @@
       "tags": []
     },
     {
-      "id": "5015ae4db519494a219c7b17f6aa4948",
-      "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33190",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-07-28T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "34e607ca784da7ec641b553c777b4c4b",
       "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
@@ -945,6 +939,17 @@
       "source_color": "#9b59b6",
       "published": "2026-07-28T01:00:00+00:00",
       "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "tags": []
+    },
+    {
+      "id": "88434759159b4b155089afd17beacd45",
+      "title": "Convergence is not enough",
+      "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-07-27T23:23:07+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -959,17 +964,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "1c5cc4419e1131e1be3de5cef438c578",
-      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
-      "url": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-27T20:57:26+00:00",
-      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
-      "tags": []
     },
     {
       "id": "451194beb47e34c900136cda537d750e",
