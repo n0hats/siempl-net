@@ -1,8 +1,301 @@
 {
-  "last_updated": "2026-08-07T08:13:39.072238+00:00",
+  "last_updated": "2026-08-08T07:49:32.983978+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
+    {
+      "id": "797094e78234ab7f6c9a65ea6b9a91a8",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-08T07:04:51+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "03fee12afd4fc53329529330fc5d7b6f",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-08T01:49:11+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e2aa9443d7b257dfa26230e4f7e79d97",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-08T01:12:45+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8cef76c4fc3c51b2e485ee55182377dc",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T22:24:27+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6261db6c664affc6a109907ce3428da3",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T21:19:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "baabb7b89c9a7ea021a6af8931e70ab3",
+      "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-08-07T21:07:04+00:00",
+      "summary": "Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "6278098620d93929faf346c244f6d6a2",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-07T20:14:46+00:00",
+      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "tags": [
+        "0DAY",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "8a6bf048fb5daa1c565de70f4464cdea",
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-07T19:30:41+00:00",
+      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "350ad1e3d884f5dc007cab8d9b39413f",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T18:51:45+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d8c1504d1e356d0c77fffb11c161f634",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T18:51:14+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "05b5c328b16d2c04210ae94e28e5c8a7",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T18:25:17+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f222ab795a8b0a891225857c4f7b7181",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T18:01:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7072d9c4c23e8d9e763b412fc08c47b6",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T17:56:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "99c5fc173e86b393cdb5c5d610e8a192",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T17:36:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "cfce8c9d2f0cc107cbd60700169d1c30",
+      "title": "AI-Generated Patches Fail Half the Time",
+      "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-08-07T16:47:43+00:00",
+      "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "08c06a38d78616a1e2c57b18d55e468c",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T16:39:36+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d2d5e8d0d8d18fc270c63f9707a2226a",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-07T15:48:20+00:00",
+      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+      "tags": []
+    },
+    {
+      "id": "f05e07c94926179a240bace8b6ab83b8",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T15:24:53+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0794856773f42c48b0cef9c154f92146",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-07T14:00:10+00:00",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "tags": []
+    },
+    {
+      "id": "7e66a34b0d215919716ba88709ef719d",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-07T13:34:40+00:00",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "tags": []
+    },
+    {
+      "id": "d03222a9858b3d718ab46812e1df88f1",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T12:45:08+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "6ed73fb0dd97c3b1a968829ef4bd1013",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T12:42:27+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9aeaa6ccf6a1f5716ec94eb7bed72456",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T11:00:35+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8c1f4fb4c80f16c9804c77cee4be4fc9",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T10:42:07+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3c227ba21dff67704e36d0329322449b",
+      "title": "ICE Is Buying Access to Credit Card Records",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-08-07T10:26:41+00:00",
+      "summary": "Through data brokers, ICE is buying the information you provided to open a credit card.",
+      "tags": []
+    },
+    {
+      "id": "fae8a2d4767cefbab2fb94e3b12e4981",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-07T07:58:24+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
     {
       "id": "9218a684ce2ca65a5c9764f2fdd5b9f0",
       "title": "Linux Shell Forensic: Let s Dive Into Atuin , (Fri, Aug 7th)",
@@ -15,20 +308,6 @@
       "tags": []
     },
     {
-      "id": "761667e1aa84a0f2405d842874492c25",
-      "title": "Framework discloses data breach via Metabase 0-day",
-      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-07T05:17:57+00:00",
-      "summary": "Comments",
-      "tags": [
-        "0DAY",
-        "BREACH"
-      ]
-    },
-    {
       "id": "565c31af2d978b3d45c822db4d8871b4",
       "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
       "url": "https://isc.sans.edu/diary/rss/33224",
@@ -37,39 +316,6 @@
       "source_color": "#e74c3c",
       "published": "2026-08-07T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "796742e574b2a4e5ac03f93f36ec5537",
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-07T00:37:30+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "f241c42eef7b08e534d67e7f6a0475cf",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-07T00:06:28+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "863b9ae36df4b04b054d0da507df33d6",
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "url": "https://zenodo.org/records/21359923",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T22:50:09+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -97,17 +343,6 @@
       ]
     },
     {
-      "id": "4fe53e355d185a6873c92c14fd400d5c",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T21:52:16+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "37b0793963c4e3cadf011520e1b83c0a",
       "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
@@ -119,25 +354,14 @@
       "tags": []
     },
     {
-      "id": "3f1dab2cb5b9bc5866197478175b491b",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T21:18:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "b64406b637f448b79881e047f9fade4e",
-      "title": "What is a product?",
-      "url": "https://roge.onwrite.app/what-is-a-product",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T21:16:52+00:00",
-      "summary": "Comments",
+      "id": "fa405798b4e6b14d0132b9d4ee2907b7",
+      "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-08-06T20:39:30+00:00",
+      "summary": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
       "tags": []
     },
     {
@@ -152,17 +376,6 @@
       "tags": []
     },
     {
-      "id": "dac781ad7a57450311d3e268c56f0e21",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T20:23:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "05a6b28839a80298f24ead7c9962f1b1",
       "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
       "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
@@ -174,17 +387,6 @@
       "tags": []
     },
     {
-      "id": "dc4fd5ffb0569f79bc8e2934b1aa5632",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T19:14:21+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "9006d5b87e3e440f18120050a22790e1",
       "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
       "url": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
@@ -192,18 +394,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-08-06T19:00:11+00:00",
-      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
-      "tags": []
-    },
-    {
-      "id": "07b1242b975fbdee897599fb80185659",
-      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
-      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T18:26:08+00:00",
-      "summary": "Comments",
+      "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
       "tags": []
     },
     {
@@ -234,28 +425,6 @@
       ]
     },
     {
-      "id": "88b44b794164defcad7fa38983091286",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T17:02:04+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "bd4d76abfd2226cccf20d35481407ede",
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T17:01:33+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "d08dc295c10bd1b0f8901ab29dd0173c",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -280,28 +449,6 @@
       ]
     },
     {
-      "id": "92027934d2df4e684cdda948fb1cade5",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T15:59:15+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "87fe43f80057a4cb632037420f1ed759",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T15:49:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "af7a1211e0d1aecf23b22662c546fa25",
       "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
       "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
@@ -313,28 +460,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "750c7bd2060999bfc62201f47cb3ca51",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T11:58:07+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "b19f91df5ef61b4ea2fae3c7635fb1c6",
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-06T11:24:53+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "9fca2f614379a427a2a49732b58a7309",
@@ -431,6 +556,17 @@
       "tags": []
     },
     {
+      "id": "5e884f50a826422b135a33bb9a23722d",
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-05T21:44:42+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "fd790f3a07c1fcbdc27e501a969dcbc3",
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
@@ -490,61 +626,6 @@
       "tags": []
     },
     {
-      "id": "56faa51d87716e86ee7feed743784b0d",
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-05T17:49:41+00:00",
-      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
-      "tags": []
-    },
-    {
-      "id": "e008471a2b9843c0a1330d8763ba78d5",
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-05T15:51:33+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
-      "tags": []
-    },
-    {
-      "id": "7d097087a4f5561670960f9766fb20da",
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-05T15:33:23+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9b900c1afbf768622acf6e80d129c2c8",
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-05T14:59:29+00:00",
-      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "tags": []
-    },
-    {
-      "id": "1b48703064b037778ce3ba7a92aac56a",
-      "title": "How AI-powered phishing killed blocklists for good",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-05T14:01:11+00:00",
-      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
-      "tags": []
-    },
-    {
       "id": "8aa25909a8277dba926e4a2e5e4d06ce",
       "title": "Vulnerabilities in Car Anti-Theft Device",
       "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
@@ -580,19 +661,6 @@
       "tags": []
     },
     {
-      "id": "4d039509ce261efe4c8958f065641a21",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-04T23:39:59+00:00",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "0819e50686ba159dce8beaee15e64299",
       "title": "Iran Cyberattacks Against Minnesota Water Systems",
       "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
@@ -612,6 +680,39 @@
       "source_color": "#9b59b6",
       "published": "2026-08-04T18:37:35+00:00",
       "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+      "tags": []
+    },
+    {
+      "id": "fd357ce222126d520812aa2bc618bb96",
+      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-04T16:32:08+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7b1024e317090e2ba9e6497c1e087dbe",
+      "title": "How the 'fecal revolution' changed Earth's ecosystems",
+      "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-04T14:33:12+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "98e92646e0eaf1f2b958856406621a13",
+      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-04T14:21:50+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -661,17 +762,6 @@
       "tags": []
     },
     {
-      "id": "a9d798341e78ae5bbcc9931be0f6f985",
-      "title": "Why Estonians invite strangers into their back gardens each summer",
-      "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-04T02:50:07+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "9fd0bced46b1e2ec3dc9decc6fb35099",
       "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
       "url": "https://isc.sans.edu/diary/rss/33212",
@@ -680,17 +770,6 @@
       "source_color": "#e74c3c",
       "published": "2026-08-04T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "4f7c06dc21834b3690e1ffa24f9a708f",
-      "title": "Reverse Jevons Paradox",
-      "url": "https://mht.wtf/post/jevons/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-03T22:04:18+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -730,17 +809,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "855f295c89f49bbc94626de4185d98f0",
-      "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
-      "url": "https://read-the-water.netlify.app/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-03T18:04:56+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "1d5241c77c3f1c73aa6f44edb3ed417c",
@@ -789,17 +857,6 @@
       "tags": []
     },
     {
-      "id": "9154fd6b71ea4c1e936043de996f40ec",
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-03T07:12:57+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "af8403a283e863ea4ec0ec33fdaa3608",
       "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
       "url": "https://isc.sans.edu/diary/rss/33210",
@@ -808,6 +865,17 @@
       "source_color": "#e74c3c",
       "published": "2026-08-03T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "9199c8360f34a92e60d5930a4cd39185",
+      "title": "Games at the press of a button: The Rip-O-Bot (1989)",
+      "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-02T20:19:16+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -822,24 +890,24 @@
       "tags": []
     },
     {
-      "id": "fcf7af24a59586441e27a5b19e5468b2",
-      "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
-      "url": "https://thursd.com/articles/helio-da-silva-sao-paulo-tiquatira-linear-park",
+      "id": "0b45378172f2c26b28c4f3fbebbda9d5",
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-01T21:02:26+00:00",
+      "published": "2026-08-01T15:51:15+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "967dbf08e3ff854d96466c85ed42de1d",
-      "title": "Atomic Clocks",
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "id": "661afa03db2e24e7c21b38b10c5a4960",
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-07-31T21:58:03+00:00",
+      "published": "2026-08-01T15:26:29+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -921,61 +989,6 @@
       "tags": []
     },
     {
-      "id": "a8ea309897088e25f7a85617c735264b",
-      "title": "Facial Recognition at Madison Square Garden",
-      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-07-31T11:08:44+00:00",
-      "summary": "Last month, the story broke (alternate link ) that Madison Square Garden uses facial recognition software on everyone entering the facility, and among other groups flags activists that oppose using facial recognition. Turns out that the system was shut off for Taylor Swift s wedding. Evan Greer one of the people that MSG alerts on comments : Ironic…",
-      "tags": []
-    },
-    {
-      "id": "6db9bf6ec248a27b2206c87de74cb8e8",
-      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
-      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-31T07:37:13+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "98744fdb481e18032bcafeccd914743f",
-      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
-      "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-30T21:16:13+00:00",
-      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
-      "tags": []
-    },
-    {
-      "id": "ecb3c2bf5fa371b096a9bc84955fb7d5",
-      "title": "AI Harnesses Burst With Potential Exploit Opps",
-      "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-07-30T19:40:40+00:00",
-      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-      "tags": []
-    },
-    {
-      "id": "bb65ccf2af0f5e6ddf100c1419af766e",
-      "title": "STV: A full-motion video codec for the Atari ST",
-      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-07-30T17:46:32+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "9f753904c4945eea5ceaced1b28f2501",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -984,17 +997,6 @@
       "source_color": "#ff6b35",
       "published": "2026-07-30T16:49:00+00:00",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clickin…",
-      "tags": []
-    },
-    {
-      "id": "190acbf3973729fb90826752c9060a9d",
-      "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
-      "url": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-07-30T16:20:30+00:00",
-      "summary": "He s being prosecuted for giving border officials a code that wiped his phone : The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices. Tunick s attorneys confirmed GrapheneOS was running on his phone. The software feature allows the device owner…",
       "tags": []
     },
     {
