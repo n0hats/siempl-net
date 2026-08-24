@@ -1,170 +1,315 @@
 {
-  "last_updated": "2026-08-23T07:33:00.696144+00:00",
+  "last_updated": "2026-08-24T07:57:19.787282+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "a502a0e8075bf8f6383c49129d6dab6e",
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "id": "7cfd3ed87bc40f2a29bc5b5ec67a3707",
+      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+      "url": "https://isc.sans.edu/diary/rss/33274",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-08-24T07:23:16+00:00",
+      "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up . It doesn&&#x23 x26 &#x23 39 t use real steganography:",
+      "tags": []
+    },
+    {
+      "id": "366fb0370ae49194f4cce7b7741c9ae1",
+      "title": "The Work Number: credit score but for your employment history – by Equifax",
+      "url": "https://employees.theworknumber.com",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T06:41:51+00:00",
+      "published": "2026-08-24T07:17:02+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "5af17c4482ab3d84519f6a460636d802",
-      "title": "JIT Compiling Code in 5μs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "id": "011f969a7f82080ac1df6ef80debdf7d",
+      "title": "Over 5,200 Ebola cases recorded in Congo",
+      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T06:04:51+00:00",
+      "published": "2026-08-24T07:03:43+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "efe98efd702caf3a310ec342fa80b731",
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "id": "f2a2c307bf8c7ef8c9b9f78d1ac9c20b",
+      "title": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T05:51:01+00:00",
+      "published": "2026-08-24T06:57:01+00:00",
+      "summary": "Comments",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "b953e946288dcea02bce87b765a3899e",
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://status.claude.com/uptime",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-24T06:32:28+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "01386cdb7ae670be2351d4985cd10d2e",
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "id": "f5d01103c87e106538836cf5d1be74f5",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T03:32:25+00:00",
+      "published": "2026-08-24T06:30:07+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "47b63106d9fd5d7c733d74d5d3407710",
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
+      "id": "f180c271cce5632c3867ae898ea3a6cd",
+      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+      "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T03:13:16+00:00",
+      "published": "2026-08-24T06:25:42+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "9672eba0429160d5af7e97f57380e82c",
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "id": "aa311157b62db3057be88bc6c5d6ef24",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T02:33:22+00:00",
+      "published": "2026-08-24T06:25:31+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "f2615da667959a687f3c0d7af8a75c5c",
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "id": "688a07c9c2b00d1d1feae870b45d2b8d",
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-23T00:56:03+00:00",
+      "published": "2026-08-24T06:00:50+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "ddfc099d82c5c07c69e65e868f4bd7d6",
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "id": "3eb0c72c9cec3aef47c779347a56d654",
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T22:14:27+00:00",
+      "published": "2026-08-24T05:47:27+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "4e37da81acd6a107ff55c2f462b32bc7",
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "id": "2f069f5ded6d28c5fec5f8c45ef08786",
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T19:07:46+00:00",
+      "published": "2026-08-24T05:12:45+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "54728fe029ffdc2e5a49a54b503de18b",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "id": "95d11516eb4ee6cb691e46a6f4dfe0c1",
+      "title": "Executable Is a SQLite Database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T18:14:16+00:00",
+      "published": "2026-08-24T04:48:20+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "7576b863e838464d35a694bdad1132e2",
-      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
+      "id": "e9a6c21a983d3649f663d0abad4f5e45",
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+      "url": "https://isc.sans.edu/diary/rss/33276",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-08-24T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "5c89c953a102559b9c258777201e2f41",
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T18:11:40+00:00",
+      "published": "2026-08-24T01:33:14+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "70817f3dca28c30306d4163870ed99ed",
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
+      "id": "a025a03650ffadbcc9480ee7438db82a",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T18:10:49+00:00",
+      "published": "2026-08-23T23:18:17+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "ff6c6e92dfd9334c2cbfa28c8dd5c0a1",
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "id": "263404a60b0d9adeb980e0e811e88a58",
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T18:08:56+00:00",
+      "published": "2026-08-23T22:41:04+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "8951406368448d327cab475eaad9a0ee",
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "id": "d5e3d3205242625733be16e823f9212c",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T18:08:25+00:00",
+      "published": "2026-08-23T20:38:09+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "bf0ea94ccea4f92ec78993290954b43a",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
+      "id": "eed113e9ed3786e0d7935901eaf807e1",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-08-22T14:54:07+00:00",
+      "published": "2026-08-23T19:29:32+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "db8d83e94d0ed777a8566979fa2c3630",
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T19:23:29+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c7b39fce40cc92aa50fe15e79059f6d1",
+      "title": "Fable and the end of the free lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T19:06:09+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "15d6d8e1489e0151923d702f67d9fa40",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T18:16:37+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e51017e8b3e9b5658c659ece9273ddad",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T17:59:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "df1121e45dc84d2c27928147622577a2",
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T15:13:31+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5587198269c0372158d5a47733d71b06",
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T14:24:21+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "01df0b93320fcb074b6be7beef35d99d",
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-08-23T14:23:46+00:00",
+      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+      "tags": []
+    },
+    {
+      "id": "523f84d052df6d85ab2f5d4831c32fd1",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T13:51:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5aa3dc41b67ba0dd9b915859d91808b4",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T13:05:38+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c0efc6fa4921f92c9a98bc749c2a5fc3",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-08-23T02:25:10+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -182,28 +327,6 @@
       ]
     },
     {
-      "id": "a423a40ee50f054ea43c8e6f8c88e977",
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-22T14:08:19+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3cc26c4a108be84cf9ad82c8f8b1f988",
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-22T13:31:34+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "abe687094e635c5c909aeca9fd81699b",
       "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
       "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
@@ -212,17 +335,6 @@
       "source_color": "#4a9eff",
       "published": "2026-08-22T13:00:09+00:00",
       "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
-      "tags": []
-    },
-    {
-      "id": "a5bff4ddbb0743f0b1b1bc7849bb6aa0",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-22T09:49:14+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -239,14 +351,14 @@
       ]
     },
     {
-      "id": "2735ce735dc6bb73f55efe9f47052da3",
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-21T19:51:48+00:00",
-      "summary": "Comments",
+      "id": "b9c8283389534dee49d786bb77905fe6",
+      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+      "url": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-08-21T20:24:42+00:00",
+      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
       "tags": []
     },
     {
@@ -296,17 +408,6 @@
       ]
     },
     {
-      "id": "2c4af69d07a4304c6e88cc6dd87cb15d",
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-21T15:44:40+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "c3b8c8f7e504df3be87c9e4a2b635fab",
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
@@ -344,17 +445,6 @@
       "tags": []
     },
     {
-      "id": "c6c3d5497f8c6505c79970907da039ed",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-21T13:43:33+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "3261f33817177cbf9361df70d1010afa",
       "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
@@ -374,6 +464,17 @@
       "source_color": "#9b59b6",
       "published": "2026-08-21T13:30:00+00:00",
       "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "tags": []
+    },
+    {
+      "id": "800e9730736d3e3a8d0bb9a407300603",
+      "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+      "url": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-08-21T13:10:33+00:00",
+      "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
       "tags": []
     },
     {
@@ -479,17 +580,6 @@
       "source_color": "#9b59b6",
       "published": "2026-08-20T20:42:18+00:00",
       "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
-      "tags": []
-    },
-    {
-      "id": "0b92e65ca41bf39136461519ab601afa",
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-20T20:22:35+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -616,19 +706,6 @@
       "tags": []
     },
     {
-      "id": "f047c0e7ad797f0db264af3a46f5250e",
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-08-20T12:14:38+00:00",
-      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "a9c0b8ca8a1acc853b5610e2a4332641",
       "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
       "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
@@ -706,17 +783,6 @@
       "tags": []
     },
     {
-      "id": "d073d6e723196a3a651ed1921215683e",
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-19T02:05:43+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "90ab485f609c96fed1672fed6c0a16bb",
       "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
       "url": "https://isc.sans.edu/diary/rss/33258",
@@ -763,17 +829,6 @@
       "tags": []
     },
     {
-      "id": "6952b35b1753edf47f5b85eb08e76da4",
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-18T20:00:50+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "a90c6be3e229fa8cf3f0a966570e8fe1",
       "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
       "url": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
@@ -795,17 +850,6 @@
       "source_color": "#9b59b6",
       "published": "2026-08-18T18:32:01+00:00",
       "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
-      "tags": []
-    },
-    {
-      "id": "bf47e652947d61daceec908e8d9ba226",
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-08-18T15:12:53+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -844,17 +888,6 @@
       "tags": []
     },
     {
-      "id": "b67269fc77f1b0427cbf0ef218fe9c28",
-      "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33256",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-08-18T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "a88158926c1462542583a7d82ef3c0a7",
       "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
       "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
@@ -864,19 +897,6 @@
       "published": "2026-08-17T21:37:23+00:00",
       "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
       "tags": []
-    },
-    {
-      "id": "beb5f0a0f6122d6c8fe5b73df0fa1d0c",
-      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33254",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-08-17T20:26:39+00:00",
-      "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "6b9b73d9386af1dd2852aa60d738737a",
@@ -933,28 +953,6 @@
       "source_color": "#2ecc71",
       "published": "2026-08-14T21:01:49+00:00",
       "summary": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what s going on down there. Lots of footage of giant squid, and speculation about the coloss…",
-      "tags": []
-    },
-    {
-      "id": "099f5368af18eca2c787ef426e68a22b",
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-08-14T19:24:18+00:00",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
-      "tags": []
-    },
-    {
-      "id": "8a1e176821aac98d19b6005de751cf87",
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-08-14T17:32:46+00:00",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
       "tags": []
     },
     {
