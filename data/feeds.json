@@ -1,8 +1,463 @@
 {
-  "last_updated": "2026-09-10T12:04:31.649471+00:00",
+  "last_updated": "2026-09-11T12:03:03.405065+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
+    {
+      "id": "7480db07f46e839103adbd7e739db71b",
+      "title": "Instagram's head says engagement falls by half without the algorithm",
+      "url": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T11:24:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "44171de0459fd6c599f188226d23c5de",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T11:17:50+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f3f26774a611c8dca8ca3c724141ff8f",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-11T11:15:22+00:00",
+      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "tags": [
+        "CVE",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "fbef7d939bd1aeac612a2927ab79e870",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T11:15:13+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c45e5c85537fc8a9f0ca1d0142fc5a79",
+      "title": "Cliff Stoll’s DEF CON Talk",
+      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-09-11T11:09:55+00:00",
+      "summary": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
+      "tags": []
+    },
+    {
+      "id": "cb1f3ebf6d7b18de9a174d338d3caf98",
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T10:48:00+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9683949c6abb4247a75faecb0f763a48",
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-11T09:39:37+00:00",
+      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "16dd23a16bc44ca410c355f396f1ac7f",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T08:42:04+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ff9b14eb36d96e4977058958e8561dc8",
+      "title": "Neijuan",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T08:26:56+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "679f7d50683a39ef8bdad3ec8182c636",
+      "title": "CSS Curiosities of the Past",
+      "url": "https://vale.rocks/posts/css-relics",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T07:57:17+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1b3e6f3ceb1287619e1eaff972672959",
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-11T07:55:15+00:00",
+      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "86947a59c181c894bbed222fb031f7c2",
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-11T06:48:37+00:00",
+      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "5d655884d7f7c48c541d045c5e8b1bb8",
+      "title": "GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T05:45:19+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "b1b82665c465839a3452132247d1b1c4",
+      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
+      "url": "https://isc.sans.edu/diary/rss/33330",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-09-11T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "b2f3b71de5741105bafa3db5c6c2e47d",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-11T01:00:56+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "682e267665d7c705af4aab315787af63",
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-09-11T01:00:00+00:00",
+      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
+      "tags": []
+    },
+    {
+      "id": "536fcede4ee8e632efad01a46335679f",
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T22:54:01+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "aa1496fd1623bd0e7cc2d3c98c5c93c2",
+      "title": "New Android malware encrypts files, steals data, and harasses victims",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T21:40:43+00:00",
+      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "8bec1e8f2c6f41909ed579639c519503",
+      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
+      "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-09-10T20:36:03+00:00",
+      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
+      "tags": []
+    },
+    {
+      "id": "077ceb25ebbf1f869945d90aa29fdf80",
+      "title": "September Windows Server updates break Remote Desktop Services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T20:34:37+00:00",
+      "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "fca077b5d314f1816af7c448062de1a8",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T19:44:15+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "0f4979d2480b344268b33edb2e657170",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T19:43:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a9e9446ba2c467958d0ab2c1387f6086",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T19:34:20+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a6bf64d3cc7253a8e3f9925263d42394",
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T19:15:07+00:00",
+      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "2f3b653edccf1a4ed9b2aeafb9ce064f",
+      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T19:07:33+00:00",
+      "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "7a83d367ae541a99928f28327e08872b",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T17:14:12+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "080ef98309b19ae7cad170dfa05489df",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T15:57:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4c16c166dd9e961e9e1b07b6a6814e69",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T15:55:56+00:00",
+      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "tags": []
+    },
+    {
+      "id": "bb4c64e787836d6df62e2e613b9fe7a0",
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T15:43:58+00:00",
+      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "c8fe1bc5600f62803e340eb62510e874",
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T15:43:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "98b38ad8c04af763868e7c3755c0d48c",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T15:29:47+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "7109052a26098014fa4eb7302c7e3359",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T15:29:30+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "624f4bb3aae6cd5c5e4b64521de1b0fd",
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-09-10T15:29:12+00:00",
+      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "f75c9c257c658f059c975c769595dd37",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T15:27:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d6170fe5632fce833ab128a0e747b393",
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T14:55:33+00:00",
+      "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "3ffebfc9849420224046455156c9ecfa",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T14:11:34+00:00",
+      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "1271c6f02490fc8658e6c3701b5bbfad",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-10T14:09:31+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f09fd26b0fefb7fc8c2b2e8c0a2ce770",
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-10T14:00:10+00:00",
+      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]",
+      "tags": []
+    },
+    {
+      "id": "d7a83d8f818a40a13d0ad5b5598017b1",
+      "title": "Redtail Payload Analysis Guest Diary , (Wed, Sep 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33326",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-09-10T12:58:10+00:00",
+      "summary": "This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program",
+      "tags": []
+    },
     {
       "id": "d81943589da9364997b1fbd0586609fa",
       "title": "Microsoft says September updates fix mouse settings reset issues",
@@ -30,39 +485,6 @@
       ]
     },
     {
-      "id": "d9be9d3781915111fc7628bfbef192f1",
-      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T10:36:00+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "09e22ca3cc48f99cc8350229c8a86a3d",
-      "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
-      "url": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T10:35:09+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "4b90025e4b344de7003d341860ef2c90",
-      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T10:13:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "9dd672937feefad250577c0437d936f6",
       "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
       "url": "https://isc.sans.edu/diary/rss/33328",
@@ -87,30 +509,6 @@
       ]
     },
     {
-      "id": "30918900f1763f6ab0e8dc157c04b1f6",
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T09:04:14+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7d2769ca59bbc0c8e9b2692601ba1514",
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-10T08:08:16+00:00",
-      "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "24bcbf6c7ad6cfcfe7be848ebc583354",
       "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
       "url": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
@@ -118,91 +516,19 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-09-10T07:00:00+00:00",
-      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents.",
+      "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
       "tags": []
     },
     {
-      "id": "93f9958f35cf46a9dd7c54bcc06d3534",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-10T06:56:33+00:00",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "999bdeb44c39eb15ff451b2e5ebf5ec0",
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "id": "e04e915ea184d3659df27947b73cc52a",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-10T06:11:05+00:00",
+      "published": "2026-09-10T06:49:43+00:00",
       "summary": "Comments",
       "tags": []
-    },
-    {
-      "id": "eff64ce1ef349c904cdbc5432a0d45ba",
-      "title": "All grown-ups were once children, but only few of them remember it",
-      "url": "https://mathstodon.xyz/@tao/117244102901892965",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T04:04:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "876a6b61eb6a38551566b63f5cd0a905",
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-10T01:58:00+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "cc108cfc0ac643d3e0dfb1ebdbf8fb5f",
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T23:49:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a268aa87ff70653d7f9eab16e64d3e33",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T21:40:44+00:00",
-      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-      "tags": [
-        "CVE"
-      ]
-    },
-    {
-      "id": "f2c6a48a56d6fa83a9e62db6c6349b58",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T21:30:36+00:00",
-      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "f8a07b10b8ba6a707bcf4f74dbdb95e7",
@@ -212,21 +538,10 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-09-09T21:19:55+00:00",
-      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+      "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "51293f5305c97ae4f16d7f9cb7ba821d",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T21:02:14+00:00",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-      "tags": []
     },
     {
       "id": "91a590cf253cb559c73ff0e746fe2cd1",
@@ -237,17 +552,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-09T19:47:50+00:00",
       "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
-      "tags": []
-    },
-    {
-      "id": "97a283893ecfb338859ec0143b2772fe",
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T18:15:43+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -262,50 +566,6 @@
       "tags": []
     },
     {
-      "id": "7c8805d4b4f17b69f535a9ce24035ba1",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T17:39:24+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7922e225670bec56d1031181dfea8ac8",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T17:33:20+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8b2b7a6a8886c77bc1ac8da4f27fe6c4",
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T17:14:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7c2b150b02b0ac20949ae01421fc88f0",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T16:48:33+00:00",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "tags": []
-    },
-    {
       "id": "e76788d0b46740bc2ab20f51f1fb0859",
       "title": "Driver’s License Data for Sale",
       "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
@@ -317,31 +577,6 @@
       "tags": []
     },
     {
-      "id": "8b9c58deed220c97024daa6b3001d381",
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T15:47:42+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "b268a1c82ea10d8900928e47cc4ee120",
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T15:31:23+00:00",
-      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
-      ]
-    },
-    {
       "id": "fc0e4a493c7f0ad8c58df14dccc4933c",
       "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
       "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
@@ -350,50 +585,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-09T14:39:44+00:00",
       "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
-      "tags": []
-    },
-    {
-      "id": "bd1732c25d87d73b252353cef09dda86",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T14:37:47+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7828362b9101334b7393e530944e2b4d",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T14:01:11+00:00",
-      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]",
-      "tags": []
-    },
-    {
-      "id": "9957c79ffef3800719bbef09fa6bc8fa",
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T13:27:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "9dd0ffe081c74dd296f25e7ed5334a2e",
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T11:39:46+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -408,77 +599,13 @@
       "tags": []
     },
     {
-      "id": "8a08d3518429206bbcdbdc21be7eee7c",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T10:11:29+00:00",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "tags": [
-        "PATCH",
-        "BREACH"
-      ]
-    },
-    {
-      "id": "13f2b1f60bc2597a7b23adffd26ea1d5",
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
+      "id": "7a2b7189de58d09fb2ebba0325f1fd1a",
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-09T08:53:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "8833b25961f4aea61f84c9a25b881d99",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T08:44:22+00:00",
-      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "tags": []
-    },
-    {
-      "id": "afbff820bd934ac0cb31ea09ed02587c",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T07:30:15+00:00",
-      "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "9f90e3b1dad766c0ba126684d0963131",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T06:25:48+00:00",
-      "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "8e98f0fc1dd520ee9604e82057063d91",
-      "title": "Larger Pacific Striped Octopus",
-      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-09T04:32:22+00:00",
+      "published": "2026-09-09T05:37:21+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -491,28 +618,6 @@
       "source_color": "#e74c3c",
       "published": "2026-09-09T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "5df1bc34006819d04c61319d02a63464",
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-09T01:16:27+00:00",
-      "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
-      "tags": []
-    },
-    {
-      "id": "387c56d93bf22a767baf5fc7e5a07b1e",
-      "title": "Object storage is all you need",
-      "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-08T23:11:30+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -536,7 +641,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-09-08T21:26:02+00:00",
-      "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "summary": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
       "tags": [
         "PATCH"
       ]
@@ -560,7 +665,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-09-08T20:36:15+00:00",
-      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
+      "summary": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
       "tags": []
     },
     {
@@ -575,17 +680,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "51f7db6b771801e828ca21a44f5a7f68",
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-08T18:11:05+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "fcd9411fb7935cd3c7e45fa4c6c2521e",
@@ -612,13 +706,24 @@
       "tags": []
     },
     {
-      "id": "e8fb265e11d0175fa1d1566edd6e036e",
-      "title": "Open Source Durable Objects for Postgres",
-      "url": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "id": "f065bde9b3be6b4b39b075f802640eb8",
+      "title": "iPod Classic 6G in QEMU",
+      "url": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-08T15:59:11+00:00",
+      "published": "2026-09-08T14:54:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8f5da7da698a911b2fad5412859e8318",
+      "title": "An interactive tour of the spanning tree protocol",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-08T14:10:33+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -647,6 +752,17 @@
       ]
     },
     {
+      "id": "b84880ab818328349d04330b41ff31a2",
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-08T06:31:59+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "1e53f57ca54a40d20391b978a52c62a0",
       "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
       "url": "https://isc.sans.edu/diary/rss/33316",
@@ -655,17 +771,6 @@
       "source_color": "#e74c3c",
       "published": "2026-09-08T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "a6de4a65fd01d4f3b10fb28e71483a9e",
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-07T16:17:27+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -680,28 +785,6 @@
       "tags": []
     },
     {
-      "id": "c150f3e24d9ef6fcf5888ce209606469",
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-07T04:27:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "e171f526834e2741f5f1d26e4369fbbc",
-      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
-      "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-07T01:35:21+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "211fe58073f7c208444cec3f803c2ef1",
       "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
       "url": "https://isc.sans.edu/diary/rss/33314",
@@ -713,17 +796,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "97ad01f40edb9fad778b582381a3e4d5",
-      "title": "Show HN: Art – draw one stroke, let symmetry complete it",
-      "url": "https://mrdee.in/mandala/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-05T15:35:13+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "2049e10618cfc8582cfa87710157a404",
@@ -766,7 +838,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-09-04T15:57:31+00:00",
-      "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+      "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but researchers warn the situation will become more urgent very soon.",
       "tags": []
     },
     {
@@ -800,17 +872,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-04T11:09:35+00:00",
       "summary": "It s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary. Notably, I never touched a …",
-      "tags": []
-    },
-    {
-      "id": "41041b1a60741d81dfdf72903a3885c6",
-      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-04T10:35:17+00:00",
-      "summary": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a …",
       "tags": []
     },
     {
@@ -884,28 +945,6 @@
       "tags": []
     },
     {
-      "id": "db5e67e342c4cefdff8cb9554221f115",
-      "title": "Honeypot-Omaha and batch.py Guest Diary , (Wed, Sep 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33306",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-03T02:02:56+00:00",
-      "summary": "This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program",
-      "tags": []
-    },
-    {
-      "id": "5b134dfe68d1e5f2d752cf6be704b2f0",
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "url": "https://isc.sans.edu/diary/rss/33308",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-03T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "fd9f0473fddc84fd734147c8de47ad14",
       "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
       "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
@@ -974,45 +1013,6 @@
       "published": "2026-09-01T22:40:28+00:00",
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verifica…",
       "tags": []
-    },
-    {
-      "id": "e48728888c3d444087d9be40e5ed43cb",
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-01T21:05:53+00:00",
-      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
-      "tags": [
-        "CVE"
-      ]
-    },
-    {
-      "id": "e31dbf94bf1bc9152282c74c9c2e9fec",
-      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-01T21:03:19+00:00",
-      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "cca6a0e9e2b8e3e508ffd7d81dfeec17",
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-01T20:48:52+00:00",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-      "tags": [
-        "CVE"
-      ]
     },
     {
       "id": "25ea658b99d5402bb73a3983e177e5f8",
