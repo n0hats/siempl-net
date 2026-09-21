@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T12:03:01.361977+00:00",
+  "last_updated": "2026-09-21T13:40:46.805966+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
@@ -12,6 +12,285 @@
       "source_color": "#9b59b6",
       "published": "2026-12-03T16:00:00+00:00",
       "summary": "",
+      "tags": []
+    },
+    {
+      "id": "60641f409fdfb95747bee9203597f094",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-21T13:16:20+00:00",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "tags": []
+    },
+    {
+      "id": "0b598043f274c3eb21c8b76b4d98dd7f",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T12:54:24+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "317ed95c475ca500e4ddac97a9c18bdd",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T12:28:17+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9e9786d6d180d22934cc20e34e24fd16",
+      "title": "Microsoft: September updates break File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-21T11:45:54+00:00",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "4e564bb42e959370ceb07b2626cb7dd4",
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33318",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-09-21T10:33:53+00:00",
+      "summary": "Microsoft Security Research published an interesting blog post \" TerminalFix campaign deploys a reverse tunnel through multistage intrusion \" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out to the researchers and they kindly shared the IOC…",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "2421876abdd5124969bee68ca4e7d158",
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T10:33:14+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1128531f415c81af78bb9e0dfc7d4724",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T10:27:50+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5874adce6baf37cec9af565ae233b7a9",
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T08:39:32+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "c1d7db06d6dc2203569f0640240503b1",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T07:55:28+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e96dab974ef43b8dbd6643eccb17e73e",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T07:11:55+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4d86c89df636fa96039024f30dc9467b",
+      "title": "Elektron Machinedrum in the Browser",
+      "url": "https://machinedrum-study.pages.dev/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T06:07:52+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1e425dd4f5d0215cd105893bbabc5d69",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T05:55:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d59317b48f61d47043880ad8a832607e",
+      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33354",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-09-21T05:15:12+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "06d8c4c6246deeedcecec2c3bba54d8b",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T04:42:37+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "db1b6f99b397d796c074bd6366d28985",
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-21T04:35:22+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "75912f7cb98b047a883c331a7d17f29e",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T23:57:10+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "a1e4169b942d8ebe4f13591b8b5e7a16",
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T22:35:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "1f8f0587e01604ae0259b32838837a9e",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T22:32:43+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "573e8884e7be4be5953258d4e4b12016",
+      "title": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T19:44:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3786f83f7200a0ec626df40481fd6048",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T17:55:57+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "9221b9252f7188c0f830ef6b5ac795f9",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T17:38:50+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "995b9040e52c2ed98e5f5af73401a15f",
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T16:41:46+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "e79137748dd30e638002affffc0e4f23",
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T15:18:05+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "f67a5ea6ce38780515f04ab5443e423f",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-20T14:11:21+00:00",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
+      "tags": []
+    },
+    {
+      "id": "97ac8e86b37c6d23d030a0ee4a71384e",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-20T13:09:25+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -28,41 +307,19 @@
       ]
     },
     {
-      "id": "e8844b15175238dd3aef396954a7cfb4",
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "id": "84c11e3158ce4a5179999c1712c137bb",
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-20T11:37:10+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "491766f2daefc1d860f7d1f59b05211b",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-20T10:07:51+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c69ca2e331465447be4cdb1ee722a3dd",
-      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-20T09:08:52+00:00",
+      "published": "2026-09-20T10:49:58+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
       "id": "67e6dd3dceccd936b337aa355a5b468d",
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
       "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
       "source": "Hacker News",
       "source_category": "community",
@@ -72,35 +329,13 @@
       "tags": []
     },
     {
-      "id": "756026ea554c0908f138d23e384495f4",
-      "title": "Telling a Computer to Do Things",
-      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "id": "485596440f0177f14a2629face6c7153",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-20T05:11:33+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "375d2337e4cfe493faac3ac49d48278f",
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-20T04:35:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "da32eadf59929ebd5d08d8fbdc45a17a",
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-20T02:19:33+00:00",
+      "published": "2026-09-20T00:00:47+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -116,46 +351,13 @@
       "tags": []
     },
     {
-      "id": "c9dce3c8566e850ec3382b4a6799862f",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "id": "ab1d94a3c49c3df0d239728d4c7cdaff",
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-19T21:25:29+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "6422896538caa36054bc230887ade9ec",
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T20:41:26+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "18719394dfc1772032bef30dfa66fa92",
-      "title": "Measure internet censorship",
-      "url": "https://ooni.org/install",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T20:00:59+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "871a4cce66aba558041ae12551c05dcf",
-      "title": "The Lamentable Later Life of Lemmings",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T15:17:12+00:00",
+      "published": "2026-09-19T17:14:51+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -168,17 +370,6 @@
       "source_color": "#4a9eff",
       "published": "2026-09-19T14:56:31+00:00",
       "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "tags": []
-    },
-    {
-      "id": "bcf6946fec319c15b9da9fe2eff3176c",
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T14:44:02+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -218,61 +409,6 @@
       "tags": []
     },
     {
-      "id": "4ae40c8c89696064b64345687238fa02",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T10:46:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "c64418081d912ae8ee8ecb40d5c333f9",
-      "title": "Cube",
-      "url": "https://www.cube-motion.dev/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T09:50:23+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "861b71c77d7ec3a2bcf2dc7b47184379",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T09:20:58+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "878150b1938fecc4eaa8e36fce728472",
-      "title": "Chess Atlas",
-      "url": "https://chess-timeline.vercel.app/gallery.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T08:48:38+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "3269db2611739398d6b8bbde4f65c752",
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-19T06:28:02+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "6ea4beab3be0d81891b4b6323b589d8a",
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
       "url": "https://isc.sans.edu/diary/rss/33352",
@@ -294,17 +430,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-18T21:06:00+00:00",
       "summary": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
-      "tags": []
-    },
-    {
-      "id": "30ed8210b68e25b25137e8ddc337ff9f",
-      "title": "When the FM Band Goes Transatlantic",
-      "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-18T20:30:28+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -355,28 +480,6 @@
       "tags": []
     },
     {
-      "id": "fc7de22908d0aeed9b2320fb239852df",
-      "title": "Seeing Circles, Sines, and Signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-18T17:59:41+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "ba02ab58f798e6f00e48fde1aac743ca",
-      "title": "A Model for Winning Survivor",
-      "url": "https://victoriaritvo.com/blog/predicting-survivor/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-18T17:25:55+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "d8e4354a5964d23561180d0161285bdd",
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -388,17 +491,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "d346d95b0150b06c1eee8e2587ae2f62",
-      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-18T15:59:50+00:00",
-      "summary": "Comments",
-      "tags": []
     },
     {
       "id": "d8d03d6fef847afb6c65f23bff4097c5",
@@ -431,17 +523,6 @@
       "source_color": "#4a9eff",
       "published": "2026-09-18T13:58:40+00:00",
       "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "tags": []
-    },
-    {
-      "id": "e53891029f1b14761150a3a0911802c4",
-      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
-      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-18T13:23:10+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -495,19 +576,6 @@
       ]
     },
     {
-      "id": "f12b953f3d6d5640308e5304be9ad213",
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-18T07:35:31+00:00",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "38af989595ec8a9c9616106ef9b8a7cf",
       "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
@@ -532,17 +600,6 @@
       "tags": []
     },
     {
-      "id": "8850a5d9a82dcb2180847bc0b9366bf0",
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-17T21:50:26+00:00",
-      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-      "tags": []
-    },
-    {
       "id": "bb64c58c4d7c2fec806601872a9b4133",
       "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
       "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
@@ -563,19 +620,6 @@
       "published": "2026-09-17T19:15:38+00:00",
       "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
       "tags": []
-    },
-    {
-      "id": "3d9d05bc7b2ea2cc2351af519a6b636d",
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-17T18:55:12+00:00",
-      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "5ef76e0c835be2eb28229973fc4a7394",
@@ -608,28 +652,6 @@
       "source_color": "#e74c3c",
       "published": "2026-09-17T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "648de9ff6c256f5d903dedb1655372b4",
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-17T01:00:14+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "14974699089ac923290a73d5fa63bc73",
-      "title": "Asking authors about their own papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-16T23:31:31+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -835,19 +857,6 @@
       "tags": []
     },
     {
-      "id": "22b7a90516be01f0a412310fb88eebb9",
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33336",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-14T18:33:44+00:00",
-      "summary": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is not as significant as other vendors&&#x23 x26 &#x23 39 \"post-AI\" patch releases.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "948e015e4659a62aefce615d11f76f75",
       "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
       "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
@@ -881,17 +890,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "929d454328cd622a60a73a0f95c91d9f",
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33334",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-14T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
     },
     {
       "id": "af6964f3fbbac958adf2854ab29adbcb",
