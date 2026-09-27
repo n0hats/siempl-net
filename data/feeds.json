@@ -1,28 +1,175 @@
 {
-  "last_updated": "2026-09-26T12:04:29.475426+00:00",
+  "last_updated": "2026-09-27T12:49:14.538234+00:00",
   "item_count": 95,
   "failed_sources": [],
   "items": [
     {
-      "id": "de0eb653ca9a3b94a90d7633f5a9a497",
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "id": "8248b30796fa3051dbf10b91fb105e99",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T10:55:56+00:00",
+      "published": "2026-09-27T10:26:25+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "c676766cdfff12cfdd6e0a785798ac8e",
-      "title": "One Month Without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "id": "24eb7006efc2d1e3db29d20fcf14a48f",
+      "title": "Show HN: LightCloud – A cloud console organised like file system",
+      "url": "https://www.light-cloud.com/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T10:08:21+00:00",
+      "published": "2026-09-27T09:45:15+00:00",
       "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "aed9aa2f984c79be65ca859de8de3f27",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-27T08:44:04+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "12a3f4b4740236de5a3c44659033e2cc",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-27T06:19:33+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "5f95da1bade4a2833be7ff031bc25102",
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-27T05:26:15+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "ff39f222ff72d943ccfd0fcc6039c62e",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-26T19:03:34+00:00",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+      "tags": [
+        "CVE"
+      ]
+    },
+    {
+      "id": "a78ef24ec75fefa5deac0f2737de2c60",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-26T18:22:41+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "55e3771ad7c8e981428449f724de1d05",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-26T17:10:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "64a7ab971623e9de3e653784e4022492",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-26T16:26:58+00:00",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "tags": []
+    },
+    {
+      "id": "a56823c4d8c788bd6a39d6112d866be9",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-26T15:56:34+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "d536e21f7b7466f35b7b306807032a82",
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-26T15:50:38+00:00",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "e17d929d676131f5689e0dcf8c97f62e",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-26T14:34:49+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "3c32ba838ab96825f53dfa66a88c48c1",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-26T14:19:46+00:00",
+      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "tags": []
+    },
+    {
+      "id": "bc03436c39e85ae59ade4fb1d680cd2d",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-26T13:10:05+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "8e6dbe36e7e71f3bce561d75af4727ea",
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-09-26T12:28:41+00:00",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
       "tags": []
     },
     {
@@ -37,68 +184,57 @@
       "tags": []
     },
     {
-      "id": "be12ec4645bf216ed7152c40c4dd6a17",
-      "title": "Floci: Locally emulating any cloud service",
-      "url": "https://floci.io",
+      "id": "6a1a046ebd61d831c80c38028b9970e5",
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T08:31:02+00:00",
+      "published": "2026-09-26T07:50:24+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "ab8a2ba45cc245ad19f158c7a4cba7a1",
-      "title": "The far side of the Moon provides clues to a previous magnetic field",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+      "id": "d872c526653589d5c2839c0916d9e33e",
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T07:49:50+00:00",
+      "published": "2026-09-26T04:14:11+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "3057203bbd0248db0aa00ccad9ee9c14",
-      "title": "Is your Postgres migration safe or not safe?",
-      "url": "https://safenotsafe.dev/",
+      "id": "f7c38d946e6bff91b10d7f8b69f25cce",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T07:33:12+00:00",
+      "published": "2026-09-26T03:23:31+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "3a81ab2860858778ef7e71b610d1a39c",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "id": "ed059b32b3fe61471b0362a34ef03c92",
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T04:20:58+00:00",
+      "published": "2026-09-25T22:48:52+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "da345888bfd5afadb81a0e1f135681fe",
-      "title": "We're gonna need a lot more mathematicians",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "id": "5230607e8a171ba050b56f9be7efbe74",
+      "title": "Accelerated Out of Core Shuffling",
+      "url": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-26T02:46:54+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "0d95ae75b516d54f788f2dd6971746ec",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-26T01:36:50+00:00",
+      "published": "2026-09-25T22:23:51+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -127,28 +263,6 @@
       ]
     },
     {
-      "id": "4b85cd6204622e1220a1166a93076127",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T21:36:56+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "58caad8d72647b1d088f43d4090a9392",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T21:09:27+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "86919a5dd81bcf49c0c8634e67b0c71e",
       "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
       "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
@@ -157,6 +271,17 @@
       "source_color": "#2ecc71",
       "published": "2026-09-25T21:08:14+00:00",
       "summary": "I feel like someone who reads this blog will want to go to this : Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious learners of all ages, this unique experience combines an interactive lesson with the opportunity to expl…",
+      "tags": []
+    },
+    {
+      "id": "77c40b2ea5ce2f491160822fbf03e898",
+      "title": "Teaching a World Model to Play Pokemon",
+      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-25T21:02:48+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -175,24 +300,13 @@
       ]
     },
     {
-      "id": "52999f78d95e7b3b41ed156a7b504d41",
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "id": "bef2b77c87a88bc040fae4ee2a7e524a",
+      "title": "Finally, A True Blue Rose Exists",
+      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-25T20:55:00+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "a4f34f2ab92840371555a0fe6f9e2b6a",
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "url": "https://news.ycombinator.com/item?id=49848955",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T19:37:55+00:00",
+      "published": "2026-09-25T20:44:38+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -205,17 +319,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-25T18:39:32+00:00",
       "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
-      "tags": []
-    },
-    {
-      "id": "45a03e4068a2825d4ef86c7ca5fc4b41",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T18:33:50+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -265,17 +368,6 @@
       "tags": []
     },
     {
-      "id": "1d211c67ac858bcaf0f975dc903ab28b",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T15:31:02+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "31fd5f988db631f6c67e0669d0aa9548",
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
@@ -309,24 +401,24 @@
       "tags": []
     },
     {
-      "id": "2ba871381bb11f5589b7fe86452a64dc",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
+      "id": "f29e8160d0b67e2cc4850d95e98861ec",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-25T14:28:07+00:00",
+      "published": "2026-09-25T13:49:06+00:00",
       "summary": "Comments",
       "tags": []
     },
     {
-      "id": "4fcb6aa0866f463b0fcd6123d907678e",
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "id": "121abfa849b0dcaca2219181ff069839",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-25T13:55:37+00:00",
+      "published": "2026-09-25T13:48:38+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -377,6 +469,17 @@
       "tags": []
     },
     {
+      "id": "37e781f3ddfda52b3191f363ff2e22b7",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-25T10:55:40+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
       "id": "8364d61704cacfc9d099b53ba4f917de",
       "title": "Microsoft: Recent Windows updates cause desktop loading issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
@@ -390,17 +493,6 @@
       ]
     },
     {
-      "id": "19d139baf388fced9f0b25e156367682",
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-25T08:33:44+00:00",
-      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
-      "tags": []
-    },
-    {
       "id": "ed355502563d7d33da02500303c8bdc5",
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
       "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
@@ -409,17 +501,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-25T07:00:00+00:00",
       "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-      "tags": []
-    },
-    {
-      "id": "e9873e4f09284ae031fc35ad71a9e36a",
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-25T03:59:11+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -434,13 +515,24 @@
       "tags": []
     },
     {
-      "id": "4e9d196056e991c643a8acac851ec4da",
-      "title": "The Murky History of Soviet-Born Tetris",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "id": "2f687dceb7443b2dfbc97481d608d168",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
       "source": "Hacker News",
       "source_category": "community",
       "source_color": "#ff6600",
-      "published": "2026-09-24T23:11:45+00:00",
+      "published": "2026-09-25T02:34:39+00:00",
+      "summary": "Comments",
+      "tags": []
+    },
+    {
+      "id": "4226ec442ef4397f7364888136e456b0",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-25T02:11:07+00:00",
       "summary": "Comments",
       "tags": []
     },
@@ -456,14 +548,14 @@
       "tags": []
     },
     {
-      "id": "cbb516ddbe951e182400895de36e6449",
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-24T20:53:35+00:00",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "id": "0a4bcefa3a855d5e92cd8249c292ba09",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-24T20:51:50+00:00",
+      "summary": "Comments",
       "tags": []
     },
     {
@@ -478,30 +570,15 @@
       "tags": []
     },
     {
-      "id": "1246ccd8d2a7850d56b0c296cc066892",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-24T20:10:48+00:00",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "519156a4160721f3a0abc4dffafeb33a",
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-24T17:47:44+00:00",
-      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-      "tags": [
-        "BREACH"
-      ]
+      "id": "9e3947aa23ba1faec840f0ed0c804ffd",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "source": "Hacker News",
+      "source_category": "community",
+      "source_color": "#ff6600",
+      "published": "2026-09-24T16:11:42+00:00",
+      "summary": "Comments",
+      "tags": []
     },
     {
       "id": "af5a5956a8b82bd6cb3d61c5737e310b",
@@ -529,17 +606,6 @@
       "tags": []
     },
     {
-      "id": "966aa0d19dd2677789eba3b12daee9d2",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-24T14:02:12+00:00",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
-      "tags": []
-    },
-    {
       "id": "de6dc55ec9c40dd9f0ef02fde888e0b7",
       "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
@@ -551,17 +617,6 @@
       "tags": []
     },
     {
-      "id": "57e7a9e49c4eceb010c284b714d27c4b",
-      "title": "From Thin Air to Bootable Images: The Tine Build System",
-      "url": "https://amutable.com/blog/tine-build-system",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T13:25:11+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "2a1defe91f708c9b7849531aedc7be31",
       "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
       "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
@@ -570,28 +625,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-24T13:00:00+00:00",
       "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
-      "tags": []
-    },
-    {
-      "id": "e5e8cde64e25266a69fa6d1a21427b64",
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T12:10:53+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "20bec44b27d76e54a4d37ce7a089e3ab",
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T12:03:35+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
@@ -617,17 +650,6 @@
       "tags": []
     },
     {
-      "id": "aa415ea99a6392a95b1e8244a66afd41",
-      "title": "16GB iPod Nano 3G Upgrade",
-      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T03:58:54+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
       "id": "d72585e8c5a674e8dae55583f755462c",
       "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
       "url": "https://isc.sans.edu/diary/rss/33364",
@@ -636,28 +658,6 @@
       "source_color": "#e74c3c",
       "published": "2026-09-24T03:50:11+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "bf33585618e33e8a19636bca2fdffe46",
-      "title": "Scientists build most accurate atomic clock",
-      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T01:00:01+00:00",
-      "summary": "Comments",
-      "tags": []
-    },
-    {
-      "id": "7c96c958776197bac8c7a05d4386cc4c",
-      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "url": "https://www.osti.gov/servlets/purl/1124870",
-      "source": "Hacker News",
-      "source_category": "community",
-      "source_color": "#ff6600",
-      "published": "2026-09-24T00:34:11+00:00",
-      "summary": "Comments",
       "tags": []
     },
     {
