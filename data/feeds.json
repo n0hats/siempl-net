@@ -1,10 +1,130 @@
 {
-  "last_updated": "2026-10-01T14:15:45.631832+00:00",
+  "last_updated": "2026-10-02T13:37:38.962020+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "865d9b5a81dfe8c392dbeab31f131163",
+      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
+      "url": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T13:00:00+00:00",
+      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
+      "tags": []
+    },
+    {
+      "id": "dc1ecc422d4c0a405d2babd83a9c8cb1",
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T12:37:40+00:00",
+      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "82cd3bbcf567689213611905737ab7b2",
+      "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-02T11:02:19+00:00",
+      "summary": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates , parties and committees spending reveals that AI is fast becoming an essential tool of politics. The candi…",
+      "tags": []
+    },
+    {
+      "id": "afac617f68a933fdb48e4b56e60cfbbf",
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T09:29:56+00:00",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "tags": []
+    },
+    {
+      "id": "20cde234f632cd25a24ed225e016543d",
+      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/33390",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-02T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "ccc3390d729122c918eb6fceefa104e1",
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-01T22:42:49+00:00",
+      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+      "tags": [
+        "CVE",
+        "0DAY"
+      ]
+    },
+    {
+      "id": "7a308a7b83016c618eed651af8e57245",
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-01T21:37:50+00:00",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "0c169a818fc4da8231bb8b19d79031ff",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-01T20:52:50+00:00",
+      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      "tags": []
+    },
+    {
+      "id": "6aebd76eb7c35834e434cca3f69441e9",
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-01T19:32:47+00:00",
+      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+      "tags": []
+    },
+    {
+      "id": "0f9d08794b99d32d48a079e5458c436d",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-01T14:25:14+00:00",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "BREACH"
+      ]
+    },
     {
       "id": "b66247c23bc8b1574235594dfad265db",
       "title": "The Day-One Hole in Zero Trust Architecture",
@@ -61,7 +181,7 @@
       "source_category": "analysis",
       "source_color": "#2ecc71",
       "published": "2026-10-01T11:06:14+00:00",
-      "summary": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: To determine this, CR dug through thousands of pages of automakers’ privacy policies and asked questions of 15 different automakers­BMW, Ford, General Motors, Honda, Hyundai, Kia, Mazda, Mercedes-Benz, Mitsubishi, Ni…",
+      "summary": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphon…",
       "tags": []
     },
     {
@@ -208,70 +328,6 @@
       ]
     },
     {
-      "id": "139f0878f3c6cd153793d7f72acd4ffa",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T14:46:40+00:00",
-      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-      "tags": [
-        "CVE",
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "88b120dd4e690642686d2dfa7217a8e1",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T14:01:11+00:00",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
-      "tags": []
-    },
-    {
-      "id": "06e2c4a02738e7a65d8c2e8f45526e81",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T13:37:15+00:00",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "tags": []
-    },
-    {
-      "id": "73daeef06e6bf6613ebb5915af318cb7",
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T12:25:10+00:00",
-      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "a57e6bd448d5bf9a14687819f42d1cd6",
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T11:11:46+00:00",
-      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-      "tags": [
-        "0DAY",
-        "BREACH"
-      ]
-    },
-    {
       "id": "02856f3b4e7c1b483ef6a54feb6e18fb",
       "title": "I Want Better Reporting on AI Genie Behavior",
       "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
@@ -304,17 +360,6 @@
       "source_color": "#e74c3c",
       "published": "2026-09-30T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "6bf6789a40356205085d3271e9fff830",
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T00:40:57+00:00",
-      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
       "tags": []
     },
     {
@@ -646,17 +691,6 @@
       "tags": []
     },
     {
-      "id": "33b6b42b5a0b127a430a0ec48ea3374f",
-      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33370",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-25T03:45:12+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "c4a39b642f3c17386da59124aabcc084",
       "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
       "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
@@ -666,31 +700,6 @@
       "published": "2026-09-24T21:04:03+00:00",
       "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
       "tags": []
-    },
-    {
-      "id": "882da3f34a04aa4a28126a152047c305",
-      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-24T20:32:50+00:00",
-      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
-      "tags": []
-    },
-    {
-      "id": "af5a5956a8b82bd6cb3d61c5737e310b",
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-24T14:44:12+00:00",
-      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
-      ]
     },
     {
       "id": "a8ad696d317e9a8e320a6fcc05845d6a",
@@ -723,17 +732,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-22T11:02:45+00:00",
       "summary": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that …",
-      "tags": []
-    },
-    {
-      "id": "c0d5825a3412b5f80911f84a5d905f88",
-      "title": "Reverse-Engineering Flock Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-21T14:37:45+00:00",
-      "summary": "Hackers captured a Flock camera and got a look (alternate link ) at the software: While much of the automatic license plate reader s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the device explicitly detects people as well as vehicles, license plates, and …",
       "tags": []
     },
     {
