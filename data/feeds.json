@@ -1,10 +1,167 @@
 {
-  "last_updated": "2026-10-02T13:37:38.962020+00:00",
+  "last_updated": "2026-10-03T12:15:38.331345+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "e87db040b0e4816656a656cc1888bc02",
+      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-02T21:02:18+00:00",
+      "summary": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "4e5c0d9f5011dda19db1e6b605e0f5bc",
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T20:18:37+00:00",
+      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+      "tags": []
+    },
+    {
+      "id": "1e0ff0489d0f288d28a4e7c1e5ae738f",
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T19:01:40+00:00",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "e4abf7cb8ed77a4f08b5e1b8f375863f",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T18:33:01+00:00",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "b033268530910287dc5f9b3abcf28fa9",
+      "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T16:56:30+00:00",
+      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "cf3792885967e4b9b4132407a81620b9",
+      "title": "SWIFT Banking & Government Middleware Enables RCE",
+      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T16:27:54+00:00",
+      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "b83c2d203f25d968f57e1b9aa96fa92e",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T16:20:05+00:00",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "e9e44e34b93ae53b7558b8a9512aa7e8",
+      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T16:01:22+00:00",
+      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
+      "tags": []
+    },
+    {
+      "id": "5862a97e1695170af116c65b1cb1f554",
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T15:51:33+00:00",
+      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
+      "tags": []
+    },
+    {
+      "id": "d709a9fee8d15a34a3693871543c5442",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T15:20:53+00:00",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "tags": []
+    },
+    {
+      "id": "e7e175b8c6851f106add52657cff07ba",
+      "title": "Unidentified Flock Cameras in Florida",
+      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-02T14:52:46+00:00",
+      "summary": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were…",
+      "tags": []
+    },
+    {
+      "id": "480ae49b919d130480541008286c924f",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-02T14:00:10+00:00",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+      "tags": []
+    },
+    {
+      "id": "d38be93beb2fa3ef553b916298bf422e",
+      "title": "Vulnerability Backlogs Are an Ownership Problem",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-02T14:00:00+00:00",
+      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "865d9b5a81dfe8c392dbeab31f131163",
       "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
@@ -198,17 +355,6 @@
       ]
     },
     {
-      "id": "607aed31426c45b9580f612edd40fc39",
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T07:33:57+00:00",
-      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-      "tags": []
-    },
-    {
       "id": "04273cf2ce61aadf064febb70166b7d8",
       "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
       "url": "https://isc.sans.edu/diary/rss/33388",
@@ -255,31 +401,6 @@
       "tags": []
     },
     {
-      "id": "caf3813a8d95e6668358752489cbc753",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T20:34:01+00:00",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "tags": []
-    },
-    {
-      "id": "eb7ebd6add515f17057ce44ad98ae535",
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T19:49:15+00:00",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "tags": [
-        "0DAY",
-        "BREACH"
-      ]
-    },
-    {
       "id": "6033972711ac00f0cfb6c67051da7f8e",
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
@@ -288,30 +409,6 @@
       "source_color": "#9b59b6",
       "published": "2026-09-30T18:56:56+00:00",
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
-      "tags": []
-    },
-    {
-      "id": "7f7376d3eaeb01e2b53c80b2b70c5514",
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T18:08:34+00:00",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "406e52c0a9028496c597b9b581a4ef4a",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-09-30T15:49:29+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
       "tags": []
     },
     {
@@ -612,50 +709,6 @@
       "tags": []
     },
     {
-      "id": "d1cf6c51b5700db45400850225064c91",
-      "title": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success",
-      "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-25T20:28:10+00:00",
-      "summary": "Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape.",
-      "tags": []
-    },
-    {
-      "id": "f7b64e3472b4372933dd5a95c29442a0",
-      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-25T18:39:32+00:00",
-      "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
-      "tags": []
-    },
-    {
-      "id": "e14c4a011dbcc67cd83d16755de9d1d5",
-      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-25T17:56:23+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
-      "tags": []
-    },
-    {
-      "id": "75f0568e319f701adbbf18480c5df21c",
-      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-      "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-25T14:46:13+00:00",
-      "summary": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
-      "tags": []
-    },
-    {
       "id": "b20e782925529aa830128b2e7e6bd150",
       "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
       "url": "https://isc.sans.edu/diary/rss/33368",
@@ -680,28 +733,6 @@
       "tags": []
     },
     {
-      "id": "ed355502563d7d33da02500303c8bdc5",
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-25T07:00:00+00:00",
-      "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-      "tags": []
-    },
-    {
-      "id": "c4a39b642f3c17386da59124aabcc084",
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-24T21:04:03+00:00",
-      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
-      "tags": []
-    },
-    {
       "id": "a8ad696d317e9a8e320a6fcc05845d6a",
       "title": "Malicious npm Packages That Evade Defenses",
       "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
@@ -710,28 +741,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-24T11:07:42+00:00",
       "summary": "This is an impressive piece of malware . Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
-      "tags": []
-    },
-    {
-      "id": "fd0f84e85e9ed0ac8de058b962e35b91",
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-23T11:03:36+00:00",
-      "summary": "New paper: Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training . Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domain…",
-      "tags": []
-    },
-    {
-      "id": "6a489f8acb0f35ee1b5bb265644db1d5",
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-22T11:02:45+00:00",
-      "summary": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that …",
       "tags": []
     },
     {
