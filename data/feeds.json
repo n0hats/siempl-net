@@ -1,10 +1,80 @@
 {
-  "last_updated": "2026-10-03T12:15:38.331345+00:00",
+  "last_updated": "2026-10-04T13:03:23.101527+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "b61e53bcc90bd4cb00b9abc79d9eb999",
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-04T10:53:21+00:00",
+      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "tags": []
+    },
+    {
+      "id": "7ba19d49d1ec3d102930a3793e06ac5d",
+      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33394",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-04T07:58:51+00:00",
+      "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.",
+      "tags": []
+    },
+    {
+      "id": "5f113e136b8440b3cab4c5a0097c0dfe",
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-03T23:12:34+00:00",
+      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+      "tags": []
+    },
+    {
+      "id": "c861057374d49283b324971736e94098",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-03T19:09:38+00:00",
+      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "tags": []
+    },
+    {
+      "id": "e29a0f16fcfb6e2b6e01cc9cdbf961f1",
+      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/33392",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-03T14:40:21+00:00",
+      "summary": "YARA-X&&#x23 x26 &#x23 39 s 1.21.0 release brings 5 improvements and 4 bugfixes.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "5687b230902f95b0b2d1db71e01fcb4c",
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-03T14:35:20+00:00",
+      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "e87db040b0e4816656a656cc1888bc02",
       "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
@@ -283,30 +353,6 @@
       ]
     },
     {
-      "id": "b66247c23bc8b1574235594dfad265db",
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T14:01:11+00:00",
-      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
-      "tags": []
-    },
-    {
-      "id": "7557dee42d66df201f6d23866fc84ad0",
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T13:51:08+00:00",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "8d5f87860119ff370f5cf02f2c116d72",
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
@@ -320,17 +366,6 @@
       ]
     },
     {
-      "id": "1f30d27d98e04c68616ad8bb46c9fee5",
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T11:14:28+00:00",
-      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-      "tags": []
-    },
-    {
       "id": "99374c52ffd61c4aa27e1d38d1edeb4f",
       "title": "Connected Cars Are a Surveillance Platform",
       "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
@@ -340,19 +375,6 @@
       "published": "2026-10-01T11:06:14+00:00",
       "summary": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphon…",
       "tags": []
-    },
-    {
-      "id": "d9c25dc9d34365e7a2d4a060592259b5",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T09:44:28+00:00",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "04273cf2ce61aadf064febb70166b7d8",
@@ -674,19 +696,6 @@
       "tags": []
     },
     {
-      "id": "6cd91a5e616d9fd7a04319a4185f9f80",
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "url": "https://isc.sans.edu/diary/rss/33372",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-27T15:04:49+00:00",
-      "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "9a3c108ea3f4944a73deb26602553675",
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -707,19 +716,6 @@
       "published": "2026-09-25T21:08:14+00:00",
       "summary": "I feel like someone who reads this blog will want to go to this : Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious learners of all ages, this unique experience combines an interactive lesson with the opportunity to expl…",
       "tags": []
-    },
-    {
-      "id": "b20e782925529aa830128b2e7e6bd150",
-      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33368",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-25T12:45:19+00:00",
-      "summary": "Introduction",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "3cd2f75bbde1eb3477d7c6b8d7bc3524",
