@@ -1,10 +1,165 @@
 {
-  "last_updated": "2026-10-04T13:03:23.101527+00:00",
+  "last_updated": "2026-10-05T15:35:58.443083+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "ce2aac8e1083ede354a2e5162e6db61c",
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T15:21:10+00:00",
+      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "c7adfe0b0f5b4ef643d2e06c5953ad91",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T14:53:06+00:00",
+      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "e1baac5112e420ea5864f80bf8fdc995",
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T14:22:12+00:00",
+      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "d11904f869d22312a470099d802f6724",
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T13:33:42+00:00",
+      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
+      "tags": []
+    },
+    {
+      "id": "38ccfeb712cebdcfa6bfabe0edd8b147",
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T13:01:45+00:00",
+      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "tags": []
+    },
+    {
+      "id": "609d08ee0305526fffa5255d54228cb3",
+      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
+      "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-05T13:00:00+00:00",
+      "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
+      "tags": []
+    },
+    {
+      "id": "04804fedee50e905100f16ee43fde013",
+      "title": "Another Historic Cipher Falls to AI",
+      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-05T11:04:47+00:00",
+      "summary": "This one is from 1809, written by Napoleon s nephew.",
+      "tags": []
+    },
+    {
+      "id": "18b4291d4abb91276f2bda423f73c73d",
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T10:28:45+00:00",
+      "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "tags": []
+    },
+    {
+      "id": "48fc798713bb635cc0ace9b8249df6a2",
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T09:37:56+00:00",
+      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "a6c59b484b163b9ddfa81cc8d9e8fdfd",
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-05T08:27:46+00:00",
+      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+      "tags": []
+    },
+    {
+      "id": "1e5707132f1fa35a5c46d7adbe2d7444",
+      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33398",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-05T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "fe7a08eb08767bcbfaa88e07695faeef",
+      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33396",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-05T00:15:00+00:00",
+      "summary": "For an experiment, I created a script 1 that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM 2 to be correlated with all the data.",
+      "tags": []
+    },
+    {
+      "id": "62bc590f7ad7e73df12fb2ca6ed3623b",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-04T21:58:01+00:00",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+      "tags": [
+        "CVE",
+        "0DAY",
+        "PATCH"
+      ]
+    },
     {
       "id": "b61e53bcc90bd4cb00b9abc79d9eb999",
       "title": "Anthropic asks Claude users to share voice data for AI model training",
@@ -152,19 +307,6 @@
       ]
     },
     {
-      "id": "b83c2d203f25d968f57e1b9aa96fa92e",
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-02T16:20:05+00:00",
-      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "e9e44e34b93ae53b7558b8a9512aa7e8",
       "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
       "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
@@ -187,17 +329,6 @@
       "tags": []
     },
     {
-      "id": "d709a9fee8d15a34a3693871543c5442",
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-02T15:20:53+00:00",
-      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "tags": []
-    },
-    {
       "id": "e7e175b8c6851f106add52657cff07ba",
       "title": "Unidentified Flock Cameras in Florida",
       "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
@@ -206,17 +337,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-02T14:52:46+00:00",
       "summary": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were…",
-      "tags": []
-    },
-    {
-      "id": "480ae49b919d130480541008286c924f",
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-02T14:00:10+00:00",
-      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
       "tags": []
     },
     {
@@ -244,19 +364,6 @@
       "tags": []
     },
     {
-      "id": "dc1ecc422d4c0a405d2babd83a9c8cb1",
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-02T12:37:40+00:00",
-      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "82cd3bbcf567689213611905737ab7b2",
       "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
       "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
@@ -265,17 +372,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-02T11:02:19+00:00",
       "summary": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates , parties and committees spending reveals that AI is fast becoming an essential tool of politics. The candi…",
-      "tags": []
-    },
-    {
-      "id": "afac617f68a933fdb48e4b56e60cfbbf",
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-02T09:29:56+00:00",
-      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
       "tags": []
     },
     {
@@ -290,20 +386,6 @@
       "tags": []
     },
     {
-      "id": "ccc3390d729122c918eb6fceefa104e1",
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T22:42:49+00:00",
-      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-      "tags": [
-        "CVE",
-        "0DAY"
-      ]
-    },
-    {
       "id": "7a308a7b83016c618eed651af8e57245",
       "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
@@ -314,42 +396,6 @@
       "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
       "tags": [
         "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "0c169a818fc4da8231bb8b19d79031ff",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T20:52:50+00:00",
-      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-      "tags": []
-    },
-    {
-      "id": "6aebd76eb7c35834e434cca3f69441e9",
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T19:32:47+00:00",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-      "tags": []
-    },
-    {
-      "id": "0f9d08794b99d32d48a079e5458c436d",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-01T14:25:14+00:00",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
       ]
     },
     {
@@ -577,20 +623,6 @@
       "tags": []
     },
     {
-      "id": "54e7d8418e76c8e7b475198691e877c2",
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-28T22:35:35+00:00",
-      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&&#x23 x26 &#x23 39 s update for the current \"27\" branch does not address security issu…",
-      "tags": [
-        "CVE",
-        "PATCH"
-      ]
-    },
-    {
       "id": "f90ea897385de8c2760677aaa823218a",
       "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
       "url": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
@@ -650,19 +682,6 @@
       "tags": []
     },
     {
-      "id": "566d9c07bf5ecf9878f93283924ce9e7",
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-28T15:33:21+00:00",
-      "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "dbfccb4427ccdaa75ddcdbe81daff6f2",
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -682,17 +701,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-28T11:02:58+00:00",
       "summary": "ArsTechnica is reporting on a new attack against RSA, one that bypasses factoring. First, this attack isn t new. The original research is from 2007 . What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover the private key from the public key. Third, the attack only wo…",
-      "tags": []
-    },
-    {
-      "id": "802411aec691e9b32631b152c95c1fcc",
-      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33374",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-09-28T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -726,17 +734,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-25T11:07:22+00:00",
       "summary": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected t…",
-      "tags": []
-    },
-    {
-      "id": "a8ad696d317e9a8e320a6fcc05845d6a",
-      "title": "Malicious npm Packages That Evade Defenses",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-24T11:07:42+00:00",
-      "summary": "This is an impressive piece of malware . Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.",
       "tags": []
     },
     {
