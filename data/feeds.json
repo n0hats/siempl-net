@@ -1,10 +1,237 @@
 {
-  "last_updated": "2026-10-07T14:14:45.005733+00:00",
+  "last_updated": "2026-10-08T14:23:54.074766+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "60b3df4815c4c60f2e3025958e105493",
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T14:00:10+00:00",
+      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "029d8e9ee55083d1237a10372547d794",
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T13:18:36+00:00",
+      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+      "tags": []
+    },
+    {
+      "id": "ba0a883112defbe484fe437c30787821",
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T12:08:16+00:00",
+      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      "tags": []
+    },
+    {
+      "id": "7952259f398370f3537df608d0d14bc0",
+      "title": "Writing the Next Chapter",
+      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+      "tags": []
+    },
+    {
+      "id": "ff24a9efa28d043622e3c643af593ff9",
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T11:42:46+00:00",
+      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+      "tags": [
+        "PATCH",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "3f516fdcd15a58830910f9ed4c9d274f",
+      "title": "How Technology Empowers—and Imperils—Dictators",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-08T11:07:35+00:00",
+      "summary": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor s head that read: Stop the war. Don t believe…",
+      "tags": []
+    },
+    {
+      "id": "2a9e027ffd9a90620ca303fd34c04daa",
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T10:29:19+00:00",
+      "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "tags": []
+    },
+    {
+      "id": "984f046a984da36b9c9d3ba31ee6f2df",
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-08T06:32:16+00:00",
+      "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "a0bafe28b3477a7a34486bc4882fac77",
+      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33408",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-08T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "9d06369585a14786b160dc5ed4053370",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-07T23:04:37+00:00",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "5f77c1b4bc4b30439a525a1dae00bd56",
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-07T21:42:55+00:00",
+      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+      "tags": []
+    },
+    {
+      "id": "cee1a6735906ba17466eced8425b7a53",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-07T21:28:54+00:00",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "f89626e074f317d03d14474ad6aa4af9",
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-07T21:25:13+00:00",
+      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+      "tags": []
+    },
+    {
+      "id": "d78bf62b696519f909f6296d03aa4d6a",
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-07T20:51:25+00:00",
+      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "tags": []
+    },
+    {
+      "id": "8f15da4c86e68d1f09d624f79b1fedd3",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-07T20:50:13+00:00",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "30729d1ef41ed9971fee808b1490176b",
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-07T19:34:08+00:00",
+      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+      "tags": []
+    },
+    {
+      "id": "1643f83313ac18cb06753e2cbfda80bc",
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-07T15:44:22+00:00",
+      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+      "tags": []
+    },
+    {
+      "id": "c3fcc673098f351e2cb23bd66ff31718",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-07T15:04:08+00:00",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "30ae8dcb48341d24334b4fb4354a6070",
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-07T14:59:33+00:00",
+      "summary": "On October 5th, Atlassian published patches&&#x23 x26 &#x23 xc2 &&#x23 x26 &#x23 xa0 for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23 x26 &#x23 x5b CVE-2026-21589 &&#x23 x26 &#x23 x5d . An attacker can read arbitrary files in the web application&&#x23 x26 &#x23 39 s directory, potentially exposing sensitive information s…",
+      "tags": [
+        "CVE",
+        "PATCH"
+      ]
+    },
     {
       "id": "08c85093b0131fc855f2e150334878e2",
       "title": "Ransomware has a new target. Is your backup ready?",
@@ -78,20 +305,6 @@
       "tags": []
     },
     {
-      "id": "decee92ebcaf63d4ff644794fa17123f",
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-07T10:27:52+00:00",
-      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
-      ]
-    },
-    {
       "id": "02e14183456046b8881583efa2f7f8cd",
       "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
       "url": "https://isc.sans.edu/diary/rss/33404",
@@ -100,17 +313,6 @@
       "source_color": "#e74c3c",
       "published": "2026-10-07T02:00:02+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "6cb67863bf1b0d5e2e6b29b4058525ce",
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T21:00:27+00:00",
-      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
       "tags": []
     },
     {
@@ -134,21 +336,8 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-10-06T20:30:27+00:00",
-      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
       "tags": []
-    },
-    {
-      "id": "2bbff77b17d4622abfb3f56b5fedae87",
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T19:21:53+00:00",
-      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-      "tags": [
-        "0DAY"
-      ]
     },
     {
       "id": "fa21d2fcae854dc0fff40b88c275595b",
@@ -160,19 +349,6 @@
       "published": "2026-10-06T17:56:29+00:00",
       "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
       "tags": []
-    },
-    {
-      "id": "55757333f21122e8e940360bd686a1ac",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T17:34:59+00:00",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "tags": [
-        "CVE"
-      ]
     },
     {
       "id": "9bc2ea5aec54ed6a921aaae392a33f51",
@@ -194,43 +370,6 @@
       "source_color": "#9b59b6",
       "published": "2026-10-06T16:59:24+00:00",
       "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "b6744a76660ee66e067f8a60bef1f048",
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T16:33:54+00:00",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "b5230d49f3e15b8e4ebb36c5674d4030",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T15:16:44+00:00",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "tags": []
-    },
-    {
-      "id": "4ec0d751518c11c7a32978bba4edc9cb",
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T14:00:10+00:00",
-      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
       "tags": [
         "PATCH"
       ]
@@ -258,17 +397,6 @@
       "tags": []
     },
     {
-      "id": "caa2932e0646b8a39d19a68885b0d25b",
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T11:31:48+00:00",
-      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-      "tags": []
-    },
-    {
       "id": "4d57c619050d808d32e5a59163a447ce",
       "title": "Possible Vulnerability in Apple’s Automatic Reboot",
       "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
@@ -277,43 +405,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-06T11:06:46+00:00",
       "summary": "404Media is reporting (alternate link ) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn t been used for 72 hours. The new technology to get around inactivity reboot was developed by M…",
-      "tags": []
-    },
-    {
-      "id": "756bba0c540a9effbe402ec69b10bc97",
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T09:25:50+00:00",
-      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "8bea3f28cea9a38f538da2c622e90e69",
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-06T08:19:24+00:00",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "7d2a322848c9f60135330bd27eb21491",
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-05T22:46:33+00:00",
-      "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
       "tags": []
     },
     {
@@ -572,28 +663,6 @@
       "tags": []
     },
     {
-      "id": "04273cf2ce61aadf064febb70166b7d8",
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33388",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-01T05:32:13+00:00",
-      "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...",
-      "tags": []
-    },
-    {
-      "id": "461a36a20e288606156286ca46f1407e",
-      "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33386",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-01T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "14a5dcc9b364d84cf6384fe5b880709e",
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
@@ -629,19 +698,6 @@
       "tags": []
     },
     {
-      "id": "a1e65a6b3baf2335428e48363c897c66",
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-30T15:02:25+00:00",
-      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "02856f3b4e7c1b483ef6a54feb6e18fb",
       "title": "I Want Better Reporting on AI Genie Behavior",
       "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
@@ -650,57 +706,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-30T11:05:35+00:00",
       "summary": "AI systems are regularly completing tasks in ways that their prompters don t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I ve been calling genie behavior , because I think that really gets at the core of what s happening. I wish the popular press would report on this better. I don t like the going …",
-      "tags": []
-    },
-    {
-      "id": "7c8a8d8dd4bccb8f69fa211689a38517",
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-30T07:00:00+00:00",
-      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "2b3b9fba37dc2b7be31a5a3648de2836",
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-29T21:31:29+00:00",
-      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-      "tags": [
-        "CVE",
-        "0DAY"
-      ]
-    },
-    {
-      "id": "7573f3929dc1fbbd4b25692afcfb1159",
-      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-29T21:08:42+00:00",
-      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "dcac72ccff20d836e364cc340e3dd2ad",
-      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-      "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-09-29T17:02:16+00:00",
-      "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
       "tags": []
     },
     {
@@ -723,17 +728,6 @@
       "source_color": "#ff6b35",
       "published": "2026-09-28T15:08:57+00:00",
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI an…",
-      "tags": []
-    },
-    {
-      "id": "277c0f873780c50935c537f018835614",
-      "title": "New Attack Against RSA",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-28T11:02:58+00:00",
-      "summary": "ArsTechnica is reporting on a new attack against RSA, one that bypasses factoring. First, this attack isn t new. The original research is from 2007 . What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover the private key from the public key. Third, the attack only wo…",
       "tags": []
     },
     {
