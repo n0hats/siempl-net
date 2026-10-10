@@ -1,10 +1,156 @@
 {
-  "last_updated": "2026-10-09T14:09:42.491226+00:00",
+  "last_updated": "2026-10-10T13:18:43.250378+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "089597e941ccf2bb776eb110f587aaaa",
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-10T12:30:39+00:00",
+      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "420888f143c6fddaefd5975f781dfd6a",
+      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+      "url": "https://isc.sans.edu/diary/rss/33414",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-10T09:11:34+00:00",
+      "summary": "The Traffic Light Protocol (TLP) 1 , which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).",
+      "tags": []
+    },
+    {
+      "id": "ebf8282e5b855b682649fcd7f69bfaca",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "KrebsOnSecurity",
+      "source_category": "threat-intel",
+      "source_color": "#ff6b35",
+      "published": "2026-10-10T00:17:42+00:00",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "7e5a61a709ebfa2fd1547222bc7141aa",
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-09T20:58:32+00:00",
+      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "40feb2f28694e4a4ca54c92c295a29f6",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-09T20:31:37+00:00",
+      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "307e72e198123f744b0ec944fe1262d9",
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-09T20:24:45+00:00",
+      "summary": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And I caught a squid! Near as I can tell, it s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a b…",
+      "tags": []
+    },
+    {
+      "id": "e3769ef3bd3824b235179a2b2c5b07de",
+      "title": "AI Scramble Drives Cybersecurity M&A Boom",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-09T19:26:26+00:00",
+      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+      "tags": []
+    },
+    {
+      "id": "7f42e01081785b2063a3dc19eeb927b2",
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-09T17:21:00+00:00",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+      "tags": []
+    },
+    {
+      "id": "200882d661b559cce8ef4e9af71f00d7",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-09T17:17:23+00:00",
+      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "22bc20427a4cb84a472b02b65454d0d3",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-09T17:02:29+00:00",
+      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "cb1fe86272b67fb51649d9ce942e6666",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-09T16:25:05+00:00",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
+      "tags": []
+    },
+    {
+      "id": "e6d9942a9ee625abf74a579f0995640d",
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-09T15:38:56+00:00",
+      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
     {
       "id": "575db4874cf13c3c0188d6aebab4947a",
       "title": "How to keep AI agents within their permissions",
@@ -117,13 +263,13 @@
     },
     {
       "id": "cc1877988ca46691a3682f46d7aa3433",
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
       "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "source": "Dark Reading",
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-10-08T20:39:44+00:00",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "tags": [
         "PATCH"
       ]
@@ -199,52 +345,6 @@
       ]
     },
     {
-      "id": "aa9afeeffeb5d540f9e71f754f4b0a46",
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T15:26:33+00:00",
-      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-      "tags": []
-    },
-    {
-      "id": "60b3df4815c4c60f2e3025958e105493",
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T14:00:10+00:00",
-      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "029d8e9ee55083d1237a10372547d794",
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T13:18:36+00:00",
-      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-      "tags": []
-    },
-    {
-      "id": "ba0a883112defbe484fe437c30787821",
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T12:08:16+00:00",
-      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-      "tags": []
-    },
-    {
       "id": "7952259f398370f3537df608d0d14bc0",
       "title": "Writing the Next Chapter",
       "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
@@ -254,20 +354,6 @@
       "published": "2026-10-08T12:00:00+00:00",
       "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
       "tags": []
-    },
-    {
-      "id": "ff24a9efa28d043622e3c643af593ff9",
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T11:42:46+00:00",
-      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-      "tags": [
-        "PATCH",
-        "BREACH"
-      ]
     },
     {
       "id": "3f516fdcd15a58830910f9ed4c9d274f",
@@ -541,17 +627,6 @@
       "tags": []
     },
     {
-      "id": "7ba19d49d1ec3d102930a3793e06ac5d",
-      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-      "url": "https://isc.sans.edu/diary/rss/33394",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-04T07:58:51+00:00",
-      "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.",
-      "tags": []
-    },
-    {
       "id": "e87db040b0e4816656a656cc1888bc02",
       "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
@@ -612,17 +687,6 @@
       "tags": []
     },
     {
-      "id": "5862a97e1695170af116c65b1cb1f554",
-      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
-      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-02T15:51:33+00:00",
-      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
-      "tags": []
-    },
-    {
       "id": "e7e175b8c6851f106add52657cff07ba",
       "title": "Unidentified Flock Cameras in Florida",
       "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
@@ -631,30 +695,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-02T14:52:46+00:00",
       "summary": "St. Lucie County in Florida discovered ( alt link ) a dozen Flock cameras whose ownership it can t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were…",
-      "tags": []
-    },
-    {
-      "id": "d38be93beb2fa3ef553b916298bf422e",
-      "title": "Vulnerability Backlogs Are an Ownership Problem",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-02T14:00:00+00:00",
-      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets, and who has the authority and capacity to actually fix them.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "865d9b5a81dfe8c392dbeab31f131163",
-      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-      "url": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-02T13:00:00+00:00",
-      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
       "tags": []
     },
     {
@@ -667,19 +707,6 @@
       "published": "2026-10-02T11:02:19+00:00",
       "summary": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates , parties and committees spending reveals that AI is fast becoming an essential tool of politics. The candi…",
       "tags": []
-    },
-    {
-      "id": "7a308a7b83016c618eed651af8e57245",
-      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-01T21:37:50+00:00",
-      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
-      "tags": [
-        "RANSOMWARE"
-      ]
     },
     {
       "id": "99374c52ffd61c4aa27e1d38d1edeb4f",
@@ -701,17 +728,6 @@
       "source_color": "#2ecc71",
       "published": "2026-09-30T11:05:35+00:00",
       "summary": "AI systems are regularly completing tasks in ways that their prompters don t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I ve been calling genie behavior , because I think that really gets at the core of what s happening. I wish the popular press would report on this better. I don t like the going …",
-      "tags": []
-    },
-    {
-      "id": "ca5d9a25b2bad933ca74c6df8defb733",
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-29T11:02:19+00:00",
-      "summary": "Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers. Germany s Customs Office has been using these features to connect a p…",
       "tags": []
     },
     {
@@ -805,17 +821,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "d08dc295c10bd1b0f8901ab29dd0173c",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "source": "KrebsOnSecurity",
-      "source_category": "threat-intel",
-      "source_color": "#ff6b35",
-      "published": "2026-08-06T17:00:56+00:00",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text histor…",
-      "tags": []
     }
   ]
 }
