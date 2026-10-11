@@ -1,10 +1,32 @@
 {
-  "last_updated": "2026-10-10T13:18:43.250378+00:00",
+  "last_updated": "2026-10-11T13:48:13.806236+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "3344a2cc49bdc4555b367854a02ca9fa",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-10T15:07:54+00:00",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "tags": []
+    },
+    {
+      "id": "2eafd0cd7ead45c4a6b5f43108350bf9",
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-10T14:16:17+00:00",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "tags": []
+    },
     {
       "id": "089597e941ccf2bb776eb110f587aaaa",
       "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
@@ -31,7 +53,7 @@
     },
     {
       "id": "ebf8282e5b855b682649fcd7f69bfaca",
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "KrebsOnSecurity",
       "source_category": "threat-intel",
@@ -288,17 +310,6 @@
       ]
     },
     {
-      "id": "e98d0e068b1ca38f69372b3d109f8485",
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T19:20:33+00:00",
-      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-      "tags": []
-    },
-    {
       "id": "fed3a326eff724727bfdeae0f2394124",
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
@@ -318,17 +329,6 @@
       "source_color": "#9b59b6",
       "published": "2026-10-08T18:01:50+00:00",
       "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-      "tags": []
-    },
-    {
-      "id": "39d7d9ebee6559e24387efa80b2c919d",
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T17:10:55+00:00",
-      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
       "tags": []
     },
     {
