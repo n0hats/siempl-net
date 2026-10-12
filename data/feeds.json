@@ -1,10 +1,129 @@
 {
-  "last_updated": "2026-10-11T13:48:13.806236+00:00",
+  "last_updated": "2026-10-12T16:31:44.623416+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "b4750a3afa44acfb6183081486994ea8",
+      "title": "Ledger confirms hardware wallet spy implant behind crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T16:27:23+00:00",
+      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+      "tags": []
+    },
+    {
+      "id": "cff9285fdcbf3c87ef30643a769f3985",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T15:23:34+00:00",
+      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "tags": []
+    },
+    {
+      "id": "984f9a17c364d55ad3ec08058ee04002",
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-12T15:01:26+00:00",
+      "summary": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI arrested (alternate link ) someone associated with that crime.",
+      "tags": []
+    },
+    {
+      "id": "8a96eb2becd476c7b6d3f87120e3aade",
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T14:00:10+00:00",
+      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "9fe038a89d5aec75415aaff0a91ae4fb",
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T13:51:07+00:00",
+      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "tags": []
+    },
+    {
+      "id": "30edd584e5645bc854deec043350aca7",
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T13:09:09+00:00",
+      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "5b8e8094bc5692463547b1eacc0eabed",
+      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
+      "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-12T12:30:58+00:00",
+      "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
+      "tags": []
+    },
+    {
+      "id": "44121d20a1d636d69fbf5b791d2dbf9e",
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-12T11:58:33+00:00",
+      "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "d012e408de2468ecf27b26d99447667b",
+      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
+      "url": "https://isc.sans.edu/diary/rss/33416",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-12T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "9855780aaf69650a1ddbd1d39e499855",
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-11T14:23:46+00:00",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "3344a2cc49bdc4555b367854a02ca9fa",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -196,57 +315,6 @@
       "tags": []
     },
     {
-      "id": "effbd0438a293469f10fb0deb228f3d7",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-09T12:32:16+00:00",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "tags": [
-        "CVE",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "4d493696b7abae7765ab9fa854651784",
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-09T11:14:28+00:00",
-      "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-      "tags": []
-    },
-    {
-      "id": "c0a1ac77cc321f7ab2db13c883b50033",
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-09T10:12:24+00:00",
-      "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "d97a9cb3476f2671e1db84db2f1465d8",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-09T08:27:42+00:00",
-      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "92c335c60c661b4255552f774f97d6b9",
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
       "url": "https://isc.sans.edu/diary/rss/33412",
@@ -256,32 +324,6 @@
       "published": "2026-10-09T07:52:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
-    },
-    {
-      "id": "aa2e1605b8c6c30b46967d96c5399622",
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-09T05:41:04+00:00",
-      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-      "tags": [
-        "0DAY"
-      ]
-    },
-    {
-      "id": "ccfe8f6facea01c01d7f892695b6451a",
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T21:42:51+00:00",
-      "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "cc1877988ca46691a3682f46d7aa3433",
@@ -294,19 +336,6 @@
       "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "tags": [
         "PATCH"
-      ]
-    },
-    {
-      "id": "88f872c238c8ac7248a7fca4d4c848e5",
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-08T20:09:45+00:00",
-      "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-      "tags": [
-        "RANSOMWARE"
       ]
     },
     {
@@ -616,17 +645,6 @@
       "tags": []
     },
     {
-      "id": "fe7a08eb08767bcbfaa88e07695faeef",
-      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
-      "url": "https://isc.sans.edu/diary/rss/33396",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-05T00:15:00+00:00",
-      "summary": "For an experiment, I created a script 1 that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM 2 to be correlated with all the data.",
-      "tags": []
-    },
-    {
       "id": "e87db040b0e4816656a656cc1888bc02",
       "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
@@ -676,17 +694,6 @@
       ]
     },
     {
-      "id": "e9e44e34b93ae53b7558b8a9512aa7e8",
-      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-02T16:01:22+00:00",
-      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
-      "tags": []
-    },
-    {
       "id": "e7e175b8c6851f106add52657cff07ba",
       "title": "Unidentified Flock Cameras in Florida",
       "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
@@ -717,17 +724,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-01T11:06:14+00:00",
       "summary": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphon…",
-      "tags": []
-    },
-    {
-      "id": "02856f3b4e7c1b483ef6a54feb6e18fb",
-      "title": "I Want Better Reporting on AI Genie Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-09-30T11:05:35+00:00",
-      "summary": "AI systems are regularly completing tasks in ways that their prompters don t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I ve been calling genie behavior , because I think that really gets at the core of what s happening. I wish the popular press would report on this better. I don t like the going …",
       "tags": []
     },
     {
