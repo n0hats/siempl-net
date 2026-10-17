@@ -1,10 +1,141 @@
 {
-  "last_updated": "2026-10-16T12:07:11.850321+00:00",
+  "last_updated": "2026-10-17T11:25:11.014599+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "d474e486d24146dbace6518601ddaf58",
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-16T21:06:47+00:00",
+      "summary": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "bec345a5a5445abb4a882331ac707fe3",
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T20:34:37+00:00",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "32b7a245aa33fe5ef82c89c201f6257b",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-16T20:00:59+00:00",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "tags": [
+        "CVE"
+      ]
+    },
+    {
+      "id": "9739ead65f85701cd7b9c1a8fd61ec98",
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T19:49:30+00:00",
+      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "aa73984a7a834040698ff5f16d87c220",
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "url": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T19:22:12+00:00",
+      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+      "tags": []
+    },
+    {
+      "id": "2156359882a07d42bf9e212e4e2565fb",
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T19:13:59+00:00",
+      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+      "tags": []
+    },
+    {
+      "id": "11baf0659fb0cb07f6cfc48a438cdeab",
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T18:37:50+00:00",
+      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+      "tags": []
+    },
+    {
+      "id": "a7cd171420973dd0e401dc59e84ab1ad",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-16T17:20:03+00:00",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "tags": []
+    },
+    {
+      "id": "6357a35eacc783354fdf192fb5120da2",
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "d7e4fe5180d687cc3e2fb5e940995625",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-16T13:50:59+00:00",
+      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+      "tags": []
+    },
+    {
+      "id": "4e8411ce5ed9e9e94d2f322bb5f6ca8c",
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-16T13:00:00+00:00",
+      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "ea17759b3ffd5a00d117f68f2bb8a8af",
       "title": "Burger King Japan data breach exposes 11 million customer records",
@@ -248,19 +379,6 @@
       ]
     },
     {
-      "id": "ef93cf920c0092004c6de4a562cda7cd",
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-15T08:06:47+00:00",
-      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "87c68e1b0953c1c46973b2cbb76ec9ad",
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
       "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
@@ -283,21 +401,6 @@
       "published": "2026-10-15T02:00:03+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
-    },
-    {
-      "id": "bf0efc81803bc653839df6d65687cb3a",
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-14T22:56:47+00:00",
-      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "tags": [
-        "CVE",
-        "0DAY",
-        "PATCH"
-      ]
     },
     {
       "id": "cdeb7160f6bc2ef6be9abdc67a2c5d92",
@@ -334,17 +437,6 @@
       "source_color": "#9b59b6",
       "published": "2026-10-14T20:09:42+00:00",
       "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-      "tags": []
-    },
-    {
-      "id": "c45da524f467fd7bb91ca0aa2d5b7693",
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-14T19:41:43+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
       "tags": []
     },
     {
@@ -629,85 +721,6 @@
       "tags": []
     },
     {
-      "id": "e3769ef3bd3824b235179a2b2c5b07de",
-      "title": "AI Scramble Drives Cybersecurity M&A Boom",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-09T19:26:26+00:00",
-      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-      "tags": []
-    },
-    {
-      "id": "7f42e01081785b2063a3dc19eeb927b2",
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-09T17:21:00+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-      "tags": []
-    },
-    {
-      "id": "cb1fe86272b67fb51649d9ce942e6666",
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-09T16:25:05+00:00",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "tags": []
-    },
-    {
-      "id": "93959139a28a4b7405faa92643e5fef6",
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "url": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-09T13:00:00+00:00",
-      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "tags": []
-    },
-    {
-      "id": "cc1877988ca46691a3682f46d7aa3433",
-      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
-      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-08T20:39:44+00:00",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "fed3a326eff724727bfdeae0f2394124",
-      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-08T19:08:16+00:00",
-      "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
-      "tags": []
-    },
-    {
-      "id": "d1547105b4de2a866ce36745ac7abc5e",
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-08T18:01:50+00:00",
-      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-      "tags": []
-    },
-    {
       "id": "3f516fdcd15a58830910f9ed4c9d274f",
       "title": "How Technology Empowers—and Imperils—Dictators",
       "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
@@ -738,17 +751,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-07T11:07:36+00:00",
       "summary": "Apple just released a system called Reference Image. It can verify the image is exactly as taken by an iPhone new models only without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions require a photographer or institution to vouch for an image using their own c…",
-      "tags": []
-    },
-    {
-      "id": "4d57c619050d808d32e5a59163a447ce",
-      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-06T11:06:46+00:00",
-      "summary": "404Media is reporting (alternate link ) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn t been used for 72 hours. The new technology to get around inactivity reboot was developed by M…",
       "tags": []
     },
     {
