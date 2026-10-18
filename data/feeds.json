@@ -1,10 +1,36 @@
 {
-  "last_updated": "2026-10-17T11:25:11.014599+00:00",
+  "last_updated": "2026-10-18T11:57:11.494264+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "c549025bcffd73d0a57b903087bba598",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-17T15:18:51+00:00",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "4864321055de1de413aae9b760271b85",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-17T14:32:48+00:00",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "d474e486d24146dbace6518601ddaf58",
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
@@ -353,30 +379,6 @@
       "published": "2026-10-15T13:18:36+00:00",
       "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
       "tags": []
-    },
-    {
-      "id": "644e0175ea022a0e490c42441e1441a3",
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-15T11:55:38+00:00",
-      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-      "tags": []
-    },
-    {
-      "id": "c2178e05134a7fa27ede74abfe215810",
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-15T09:10:20+00:00",
-      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "87c68e1b0953c1c46973b2cbb76ec9ad",
