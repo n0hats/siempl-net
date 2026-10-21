@@ -1,10 +1,236 @@
 {
-  "last_updated": "2026-10-20T12:33:18.817040+00:00",
+  "last_updated": "2026-10-21T12:44:45.089717+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "3d8d62ef7ac83c28339b5de49ce69378",
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) infocon yellow , (Wed, Oct 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-21T12:31:01+00:00",
+      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits ahead of the patch becoming available.",
+      "tags": [
+        "CVE",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "a4bed4da9dae59adab981db08578f1fb",
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-21T12:20:34+00:00",
+      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+      "tags": []
+    },
+    {
+      "id": "8a0199327878e8b68a8b6b90822b8a9b",
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-21T11:02:22+00:00",
+      "summary": "There s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It s fun to reread my 2002 essay on the economics of information security.",
+      "tags": []
+    },
+    {
+      "id": "74715c3a3c098e79472eb6ef2a97ae53",
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-21T10:14:53+00:00",
+      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "d2da495e7af273b269f4471125640ff0",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-21T08:36:24+00:00",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "666a0feaa50b49f8cb1bb4c9c4dfb19b",
+      "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33438",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-21T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "d9b959b2b3f8a99be2c1f83a201b49b8",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-21T01:01:50+00:00",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "60d0ea043847f0285edcfd4f15bf6471",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-21T00:46:42+00:00",
+      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+      "tags": []
+    },
+    {
+      "id": "13095d5233d1fd6357a54cbe20dca711",
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-20T21:45:47+00:00",
+      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
+      "tags": []
+    },
+    {
+      "id": "2ea30e32de9c30bf8ae6275e7b410544",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T20:56:43+00:00",
+      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+      "tags": [
+        "PATCH",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "548ac6aa2a87eb986684185457d5e208",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T19:33:02+00:00",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "a20473d1968a0e64d0b0cd402162df54",
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-20T19:16:49+00:00",
+      "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
+      "tags": []
+    },
+    {
+      "id": "8f8c21de5192a6576a1ec1f5bbbc71fe",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T18:11:03+00:00",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "tags": []
+    },
+    {
+      "id": "a9bb6c1348cc19f75fb7f6ad609a86b6",
+      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-20T15:35:45+00:00",
+      "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
+      "tags": []
+    },
+    {
+      "id": "70d045172aabdaa367e633a557996745",
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-20T14:36:05+00:00",
+      "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
+      "tags": []
+    },
+    {
+      "id": "20aec5b8023e226c132721d94ce47566",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T14:19:05+00:00",
+      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "tags": []
+    },
+    {
+      "id": "c8de6b8ee31844700fcc9799419df9a5",
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T13:51:00+00:00",
+      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "tags": []
+    },
+    {
+      "id": "59b560383089d106f5388c6b72039a06",
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T13:18:36+00:00",
+      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+      "tags": []
+    },
+    {
+      "id": "4065be2377c12ae3a511acb5b20416d4",
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-20T12:16:32+00:00",
+      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "74d327ca772018607283885470903999",
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
@@ -15,19 +241,6 @@
       "published": "2026-10-20T11:31:22+00:00",
       "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
       "tags": []
-    },
-    {
-      "id": "4065be2377c12ae3a511acb5b20416d4",
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-20T11:21:42+00:00",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "963c0376311c0f692a2e110970bedea9",
@@ -77,30 +290,6 @@
       "tags": []
     },
     {
-      "id": "75ec39f9f00f39652133a400c3593d1b",
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T21:49:48+00:00",
-      "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "8b434aa1867a282c823507c367fedca5",
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T21:24:51+00:00",
-      "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-      "tags": []
-    },
-    {
       "id": "fa1351e0b46d26242511be25d1d913c7",
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
       "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
@@ -123,19 +312,6 @@
       "tags": []
     },
     {
-      "id": "bd6e182ba5e2b738a4ad7182d9eeb5a7",
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T19:40:58+00:00",
-      "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "d13f24e8d30e11487d52427f5278eeae",
       "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
       "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
@@ -145,43 +321,6 @@
       "published": "2026-10-19T19:19:33+00:00",
       "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
       "tags": []
-    },
-    {
-      "id": "0474b88715d072a16c3af9f9890c4498",
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T18:51:13+00:00",
-      "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-      "tags": []
-    },
-    {
-      "id": "0b3f51a826820dec848fb7f4388f2a6e",
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T17:27:15+00:00",
-      "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "3b11d16f1e05a4cca41d39b4f0fd10c3",
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T14:55:23+00:00",
-      "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "74a6f6686a38f19f05936dd32fec78ff",
@@ -195,17 +334,6 @@
       "tags": []
     },
     {
-      "id": "38795045631e44fb14224fc393099bd3",
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T14:00:10+00:00",
-      "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-      "tags": []
-    },
-    {
       "id": "9369230060273510045f97861f1eac01",
       "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
       "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
@@ -215,19 +343,6 @@
       "published": "2026-10-19T14:00:00+00:00",
       "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
       "tags": []
-    },
-    {
-      "id": "2fe00a1e5958fa2133aa9af50b9b00c5",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T13:49:24+00:00",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "1f5b4f3065bd928abd02dd5fdc667387",
@@ -243,19 +358,6 @@
       ]
     },
     {
-      "id": "b4ee1874b2a5c465c3ef5f3965d6c4f7",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T12:44:44+00:00",
-      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "6ca163953b1e2fe52028c698fdd9b0fe",
       "title": "Training AIs to Solve CAPTCHAs",
       "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
@@ -264,30 +366,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-19T11:07:43+00:00",
       "summary": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answerin…",
-      "tags": []
-    },
-    {
-      "id": "2e5f99b60eb9a9df8b2a9c3b55a32627",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-19T08:58:41+00:00",
-      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "e0ea47db9537eb54b44b9ba80b19713c",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-18T14:23:16+00:00",
-      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
       "tags": []
     },
     {
@@ -626,19 +704,6 @@
       "tags": []
     },
     {
-      "id": "93530deb068c66486b480321b1752d25",
-      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-14T05:00:00+00:00",
-      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
       "id": "cc06b810385767b15954ee616b6313f6",
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
       "url": "https://isc.sans.edu/diary/rss/33424",
@@ -663,66 +728,6 @@
       ]
     },
     {
-      "id": "3c231c46b41a2e8785e97fe6a03e413d",
-      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-13T22:29:57+00:00",
-      "summary": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "992dff6b3b11c8174b79ddeeb5f17079",
-      "title": "North Korea Phishes Ukrainians for War Intel",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-13T21:24:45+00:00",
-      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-      "tags": []
-    },
-    {
-      "id": "462518ddc606956af2a1616feb44d6f4",
-      "title": "Anthropic Finds Ingredients for Future AI Worms",
-      "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-13T20:35:23+00:00",
-      "summary": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
-      "tags": []
-    },
-    {
-      "id": "d7d1e21c0993146bc1999093772e43b4",
-      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
-      "url": "https://isc.sans.edu/diary/rss/33422",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-13T19:25:52+00:00",
-      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&&#x23 x26 &#x23 39 s patch Tuesday, and one is already exploited.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "334557b89fb8b11eded9c5afb4bcaa02",
-      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
-      "url": "https://isc.sans.edu/diary/rss/33418",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-13T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "984f9a17c364d55ad3ec08058ee04002",
       "title": "FBI Arrests Suspect in FBI-Hacking Case",
       "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
@@ -745,17 +750,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "307e72e198123f744b0ec944fe1262d9",
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-09T20:24:45+00:00",
-      "summary": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And I caught a squid! Near as I can tell, it s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a b…",
-      "tags": []
     },
     {
       "id": "82b1e37b8f7fb8817eac9f471abbcf5e",
