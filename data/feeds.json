@@ -1,10 +1,203 @@
 {
-  "last_updated": "2026-10-22T12:48:09.818000+00:00",
+  "last_updated": "2026-10-23T12:26:24.802021+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "600ea043be1514e42a8758bc1e7dacb7",
+      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-23T11:38:28+00:00",
+      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+      "tags": []
+    },
+    {
+      "id": "b9ede14d9a53e280a438d969b7bc80ac",
+      "title": "Compromised TLS Certificates",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-23T11:04:22+00:00",
+      "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allo…",
+      "tags": []
+    },
+    {
+      "id": "5278761819b3a8cecf008e4ac16be078",
+      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33448",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-23T10:25:11+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "e8e62db5030f3b6f47ef97d87776a2dc",
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-23T03:30:00+00:00",
+      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "ffa405e4fb5e445291b4a3d8fda785c6",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T21:25:31+00:00",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "cd99f1719c67d686ed640bce1e1368ea",
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-22T20:42:17+00:00",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+      "tags": []
+    },
+    {
+      "id": "db1cec2cf4e3ab08c3176767716ab519",
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-22T20:33:10+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+      "tags": []
+    },
+    {
+      "id": "ae68176692c6a99abc7d62db5a5d1aa9",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T20:22:45+00:00",
+      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "e68badc3a4b869856f2dd0f0389488bb",
+      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-22T19:30:20+00:00",
+      "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
+      "tags": []
+    },
+    {
+      "id": "d6d146b014095013941a360cc3576d9c",
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T19:12:51+00:00",
+      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "tags": []
+    },
+    {
+      "id": "6325da999ccadbb4a01f8f54b03415a0",
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T17:18:22+00:00",
+      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "db4e0a514d166f58f6d58f27388219a5",
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T15:49:32+00:00",
+      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "af19e54fbe351512e25272ecc3cdeab8",
+      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-22T14:21:22+00:00",
+      "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "e15cc19a04375e81d81f29fb4097214b",
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T14:02:12+00:00",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+      "tags": []
+    },
+    {
+      "id": "674c0fa0933d14c553cdffa40e3ab281",
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-22T13:26:51+00:00",
+      "summary": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod…",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "38016b62f72ce14a54a82280584bdd51",
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-22T13:09:12+00:00",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "3b6b8d8d41c88d0aea6686d99a0940c6",
       "title": "GitLab warns of new max severity code execution vulnerability",
@@ -33,7 +226,7 @@
     },
     {
       "id": "ebc60f0772aa8707f3392b7cb4349c1e",
-      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "title": "UAE Transitions 50% of Government Services to Agentic AI",
       "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
       "source": "Dark Reading",
       "source_category": "news",
@@ -85,7 +278,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-10-21T21:15:39+00:00",
-      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
       "tags": [
         "BREACH"
       ]
@@ -235,19 +428,6 @@
       ]
     },
     {
-      "id": "6cbe08de321948513935e0843410ddea",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T14:00:10+00:00",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "24009d65a1e736d8da8fa8cf9f6467e5",
       "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
@@ -261,17 +441,6 @@
       ]
     },
     {
-      "id": "a4bed4da9dae59adab981db08578f1fb",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T12:20:34+00:00",
-      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-      "tags": []
-    },
-    {
       "id": "8a0199327878e8b68a8b6b90822b8a9b",
       "title": "Workshop on Economics and Information Security (WEIS) Archive",
       "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
@@ -281,33 +450,6 @@
       "published": "2026-10-21T11:02:22+00:00",
       "summary": "There s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It s fun to reread my 2002 essay on the economics of information security.",
       "tags": []
-    },
-    {
-      "id": "74715c3a3c098e79472eb6ef2a97ae53",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T10:14:53+00:00",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "d2da495e7af273b269f4471125640ff0",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T08:36:24+00:00",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
-      ]
     },
     {
       "id": "666a0feaa50b49f8cb1bb4c9c4dfb19b",
@@ -321,30 +463,6 @@
       "tags": []
     },
     {
-      "id": "d9b959b2b3f8a99be2c1f83a201b49b8",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T01:01:50+00:00",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "60d0ea043847f0285edcfd4f15bf6471",
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-21T00:46:42+00:00",
-      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
-      "tags": []
-    },
-    {
       "id": "13095d5233d1fd6357a54cbe20dca711",
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
       "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
@@ -354,20 +472,6 @@
       "published": "2026-10-20T21:45:47+00:00",
       "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
       "tags": []
-    },
-    {
-      "id": "2ea30e32de9c30bf8ae6275e7b410544",
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-20T20:56:43+00:00",
-      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-      "tags": [
-        "PATCH",
-        "BREACH"
-      ]
     },
     {
       "id": "a20473d1968a0e64d0b0cd402162df54",
@@ -479,7 +583,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-10-19T14:00:00+00:00",
-      "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+      "summary": "An industry-wide, laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
       "tags": []
     },
     {
@@ -539,78 +643,6 @@
       "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
       "tags": [
         "0DAY"
-      ]
-    },
-    {
-      "id": "9739ead65f85701cd7b9c1a8fd61ec98",
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T19:49:30+00:00",
-      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "aa73984a7a834040698ff5f16d87c220",
-      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-      "url": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T19:22:12+00:00",
-      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
-      "tags": []
-    },
-    {
-      "id": "2156359882a07d42bf9e212e4e2565fb",
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T19:13:59+00:00",
-      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
-      "tags": []
-    },
-    {
-      "id": "11baf0659fb0cb07f6cfc48a438cdeab",
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T18:37:50+00:00",
-      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
-      "tags": []
-    },
-    {
-      "id": "6357a35eacc783354fdf192fb5120da2",
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "4e8411ce5ed9e9e94d2f322bb5f6ca8c",
-      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-16T13:00:00+00:00",
-      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
-      "tags": [
-        "BREACH"
       ]
     },
     {
@@ -715,28 +747,6 @@
       ]
     },
     {
-      "id": "a38b465e8f99be64c6ff7d4bdb8d2388",
-      "title": "Cyberattack on Connected Fridges in France",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-14T14:10:22+00:00",
-      "summary": "Another IoT cyberattack , this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [ ] Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise s…",
-      "tags": []
-    },
-    {
-      "id": "40e6ee4cfb3b29eb749392573d4d9a00",
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33420",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-14T06:49:46+00:00",
-      "summary": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).",
-      "tags": []
-    },
-    {
       "id": "a84d74d496ce6928a57d25af1955e18d",
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -748,17 +758,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "984f9a17c364d55ad3ec08058ee04002",
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-12T15:01:26+00:00",
-      "summary": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI arrested (alternate link ) someone associated with that crime.",
-      "tags": []
     },
     {
       "id": "ebf8282e5b855b682649fcd7f69bfaca",
