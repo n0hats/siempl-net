@@ -1,10 +1,21 @@
 {
-  "last_updated": "2026-10-24T11:52:06.123017+00:00",
+  "last_updated": "2026-10-25T12:21:52.291600+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "e7f9610cf94e548f5505ad28a20f1c8c",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-24T14:17:32+00:00",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "tags": []
+    },
     {
       "id": "c5b7d9382d6e027422d9214ac25dc217",
       "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -375,19 +386,6 @@
       "source_color": "#4a9eff",
       "published": "2026-10-22T13:09:12+00:00",
       "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "3b6b8d8d41c88d0aea6686d99a0940c6",
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-22T11:41:48+00:00",
-      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
       "tags": [
         "PATCH"
       ]
