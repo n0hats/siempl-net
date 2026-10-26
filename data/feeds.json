@@ -1,10 +1,93 @@
 {
-  "last_updated": "2026-10-25T12:21:52.291600+00:00",
+  "last_updated": "2026-10-26T13:55:58.694689+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "be1e76dc114850f7f0d39498a568ab0e",
+      "title": "Bias in Qwen3-Coder Model",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-10-26T11:03:31+00:00",
+      "summary": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model s weights, and that removing the model s CCP alignment removes it. One word ti…",
+      "tags": []
+    },
+    {
+      "id": "7968eff4121c7fee571f19a272744d7f",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-26T10:26:52+00:00",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "1c7208e6b8120128c87bc5d9dec3db43",
+      "title": "Looking for a Language Guest Diary , (Wed, Oct 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33442",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-26T09:38:03+00:00",
+      "summary": "This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program",
+      "tags": []
+    },
+    {
+      "id": "d3f3c5730ee54a1b01de64e21b690d58",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-26T09:19:57+00:00",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "tags": [
+        "CVE"
+      ]
+    },
+    {
+      "id": "c4c547e4aecd9c58b85e4ca4d9aa7ca8",
+      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+      "url": "https://isc.sans.edu/diary/rss/33456",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-26T03:30:12+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "668c7ff9e66832c59d9d8f02dd8a8892",
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-25T19:57:53+00:00",
+      "summary": "YARA-X&&#x23 x26 &#x23 39 s 1.22.0 release brings 11 improvements and 9 bugfixes.",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "3a31401ab19236c338b49f37de0f6925",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-25T15:49:38+00:00",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "tags": []
+    },
     {
       "id": "e7f9610cf94e548f5505ad28a20f1c8c",
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -29,7 +112,7 @@
     },
     {
       "id": "69231f1f56641bb3d5d9042ac82caa5a",
-      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "source": "Dark Reading",
       "source_category": "news",
@@ -328,19 +411,6 @@
       ]
     },
     {
-      "id": "db4e0a514d166f58f6d58f27388219a5",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-22T15:49:32+00:00",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "af19e54fbe351512e25272ecc3cdeab8",
       "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
@@ -354,17 +424,6 @@
       ]
     },
     {
-      "id": "e15cc19a04375e81d81f29fb4097214b",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-22T14:02:12+00:00",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "tags": []
-    },
-    {
       "id": "674c0fa0933d14c553cdffa40e3ab281",
       "title": "New Serious PHP Vulnerabilities Released and Patched",
       "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
@@ -373,19 +432,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-22T13:26:51+00:00",
       "summary": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod…",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "38016b62f72ce14a54a82280584bdd51",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-22T13:09:12+00:00",
-      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
       "tags": [
         "PATCH"
       ]
@@ -660,17 +706,6 @@
       "tags": []
     },
     {
-      "id": "7b2cd69d508638979af20e366440ed65",
-      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33434",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-18T12:59:30+00:00",
-      "summary": "Here is the YARA rule I used to detect \" Orphaned VBA Projects Inside DWG Files \".",
-      "tags": []
-    },
-    {
       "id": "d474e486d24146dbace6518601ddaf58",
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
@@ -693,28 +728,6 @@
       "tags": []
     },
     {
-      "id": "f90a8c490abe6394d68c6de74aa8f1d3",
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33432",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-16T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "3e6c01d93bf68a9e06b3f4a686eec67d",
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33430",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-16T00:46:35+00:00",
-      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
-      "tags": []
-    },
-    {
       "id": "43401a9dda02549e542e94ac6667cafe",
       "title": "Measuring Human Cryptanalysis Effort",
       "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
@@ -723,17 +736,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-15T16:24:29+00:00",
       "summary": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cr…",
-      "tags": []
-    },
-    {
-      "id": "c5dc1dacd0f82275be7dcac49dc2380d",
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-14T16:02:17+00:00",
-      "summary": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026. I’m speaking at [un]prompted …",
       "tags": []
     },
     {
