@@ -1,10 +1,202 @@
 {
-  "last_updated": "2026-10-28T13:50:53.234280+00:00",
+  "last_updated": "2026-10-29T13:57:04.741223+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "7ff0c3869057b7f6acc3284f7d4f2279",
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-29T12:00:07+00:00",
+      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "c44cfd18db370cb110036686d9c110da",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-29T11:10:13+00:00",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "e1143b0dd73e0c1b3a2bc746358f275d",
+      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
+      "tags": []
+    },
+    {
+      "id": "e2ca9530816442e4283e6cf5756c03c3",
+      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-29T08:00:00+00:00",
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+      "tags": []
+    },
+    {
+      "id": "3595e868a5324e502d33028aa754a277",
+      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+      "url": "https://isc.sans.edu/diary/rss/33470",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-29T06:17:41+00:00",
+      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23 x26 &#x23 39 s convenient to play with snapshots in your lab. Start a new investigation from a clean snapshot and take some more when you reached a critical step. But, if you need to revert to a previous snapshot, all changes app…",
+      "tags": []
+    },
+    {
+      "id": "e93c41eebab8dd31799f75184591c075",
+      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+      "url": "https://isc.sans.edu/diary/rss/33468",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-29T03:10:12+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "4c28b22408a22348179a12726a762afc",
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "url": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-10-29T00:42:15+00:00",
+      "summary": "Introduction",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "a1a2d490116936a89cdd50e4a1231ad2",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T20:47:22+00:00",
+      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "tags": []
+    },
+    {
+      "id": "3c8e27f5892c8f8633c87efc61be35db",
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-28T19:39:00+00:00",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "tags": []
+    },
+    {
+      "id": "f7bbe08d160320fa106ec74bc745fed6",
+      "title": "Discord to let search engines index public server messages",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T18:44:16+00:00",
+      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+      "tags": []
+    },
+    {
+      "id": "73d83827060c7c0978ff772efbf18875",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T16:45:47+00:00",
+      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "502c8b906944827b3190af0b106b1311",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T16:00:00+00:00",
+      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "109b81fa180e261bbda529a8af6e0898",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T14:48:32+00:00",
+      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "tags": []
+    },
+    {
+      "id": "cdc69198fddc6f9826c05b223a1dd704",
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-10-28T14:37:52+00:00",
+      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "57c434aad236baf1fbf7ec7bbd12590c",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T14:00:00+00:00",
+      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "tags": []
+    },
+    {
+      "id": "8c3234de6efdeff96e835d544494ffa5",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-10-28T13:50:59+00:00",
+      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+      "tags": [
+        "PATCH",
+        "BREACH"
+      ]
+    },
     {
       "id": "b906bf1acec1fb7ccc23d5fbac0d12c2",
       "title": "Hackers now scanning systems for recently-patched Oracle flaw",
@@ -61,7 +253,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-10-28T06:00:00+00:00",
-      "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+      "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
       "tags": []
     },
     {
@@ -125,17 +317,6 @@
       "tags": []
     },
     {
-      "id": "9863c654b9cc3a4dda986797c0b87e66",
-      "title": "Hackers hijack Convertr analytics script to steal payment card data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T20:57:25+00:00",
-      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-      "tags": []
-    },
-    {
       "id": "304387c10d25ef2673232e82d4f7a5cd",
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
       "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
@@ -160,19 +341,6 @@
       "tags": []
     },
     {
-      "id": "6bc6e545dd775dfba828a6ccbc7e55f4",
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T18:20:28+00:00",
-      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "2fa41e0b31dac714d973244e844c8128",
       "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
@@ -195,43 +363,6 @@
       "tags": []
     },
     {
-      "id": "57895d0610361bc1202569979ea042ef",
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T16:15:39+00:00",
-      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "29850880b631499e3ee9610dab3da686",
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T14:09:46+00:00",
-      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "480eabe8cd811581b0e31d253748adc2",
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T14:01:11+00:00",
-      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]",
-      "tags": []
-    },
-    {
       "id": "2497feec2ee5120a26dc3d0528a20bc0",
       "title": "Hiding Capabilities in AI Models",
       "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
@@ -241,46 +372,6 @@
       "published": "2026-10-27T11:01:26+00:00",
       "summary": "Interesting research: AI Models Can Provably Hide Arbitrary Capabilities Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor at…",
       "tags": []
-    },
-    {
-      "id": "bff6c8a42674debe47fb350ac72d1e08",
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T10:36:12+00:00",
-      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "1332c584a27894d1aa8ced67886d55b9",
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T09:25:50+00:00",
-      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "2420eef60355b04aed1603588d218c76",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-27T08:20:54+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "5a56b75d9a1b94de8c8e2d34a3f2b83a",
@@ -317,19 +408,6 @@
       "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
       "tags": [
         "PATCH"
-      ]
-    },
-    {
-      "id": "a6e754fd50521d78a198482daa401e78",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-26T22:20:36+00:00",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "tags": [
-        "BREACH"
       ]
     },
     {
@@ -494,17 +572,6 @@
       "tags": []
     },
     {
-      "id": "1182186709d160c0e8d901b09a66a112",
-      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33450",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-23T13:43:20+00:00",
-      "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".",
-      "tags": []
-    },
-    {
       "id": "b126e2824a0f8a46ed010e74a8336277",
       "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
@@ -535,17 +602,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-23T11:04:22+00:00",
       "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allo…",
-      "tags": []
-    },
-    {
-      "id": "5278761819b3a8cecf008e4ac16be078",
-      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33448",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-23T10:25:11+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -595,19 +651,6 @@
       "tags": []
     },
     {
-      "id": "af19e54fbe351512e25272ecc3cdeab8",
-      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-      "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-22T14:21:22+00:00",
-      "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "674c0fa0933d14c553cdffa40e3ab281",
       "title": "New Serious PHP Vulnerabilities Released and Patched",
       "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
@@ -619,52 +662,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "ebc60f0772aa8707f3392b7cb4349c1e",
-      "title": "UAE Transitions 50% of Government Services to Agentic AI",
-      "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-22T05:00:00+00:00",
-      "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
-      "tags": []
-    },
-    {
-      "id": "a1db7730d8bea98f0672d1a3855639ea",
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "url": "https://isc.sans.edu/diary/rss/33446",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-22T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "3ec81e99c3e86a10a3da1a92a05fbe81",
-      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-      "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-21T21:15:39+00:00",
-      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "78822effc9855d43cb2af3862f261473",
-      "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
-      "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-21T20:14:42+00:00",
-      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
-      "tags": []
     },
     {
       "id": "8651e625050eb8ab8cf2c80e14339557",
