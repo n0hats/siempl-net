@@ -1,10 +1,150 @@
 {
-  "last_updated": "2026-11-02T16:51:17.149068+00:00",
+  "last_updated": "2026-11-03T14:51:54.065555+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "c8b87742ecb050199db5fbc8a6b476a7",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "9701c11d2e91eb0068ffc874c9af9d84",
+      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
+      "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "74796cbc9d6d125cd5b6e2d39ebde74d",
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-03T13:33:49+00:00",
+      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "tags": []
+    },
+    {
+      "id": "1e75ae89cce244270746c52bd6d2c7f4",
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-03T12:05:52+00:00",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "tags": []
+    },
+    {
+      "id": "0dcc10ee0fa32462fe1929124beebbf5",
+      "title": "AIs Hacking the Law",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-03T12:01:00+00:00",
+      "summary": "In both a 2021 essay and my 2022 book, A Hacker s Mind , I talk about AIs finding vulnerabilities and exploits hacking the legal system. Here s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite explo…",
+      "tags": []
+    },
+    {
+      "id": "840407a6b5bf0b2d8af27d093d20589b",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-03T10:53:25+00:00",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "6c4cd744eafd30449a49abf9e63fd240",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "KrebsOnSecurity",
+      "source_category": "threat-intel",
+      "source_color": "#ff6b35",
+      "published": "2026-11-03T02:24:31+00:00",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's acce…",
+      "tags": []
+    },
+    {
+      "id": "c4a9fc790f07c5d3e7f7a5dc12cc42bb",
+      "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/33484",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-03T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "1f5fa6891747d6755787b34f2a615234",
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-02T22:27:24+00:00",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "b871ff7a0872af79c6d965fae6173111",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-02T21:40:14+00:00",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "tags": []
+    },
+    {
+      "id": "9ceec0263f89869697a6f762016ec8cd",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-02T19:00:45+00:00",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "tags": []
+    },
+    {
+      "id": "c001fcb1d6f99295c1a344350b57f63b",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-02T18:16:34+00:00",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "tags": []
+    },
     {
       "id": "aaf4976c3b8c4228c584572e808d367c",
       "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
@@ -66,13 +206,13 @@
     },
     {
       "id": "775e9282ff683bf23501307b8f0212c9",
-      "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
       "source": "Dark Reading",
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-02T14:00:00+00:00",
-      "summary": "Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+      "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
       "tags": []
     },
     {
@@ -164,28 +304,6 @@
       "tags": []
     },
     {
-      "id": "ab82e558acc959d7d6eddbc4f299acc7",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-01T15:11:21+00:00",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-      "tags": []
-    },
-    {
-      "id": "709c87e1e35ad2d72ec2697bd40e3984",
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-01T13:53:11+00:00",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "tags": []
-    },
-    {
       "id": "0552e28468aa5033142cc7e133e3aad2",
       "title": "OneNote File Extraction, (Sun, Nov 1st)",
       "url": "https://isc.sans.edu/diary/rss/33478",
@@ -195,68 +313,6 @@
       "published": "2026-11-01T09:12:23+00:00",
       "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
       "tags": []
-    },
-    {
-      "id": "b0ff533efc672b514c91c9bcf10ec02a",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-31T18:01:12+00:00",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "c8a9e4d99f4eeda40b7951427b8173b8",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-31T15:35:11+00:00",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "tags": [
-        "CVE",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "c9bba5656d415800ccb0276159159d7d",
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-31T14:05:15+00:00",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "tags": []
-    },
-    {
-      "id": "4bc7fcf06de138f18bd7fed3b4029cef",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-31T13:10:19+00:00",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
-      "tags": []
-    },
-    {
-      "id": "390feb96420434d589a95e125a2fa41a",
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-10-31T12:50:09+00:00",
-      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "4028eeb4d25b8e7f9d7ebfed7061708f",
@@ -496,19 +552,6 @@
       "tags": []
     },
     {
-      "id": "4c28b22408a22348179a12726a762afc",
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33466",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-29T00:42:15+00:00",
-      "summary": "Introduction",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "3c8e27f5892c8f8633c87efc61be35db",
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
@@ -612,17 +655,6 @@
       "tags": []
     },
     {
-      "id": "a445affa8ffc174780a02f0cb00832d6",
-      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
-      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-27T16:47:20+00:00",
-      "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
-      "tags": []
-    },
-    {
       "id": "2497feec2ee5120a26dc3d0528a20bc0",
       "title": "Hiding Capabilities in AI Models",
       "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
@@ -632,19 +664,6 @@
       "published": "2026-10-27T11:01:26+00:00",
       "summary": "Interesting research: AI Models Can Provably Hide Arbitrary Capabilities Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor at…",
       "tags": []
-    },
-    {
-      "id": "3fbc9463496ca058726236eb46876f05",
-      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-27T00:26:50+00:00",
-      "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "be1e76dc114850f7f0d39498a568ab0e",
@@ -704,17 +723,6 @@
       "tags": [
         "PATCH"
       ]
-    },
-    {
-      "id": "8a0199327878e8b68a8b6b90822b8a9b",
-      "title": "Workshop on Economics and Information Security (WEIS) Archive",
-      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-21T11:02:22+00:00",
-      "summary": "There s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It s fun to reread my 2002 essay on the economics of information security.",
-      "tags": []
     },
     {
       "id": "1f5b4f3065bd928abd02dd5fdc667387",
@@ -811,19 +819,6 @@
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish…",
       "tags": []
-    },
-    {
-      "id": "c8edec6ed0288734e84cadc5a0aaff2f",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "source": "KrebsOnSecurity",
-      "source_category": "threat-intel",
-      "source_color": "#ff6b35",
-      "published": "2026-09-08T21:44:22+00:00",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize …",
-      "tags": [
-        "PATCH"
-      ]
     }
   ]
 }
