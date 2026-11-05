@@ -1,10 +1,149 @@
 {
-  "last_updated": "2026-11-04T15:09:13.973095+00:00",
+  "last_updated": "2026-11-05T15:11:58.102614+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "a466f7dba22932e2d18f41997dff245d",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-05T15:00:10+00:00",
+      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+      "tags": []
+    },
+    {
+      "id": "88e315a0de1a0d5e2491d7ae7ac66a29",
+      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33490",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-05T11:25:11+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "d4e0a02bf09d84e65f0166bef998ace2",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-05T09:18:29+00:00",
+      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "tags": []
+    },
+    {
+      "id": "7543ee8beb8b7e75a1a1862169bc2549",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "KrebsOnSecurity",
+      "source_category": "threat-intel",
+      "source_color": "#ff6b35",
+      "published": "2026-11-05T04:36:17+00:00",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election syste…",
+      "tags": []
+    },
+    {
+      "id": "49df616955e790055a489cebbf205a23",
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-04T21:48:18+00:00",
+      "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+      "tags": []
+    },
+    {
+      "id": "7c99cf69eaec5f6df561184670205432",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T21:31:18+00:00",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "tags": []
+    },
+    {
+      "id": "565d2f7b1f7c720693ff6f5d0fcd5ce0",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T20:58:19+00:00",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "0ca144133ab766e50d428cadf9d7b29e",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T19:05:19+00:00",
+      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "277e1f65703ee8acb320e2409234f71e",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T18:02:56+00:00",
+      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "tags": []
+    },
+    {
+      "id": "971f8555c8ad76cd6abf3dd9385990ad",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T16:58:46+00:00",
+      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
+      "tags": []
+    },
+    {
+      "id": "9210d304783ab3bd99a50385b4b64988",
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-04T16:24:08+00:00",
+      "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "tags": []
+    },
+    {
+      "id": "76c4c17cc2cde64e30f5ef0a44730ef4",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-04T16:00:18+00:00",
+      "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "7a46228608729b98c752a117c446414e",
       "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
@@ -25,6 +164,19 @@
       "source_color": "#4a9eff",
       "published": "2026-11-04T14:42:25+00:00",
       "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "9e3f738aab6361566050185f461419be",
+      "title": "Incidents Move Too Fast for Pen & Paper",
+      "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-04T14:17:00+00:00",
+      "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
       "tags": [
         "PATCH"
       ]
@@ -162,28 +314,6 @@
       ]
     },
     {
-      "id": "a79ac7a8a9a9acf31524e6b7878a44b2",
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T20:05:50+00:00",
-      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-      "tags": []
-    },
-    {
-      "id": "c3cc2f938aa204d7e29e4dd472547b1e",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T18:51:04+00:00",
-      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "tags": []
-    },
-    {
       "id": "6d41725c1a014009ffc77b98cc82c2f7",
       "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
       "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
@@ -206,43 +336,6 @@
       "tags": []
     },
     {
-      "id": "8261c7906f3205b3aad207c03f8c5474",
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T15:06:16+00:00",
-      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "a1cbb68e027c52f5b7f30861154bae77",
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T15:00:10+00:00",
-      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
-      "tags": []
-    },
-    {
-      "id": "c8b87742ecb050199db5fbc8a6b476a7",
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T14:00:00+00:00",
-      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
       "id": "9701c11d2e91eb0068ffc874c9af9d84",
       "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
       "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
@@ -256,28 +349,6 @@
       ]
     },
     {
-      "id": "74796cbc9d6d125cd5b6e2d39ebde74d",
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T13:33:49+00:00",
-      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-      "tags": []
-    },
-    {
-      "id": "1e75ae89cce244270746c52bd6d2c7f4",
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T12:05:52+00:00",
-      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "tags": []
-    },
-    {
       "id": "0dcc10ee0fa32462fe1929124beebbf5",
       "title": "AIs Hacking the Law",
       "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
@@ -287,19 +358,6 @@
       "published": "2026-11-03T12:01:00+00:00",
       "summary": "In both a 2021 essay and my 2022 book, A Hacker s Mind , I talk about AIs finding vulnerabilities and exploits hacking the legal system. Here s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite explo…",
       "tags": []
-    },
-    {
-      "id": "840407a6b5bf0b2d8af27d093d20589b",
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-03T10:53:25+00:00",
-      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "6c4cd744eafd30449a49abf9e63fd240",
@@ -532,17 +590,6 @@
       "tags": []
     },
     {
-      "id": "9e308a57ed287a638b3684e2ef7a6faa",
-      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-      "url": "https://isc.sans.edu/diary/rss/33472",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-30T03:30:17+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "6f9c71e92d742ac447e36eba8dd11fc2",
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
@@ -606,39 +653,6 @@
       "source_color": "#9b59b6",
       "published": "2026-10-29T10:00:00+00:00",
       "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
-      "tags": []
-    },
-    {
-      "id": "e2ca9530816442e4283e6cf5756c03c3",
-      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-29T08:00:00+00:00",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
-      "tags": []
-    },
-    {
-      "id": "3c8e27f5892c8f8633c87efc61be35db",
-      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-28T19:39:00+00:00",
-      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-      "tags": []
-    },
-    {
-      "id": "5c8ddc0cb5a79d29522d832cde1d04d6",
-      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-28T15:29:06+00:00",
-      "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
       "tags": []
     },
     {
@@ -805,17 +819,6 @@
       "source_color": "#ff6b35",
       "published": "2026-09-25T21:44:40+00:00",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-      "tags": []
-    },
-    {
-      "id": "312841db94b4edba1ab2f396eaff59b8",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "KrebsOnSecurity",
-      "source_category": "threat-intel",
-      "source_color": "#ff6b35",
-      "published": "2026-09-16T18:14:22+00:00",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish…",
       "tags": []
     }
   ]
