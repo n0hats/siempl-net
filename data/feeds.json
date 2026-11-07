@@ -1,10 +1,138 @@
 {
-  "last_updated": "2026-11-06T14:48:05.104486+00:00",
+  "last_updated": "2026-11-07T13:45:33.603519+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "c7eefdbf34886176ef907cc78b34cc8c",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-07T00:00:55+00:00",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "34d0792989445546e381738433e5aacf",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T22:27:25+00:00",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "e6f5c93e0a9e2b60035540f806e495ba",
+      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-06T22:05:12+00:00",
+      "summary": "News story: Scientists discover a bizarre Jurassic squid unlike anything ever seen . Scientists have identified the fattest belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a pr…",
+      "tags": []
+    },
+    {
+      "id": "c7e695ed298c792714c5b17a4b59643c",
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-06T21:27:36+00:00",
+      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+      "tags": []
+    },
+    {
+      "id": "86cd7cb41c9eafaf5a0df17acd52c0d8",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T20:24:19+00:00",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "tags": []
+    },
+    {
+      "id": "0f6ce4b3a76392adf0e036bc667697a2",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T18:46:52+00:00",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "tags": []
+    },
+    {
+      "id": "8cfa4e5f9c70b3e328ae6d625181204c",
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-06T18:27:30+00:00",
+      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+      "tags": []
+    },
+    {
+      "id": "f075b6f2472a7ec30c667b8333fbe5a3",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T17:04:23+00:00",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "tags": [
+        "PATCH",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "31e4560afb9a7c1c9b61ec082c285f23",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T15:25:31+00:00",
+      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "tags": []
+    },
+    {
+      "id": "0d80c9268e160c79d6ece6eefdeaa8e8",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-06T15:00:10+00:00",
+      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+      "tags": []
+    },
+    {
+      "id": "42827a83e3b0b80d88722986c978353b",
+      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-06T14:57:48+00:00",
+      "summary": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because…",
+      "tags": []
+    },
     {
       "id": "ad18c1ba456b3d24f628130ba9098386",
       "title": "Chainalysis says breach exposed credentials for all customers",
@@ -85,6 +213,17 @@
       "source_color": "#4a9eff",
       "published": "2026-11-06T00:56:44+00:00",
       "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "tags": []
+    },
+    {
+      "id": "c61f771c21bd961e0e6d14d7a66a5e75",
+      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-05T22:13:23+00:00",
+      "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
       "tags": []
     },
     {
@@ -178,30 +317,6 @@
       "tags": []
     },
     {
-      "id": "d65ba1c3d467480b931203482b8e62c4",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T16:24:26+00:00",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "tags": []
-    },
-    {
-      "id": "03791f9fc3b838a59fee60759dc5689f",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T16:12:46+00:00",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "cbc61a4d8beba90ed1dfd5f37834eeb0",
       "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
       "url": "https://isc.sans.edu/diary/rss/33492",
@@ -215,17 +330,6 @@
       ]
     },
     {
-      "id": "a466f7dba22932e2d18f41997dff245d",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T15:00:10+00:00",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-      "tags": []
-    },
-    {
       "id": "88e315a0de1a0d5e2491d7ae7ac66a29",
       "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
       "url": "https://isc.sans.edu/diary/rss/33490",
@@ -234,17 +338,6 @@
       "source_color": "#e74c3c",
       "published": "2026-11-05T11:25:11+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "d4e0a02bf09d84e65f0166bef998ace2",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T09:18:29+00:00",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
       "tags": []
     },
     {
@@ -270,44 +363,6 @@
       "tags": []
     },
     {
-      "id": "7c99cf69eaec5f6df561184670205432",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-04T21:31:18+00:00",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "tags": []
-    },
-    {
-      "id": "565d2f7b1f7c720693ff6f5d0fcd5ce0",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-04T20:58:19+00:00",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "0ca144133ab766e50d428cadf9d7b29e",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-04T19:05:19+00:00",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "9210d304783ab3bd99a50385b4b64988",
       "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
       "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
@@ -315,7 +370,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-04T16:24:08+00:00",
-      "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "summary": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
       "tags": []
     },
     {
@@ -377,7 +432,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-04T01:05:40+00:00",
-      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
+      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
       "tags": []
     },
     {
@@ -491,7 +546,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-02T15:00:00+00:00",
-      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks, but it doesn't mention that they are broadly being targeted through Microsoft bugs.",
       "tags": []
     },
     {
@@ -607,17 +662,6 @@
       "tags": []
     },
     {
-      "id": "95654062a6ead4897e95603aaf0d11c5",
-      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-30T15:39:54+00:00",
-      "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
-      "tags": []
-    },
-    {
       "id": "69ace0ef9fe2a2fc562f3d319a89d3b0",
       "title": "Bloatware in Aftermarket Auto Parts",
       "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
@@ -626,30 +670,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-30T15:20:02+00:00",
       "summary": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed bloatware ­or spyware, if you’re being less charitable­ was a voice assistant e…",
-      "tags": []
-    },
-    {
-      "id": "38569cf30717dafddeeda09227e8f538",
-      "title": "Undead Software Projects Continue to Raise Security Risks",
-      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-30T14:10:37+00:00",
-      "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "5b117b86533d71ecb550a99392de0b34",
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-30T08:00:00+00:00",
-      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
       "tags": []
     },
     {
@@ -695,30 +715,6 @@
       "published": "2026-10-23T21:00:09+00:00",
       "summary": "This article in Nature argues that it s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
       "tags": []
-    },
-    {
-      "id": "b9ede14d9a53e280a438d969b7bc80ac",
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-23T11:04:22+00:00",
-      "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allo…",
-      "tags": []
-    },
-    {
-      "id": "674c0fa0933d14c553cdffa40e3ab281",
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-22T13:26:51+00:00",
-      "summary": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod…",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "8651e625050eb8ab8cf2c80e14339557",
