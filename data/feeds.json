@@ -1,10 +1,140 @@
 {
-  "last_updated": "2026-11-08T14:05:46.925275+00:00",
+  "last_updated": "2026-11-09T17:12:13.115720+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "5644d590367156d967e9179d17d9bd63",
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T16:12:39+00:00",
+      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "5c87c6d836bf5a57125563ae4c7afa16",
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T16:04:57+00:00",
+      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "tags": [
+        "CVE",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "70c38944767f1346ebabdb64d03641de",
+      "title": "NIST: Solo Shouldn't Mean Less Secure",
+      "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-09T15:46:10+00:00",
+      "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+      "tags": []
+    },
+    {
+      "id": "af0c24f242b77ea88087b990e864d807",
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T15:05:15+00:00",
+      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+      "tags": []
+    },
+    {
+      "id": "6d827a5bf35d033bd664b81c5213a364",
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T14:34:03+00:00",
+      "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "tags": []
+    },
+    {
+      "id": "fef45edd6597948c88853c7a34612c61",
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T13:28:56+00:00",
+      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+      "tags": []
+    },
+    {
+      "id": "06df6adaa4093b1ed91ef0d087f62bcb",
+      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-09T12:16:13+00:00",
+      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+      "tags": []
+    },
+    {
+      "id": "951b96997c00dd6fa12d9fd5d12b4dde",
+      "title": "AI Security",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-09T12:05:39+00:00",
+      "summary": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It s important for researchers to understand which…",
+      "tags": []
+    },
+    {
+      "id": "15ff5acb6e29a2a2eaf5013e59c7f467",
+      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33500",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-09T02:05:10+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "b413242b198a837c82a6bd4448a2bee0",
+      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33498",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-08T15:44:33+00:00",
+      "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of SSH passwords. Longer passwords are highly unusual and not used for the …",
+      "tags": [
+        "CVE"
+      ]
+    },
+    {
+      "id": "e2acf784261ba1abba8c75cbc91621cc",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-08T15:43:08+00:00",
+      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "0fdcc08f6305dd762fcd6e853d262ea8",
       "title": "Hackers pull off $133 million French bank heist via service provider",
@@ -134,17 +264,6 @@
       "tags": []
     },
     {
-      "id": "0d80c9268e160c79d6ece6eefdeaa8e8",
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-06T15:00:10+00:00",
-      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-      "tags": []
-    },
-    {
       "id": "42827a83e3b0b80d88722986c978353b",
       "title": "Pinpointing Location of Videos from Background Airplane Sounds",
       "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
@@ -156,19 +275,6 @@
       "tags": []
     },
     {
-      "id": "ad18c1ba456b3d24f628130ba9098386",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-06T14:17:07+00:00",
-      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "9f674275cfa6eeef142e319735c4c4c6",
       "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
       "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
@@ -177,31 +283,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-06T14:00:00+00:00",
       "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-      "tags": []
-    },
-    {
-      "id": "1d30a6c282657afa492596be64aaa40e",
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-06T12:37:22+00:00",
-      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "4c163be2a8947bfc2c277873b7393fab",
-      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-06T09:22:28+00:00",
-      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
       "tags": []
     },
     {
@@ -227,17 +308,6 @@
       "tags": []
     },
     {
-      "id": "3fcbe1838be249b5f43544a538f62327",
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-06T00:56:44+00:00",
-      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-      "tags": []
-    },
-    {
       "id": "c61f771c21bd961e0e6d14d7a66a5e75",
       "title": "Operação de influência russa tem como alvo generalizado a América Latina",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
@@ -260,17 +330,6 @@
       "tags": []
     },
     {
-      "id": "f87c666e26e8927c5fe54a8e2498ad7f",
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T21:30:30+00:00",
-      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-      "tags": []
-    },
-    {
       "id": "1b8aaf6c83afc4eaeb706cb3637c70dd",
       "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
       "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
@@ -280,19 +339,6 @@
       "published": "2026-11-05T21:00:47+00:00",
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
       "tags": []
-    },
-    {
-      "id": "445cac95ac8d1a5585121577a2afbd90",
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-05T20:15:08+00:00",
-      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "89df0ce0a8b3751108f33e27bfa84779",
@@ -596,28 +642,6 @@
       "tags": []
     },
     {
-      "id": "0552e28468aa5033142cc7e133e3aad2",
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33478",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-01T09:12:23+00:00",
-      "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
-      "tags": []
-    },
-    {
-      "id": "4028eeb4d25b8e7f9d7ebfed7061708f",
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "url": "https://isc.sans.edu/diary/rss/33476",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-10-31T10:52:53+00:00",
-      "summary": "Wireshark Release Candidate 5.0.0 was published : soon we can expect a new major version of Wireshark.",
-      "tags": []
-    },
-    {
       "id": "9d9757d2bbb444e103518d56b5d4103d",
       "title": "Investors Dish on New Startups & What They'd Back Next",
       "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
@@ -648,17 +672,6 @@
       "source_color": "#9b59b6",
       "published": "2026-10-30T20:05:58+00:00",
       "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
-      "tags": []
-    },
-    {
-      "id": "1a0324bfc7031647e574f925faba9791",
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-10-30T19:46:08+00:00",
-      "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
       "tags": []
     },
     {
@@ -703,17 +716,6 @@
       "source_color": "#2ecc71",
       "published": "2026-10-26T11:03:31+00:00",
       "summary": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model s weights, and that removing the model s CCP alignment removes it. One word ti…",
-      "tags": []
-    },
-    {
-      "id": "c5b7d9382d6e027422d9214ac25dc217",
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-10-23T21:00:09+00:00",
-      "summary": "This article in Nature argues that it s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
       "tags": []
     },
     {
