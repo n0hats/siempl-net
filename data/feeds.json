@@ -1,10 +1,221 @@
 {
-  "last_updated": "2026-11-16T16:47:19.426079+00:00",
+  "last_updated": "2026-11-17T16:43:13.754173+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "cfdfd1190487843ec1cb9afff806e4ae",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T16:00:00+00:00",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "tags": []
+    },
+    {
+      "id": "903fe8bbd3a86dd41aab45a608a3fc3e",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T15:01:11+00:00",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "tags": []
+    },
+    {
+      "id": "f216dd13cf8c409551cdfefcc1bbdf6e",
+      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-17T13:12:56+00:00",
+      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+      "tags": []
+    },
+    {
+      "id": "20cbd8174f0c08993f78100f9fdd2b38",
+      "title": "Formal Verification of the Signal Protocol Using AI",
+      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-17T12:05:43+00:00",
+      "summary": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in …",
+      "tags": []
+    },
+    {
+      "id": "f94992ccf52663a812283f308352ebaf",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T11:19:51+00:00",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "tags": []
+    },
+    {
+      "id": "1f39573ab110bef56f2fd85f7e1b08a6",
+      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33526",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-17T10:56:38+00:00",
+      "summary": "I&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x99 ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9c generic&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9d phishing messages in detail from time to time, since so…",
+      "tags": []
+    },
+    {
+      "id": "5182fa3cf61d54d9700b21dfe3ea3272",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T09:44:22+00:00",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "tags": []
+    },
+    {
+      "id": "2d7b68a51067228c92f1ce932c7e411f",
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T08:35:42+00:00",
+      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "225268ea7e12f25214566ecd66d2c2c4",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T07:25:44+00:00",
+      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "2c97090ab26d5fb0441d988c33f3fc3a",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T02:12:17+00:00",
+      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+      "tags": []
+    },
+    {
+      "id": "c87e015a16a0fd802637f3f282ffdd5a",
+      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33524",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-17T02:05:15+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "f680c3550601696fca72f8ddf9beefc6",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-16T22:54:00+00:00",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "tags": []
+    },
+    {
+      "id": "487893a570f4d7e5943c73ed8ae27a30",
+      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-16T22:08:20+00:00",
+      "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "6a0c758403739be205475291ccb73ec4",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-16T21:31:44+00:00",
+      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "0f561af81c8b6e3949fc690b6ab8ec5b",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-16T20:59:44+00:00",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+      "tags": []
+    },
+    {
+      "id": "9cf1ce021144afe0465b5ef6f3e9cf08",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-16T19:57:13+00:00",
+      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "5e04194c0dec7f72ad5e98f2aec29f56",
+      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-16T19:56:05+00:00",
+      "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "7ebf1d68a8f623c3945da3e0964bba6b",
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-16T19:10:03+00:00",
+      "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+      "tags": []
+    },
     {
       "id": "81ef74f31b59f65765c5d8c00ca6a2e3",
       "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
@@ -15,6 +226,19 @@
       "published": "2026-11-16T16:43:24+00:00",
       "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
       "tags": []
+    },
+    {
+      "id": "ff727c18698d09c72442337ea10a119f",
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-16T16:36:55+00:00",
+      "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+      "tags": [
+        "BREACH"
+      ]
     },
     {
       "id": "827737e4a56e45009b758728725b3544",
@@ -38,6 +262,17 @@
       "source_color": "#4a9eff",
       "published": "2026-11-16T15:01:11+00:00",
       "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+      "tags": []
+    },
+    {
+      "id": "8995ec2567278403a847ad8349f13cf0",
+      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-16T14:22:15+00:00",
+      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
       "tags": []
     },
     {
@@ -65,20 +300,6 @@
       ]
     },
     {
-      "id": "1327a31f80fc1b990883f7ca360ee49e",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T12:53:18+00:00",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
       "id": "139fe93a86c6e7a08c64ac0e9cdb35a1",
       "title": "Usable Security at Luxury Hotels",
       "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
@@ -90,52 +311,6 @@
       "tags": []
     },
     {
-      "id": "b3bf9607d4fc0e5ebc03cb6f3f2183d9",
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T11:18:09+00:00",
-      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "tags": []
-    },
-    {
-      "id": "e0b7f5a394f0ee669549375209472e85",
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T11:00:00+00:00",
-      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-      "tags": []
-    },
-    {
-      "id": "a776e1366df5f1d88386bfa1c76a9e50",
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T09:30:04+00:00",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "tags": []
-    },
-    {
-      "id": "9f01bf7a9094500c53615ae2af7e0669",
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T08:26:52+00:00",
-      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "ac6db506b4c9468b808d1efcb4de1724",
       "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
       "url": "https://isc.sans.edu/diary/rss/33520",
@@ -145,19 +320,6 @@
       "published": "2026-11-16T02:00:05+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
-    },
-    {
-      "id": "345716007b6508ccc17682c74f56db87",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-15T18:29:53+00:00",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "7106c67c54477721916d1dec8644ce06",
@@ -173,32 +335,6 @@
       ]
     },
     {
-      "id": "5a4f53d8f5e13b220a1abbdaf6150b1c",
-      "title": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-15T15:23:48+00:00",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "60f9b9b30062155ebc9aae0921be29bf",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-14T17:27:25+00:00",
-      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "e109a4e996ba8e410faf05eeb4c41e5e",
       "title": "Upcoming Speaking Engagements",
       "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
@@ -210,14 +346,14 @@
       "tags": []
     },
     {
-      "id": "f828612ff6ba10492a2c1d8114964c3f",
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "source": "Bleeping Computer",
+      "id": "5c5a15f74c57130d51a624a64204fefc",
+      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
+      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+      "source": "Dark Reading",
       "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-14T15:15:49+00:00",
-      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "source_color": "#9b59b6",
+      "published": "2026-11-13T22:27:00+00:00",
+      "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
       "tags": []
     },
     {
@@ -240,30 +376,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-13T20:20:27+00:00",
       "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-      "tags": []
-    },
-    {
-      "id": "b18b7197a903ab0a4d58a45bfe904792",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-13T19:38:36+00:00",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "c8ef556c39f87e11c3eeafeda7f8de86",
-      "title": "German military drone operations disrupted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-13T17:31:56+00:00",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
       "tags": []
     },
     {
@@ -453,17 +565,6 @@
       "tags": []
     },
     {
-      "id": "5c5a15f74c57130d51a624a64204fefc",
-      "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
-      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-11T20:27:00+00:00",
-      "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-      "tags": []
-    },
-    {
       "id": "eb51fac3ae21ce6ad7372bf702d12c39",
       "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
       "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
@@ -512,17 +613,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-11T12:05:34+00:00",
       "summary": "It s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in ord…",
-      "tags": []
-    },
-    {
-      "id": "31c4b8d3d2fe16af37dc1056eb782e12",
-      "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33510",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-11T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -613,30 +703,6 @@
       ]
     },
     {
-      "id": "10d32e5120fb0ad4578945b86d3e9e9b",
-      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
-      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
-      "tags": []
-    },
-    {
-      "id": "52428cbc7061553821fa19114de1167e",
-      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
-      "url": "https://isc.sans.edu/diary/rss/33506",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-10T12:48:55+00:00",
-      "summary": "",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "d1660657e64a193e031738fbd5d90190",
       "title": "New OpenSSH Vulnerability",
       "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
@@ -645,63 +711,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-10T12:02:38+00:00",
       "summary": "It s a bad one , and it s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed *sshole, allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. Oversized means longer than 256 bytes. Details . Slas…",
-      "tags": []
-    },
-    {
-      "id": "30ed14d245d905a7adbe8a8828696559",
-      "title": "People Are Getting Weird About AI",
-      "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-09T23:06:22+00:00",
-      "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to the cybersecurity risks. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion.",
-      "tags": []
-    },
-    {
-      "id": "f469f9c346714e16020006e786c744f9",
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-09T21:38:20+00:00",
-      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-      "tags": []
-    },
-    {
-      "id": "80aa0d71a3937bf93987de72fc3d09b4",
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-      "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-09T21:12:24+00:00",
-      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "bbdeee230199429fa9ee9dca771fc991",
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-      "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-09T20:19:56+00:00",
-      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
-      "tags": []
-    },
-    {
-      "id": "dec02aab4f2dae1ca3394a70b4369044",
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-09T18:08:30+00:00",
-      "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
       "tags": []
     },
     {
@@ -724,17 +733,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-06T22:05:12+00:00",
       "summary": "News story: Scientists discover a bizarre Jurassic squid unlike anything ever seen . Scientists have identified the fattest belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a pr…",
-      "tags": []
-    },
-    {
-      "id": "42827a83e3b0b80d88722986c978353b",
-      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
-      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-11-06T14:57:48+00:00",
-      "summary": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because…",
       "tags": []
     },
     {
