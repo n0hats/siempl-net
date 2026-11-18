@@ -1,10 +1,220 @@
 {
-  "last_updated": "2026-11-17T16:43:13.754173+00:00",
+  "last_updated": "2026-11-18T16:13:47.107426+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "75612c531d79e01c0b24f23ad4bc697a",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T15:00:10+00:00",
+      "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
+      "tags": []
+    },
+    {
+      "id": "e940eecb0492a12089e3e7b21f704d51",
+      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-18T14:00:00+00:00",
+      "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
+      "tags": []
+    },
+    {
+      "id": "0a25269fdcdc3cccf3b91a2940b79c0d",
+      "title": "France Is Blaming Iran for the Fridge Cyberattack",
+      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-18T12:05:35+00:00",
+      "summary": "Interesting : U.S. intelligence agencies have recently reached a ow confidence assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A low confidence assessment generally means that there is some intelligence that points in a certa…",
+      "tags": []
+    },
+    {
+      "id": "a16acd705aed4a3ff47b504026362f4d",
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T11:50:25+00:00",
+      "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "tags": []
+    },
+    {
+      "id": "394b975553dc4412d5ef3b0bfc996aa2",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T10:35:05+00:00",
+      "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "53c873c2599a61118a2962288e221dc7",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T09:24:31+00:00",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "tags": []
+    },
+    {
+      "id": "d9ea44e7b54b4b54e0cf284c67748dc9",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T08:24:18+00:00",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "tags": []
+    },
+    {
+      "id": "c077b9eec9aa33ad474cc70476ea5da9",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "KrebsOnSecurity",
+      "source_category": "threat-intel",
+      "source_color": "#ff6b35",
+      "published": "2026-11-18T02:52:04+00:00",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected…",
+      "tags": []
+    },
+    {
+      "id": "c0b8e4421746b778f57bdffd950d9a48",
+      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33528",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-18T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "8cb38fbbbb099f0dc452b2b55b78320b",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T23:04:21+00:00",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "tags": []
+    },
+    {
+      "id": "e74bb51c14beab249cb0196f3ba247b3",
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-17T22:34:22+00:00",
+      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "5e7a90d912db157f1414699d540b7fc4",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T21:27:17+00:00",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "4e69d819123c72ab6de272682be36153",
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-17T20:58:13+00:00",
+      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+      "tags": []
+    },
+    {
+      "id": "95f82a75f7369334441e06ccf761aa9d",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T20:51:21+00:00",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "d080f5e6d81c80273bef582915794876",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T19:24:07+00:00",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "tags": []
+    },
+    {
+      "id": "3e69572b34d06ed42a634c88d6cd0938",
+      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-17T18:38:37+00:00",
+      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "0e7a032a4e9762b8d48ae18e30dafbc6",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T18:21:24+00:00",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "tags": []
+    },
+    {
+      "id": "23ced53a80e1bfebbc3ecb29ab92ca29",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-17T18:04:15+00:00",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
     {
       "id": "cfdfd1190487843ec1cb9afff806e4ae",
       "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
@@ -35,7 +245,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-17T13:12:56+00:00",
-      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
       "tags": []
     },
     {
@@ -83,43 +293,6 @@
       "tags": []
     },
     {
-      "id": "2d7b68a51067228c92f1ce932c7e411f",
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T08:35:42+00:00",
-      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "225268ea7e12f25214566ecd66d2c2c4",
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T07:25:44+00:00",
-      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
-      "id": "2c97090ab26d5fb0441d988c33f3fc3a",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T02:12:17+00:00",
-      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
-      "tags": []
-    },
-    {
       "id": "c87e015a16a0fd802637f3f282ffdd5a",
       "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
       "url": "https://isc.sans.edu/diary/rss/33524",
@@ -128,17 +301,6 @@
       "source_color": "#e74c3c",
       "published": "2026-11-17T02:05:15+00:00",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "f680c3550601696fca72f8ddf9beefc6",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T22:54:00+00:00",
-      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
       "tags": []
     },
     {
@@ -155,46 +317,8 @@
       ]
     },
     {
-      "id": "6a0c758403739be205475291ccb73ec4",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T21:31:44+00:00",
-      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
-      "id": "0f561af81c8b6e3949fc690b6ab8ec5b",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T20:59:44+00:00",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
-      "tags": []
-    },
-    {
-      "id": "9cf1ce021144afe0465b5ef6f3e9cf08",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T19:57:13+00:00",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "5e04194c0dec7f72ad5e98f2aec29f56",
-      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
       "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
       "source": "Dark Reading",
       "source_category": "news",
@@ -217,17 +341,6 @@
       "tags": []
     },
     {
-      "id": "81ef74f31b59f65765c5d8c00ca6a2e3",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T16:43:24+00:00",
-      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-      "tags": []
-    },
-    {
       "id": "ff727c18698d09c72442337ea10a119f",
       "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
@@ -241,30 +354,6 @@
       ]
     },
     {
-      "id": "827737e4a56e45009b758728725b3544",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T15:44:21+00:00",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "09921bd51601afc1200139e2e96ce11c",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T15:01:11+00:00",
-      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
-      "tags": []
-    },
-    {
       "id": "8995ec2567278403a847ad8349f13cf0",
       "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
       "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
@@ -273,17 +362,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-16T14:22:15+00:00",
       "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-      "tags": []
-    },
-    {
-      "id": "061dde6224962a2bd130c7156828a65d",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-16T14:00:00+00:00",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
       "tags": []
     },
     {
@@ -353,7 +431,7 @@
       "source_category": "news",
       "source_color": "#9b59b6",
       "published": "2026-11-13T22:27:00+00:00",
-      "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
+      "summary": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
       "tags": []
     },
     {
@@ -579,19 +657,6 @@
       ]
     },
     {
-      "id": "64f11ca01d2b42972fe8b4ba21b60c20",
-      "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
-      "url": "https://isc.sans.edu/diary/rss/33508",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-11T18:28:43+00:00",
-      "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
       "id": "a29bdb614c93f81a61a7810fac77b788",
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -657,52 +722,6 @@
       ]
     },
     {
-      "id": "9c5042f15587060ab9be5df64ad62f64",
-      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-      "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T20:41:45+00:00",
-      "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
-      "tags": []
-    },
-    {
-      "id": "0060c92aaa8786e5142e96dc8d70032a",
-      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-      "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T20:35:34+00:00",
-      "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
-      "tags": []
-    },
-    {
-      "id": "ed1e10b510663c7372f4d7fa5e18e3e0",
-      "title": "How to Assess OT Incident Response Preparedness",
-      "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T20:18:43+00:00",
-      "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
-      "tags": []
-    },
-    {
-      "id": "5abea4e36ae8a3fbd022ca31704e8750",
-      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T18:46:22+00:00",
-      "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "d1660657e64a193e031738fbd5d90190",
       "title": "New OpenSSH Vulnerability",
       "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
@@ -722,17 +741,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-09T12:05:39+00:00",
       "summary": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It s important for researchers to understand which…",
-      "tags": []
-    },
-    {
-      "id": "e6f5c93e0a9e2b60035540f806e495ba",
-      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-11-06T22:05:12+00:00",
-      "summary": "News story: Scientists discover a bizarre Jurassic squid unlike anything ever seen . Scientists have identified the fattest belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a pr…",
       "tags": []
     },
     {
@@ -821,17 +829,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "82b1e37b8f7fb8817eac9f471abbcf5e",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "source": "KrebsOnSecurity",
-      "source_category": "threat-intel",
-      "source_color": "#ff6b35",
-      "published": "2026-10-07T13:48:45+00:00",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of ext…",
-      "tags": []
     }
   ]
 }
