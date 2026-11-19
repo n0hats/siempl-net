@@ -1,10 +1,237 @@
 {
-  "last_updated": "2026-11-18T16:13:47.107426+00:00",
+  "last_updated": "2026-11-19T16:21:37.447755+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "28596d73e6d5840c37a6b41e5b26c70f",
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T15:00:10+00:00",
+      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "fc871365b08e1f1bfd2a72a9eb56a9ac",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T14:57:24+00:00",
+      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+      "tags": []
+    },
+    {
+      "id": "0dee9c447216f044a7ebf90fbeff9355",
+      "title": "Why Holiday Security Can't Wait for Black Friday",
+      "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-19T14:00:00+00:00",
+      "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
+      "tags": []
+    },
+    {
+      "id": "589942e72f1924f2f69d5b4cbb58c025",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T13:08:08+00:00",
+      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "51d1fbddbc097023cf134677d3f97fd3",
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T11:46:00+00:00",
+      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "tags": []
+    },
+    {
+      "id": "05e9363c65cd5013f17d6b4359e10472",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T10:35:05+00:00",
+      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "4c94531686ddb718676129a0615af064",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-19T09:23:21+00:00",
+      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "tags": [
+        "RANSOMWARE",
+        "BREACH"
+      ]
+    },
+    {
+      "id": "8521e574a5e864e432fe29436d7150a2",
+      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+      "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
+      "tags": []
+    },
+    {
+      "id": "ecd5e429ce198f77331514ddd927361e",
+      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+      "url": "https://isc.sans.edu/diary/rss/33536",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-19T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "911c968ad91f92702bfc1269c19c6e68",
+      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI Guest Diary , (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33534",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-19T01:53:48+00:00",
+      "summary": "This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program",
+      "tags": []
+    },
+    {
+      "id": "7e9f725d8a7b9b67489d0657c97cdf87",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T23:08:33+00:00",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "db2910247a514fdb014dcc298cfb6bd9",
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-18T21:59:46+00:00",
+      "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "f197e44905ec055096e1db9ef63684a5",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T20:49:32+00:00",
+      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      "tags": []
+    },
+    {
+      "id": "e015edf1c09cb8e99033a4f642ae36ee",
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-18T20:45:49+00:00",
+      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+      "tags": []
+    },
+    {
+      "id": "0c597ec3c532313dd3b7b8ba3cff899a",
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-18T20:38:42+00:00",
+      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "566b0d51d711100d9b4f85d3bc1b3b28",
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33532",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-18T19:54:50+00:00",
+      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an Infocon \"Yellow\" infocon . In the last few days, we …",
+      "tags": []
+    },
+    {
+      "id": "f59d20678d5e9cf2477c1633d5188e54",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T19:39:33+00:00",
+      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "ac8640926a0fb03c35edfddc2dbbfd39",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-18T16:58:42+00:00",
+      "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "tags": []
+    },
+    {
+      "id": "dd1ab9a39c9b3ea5aaafb164d6da3b10",
+      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-18T16:54:52+00:00",
+      "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
+      "tags": []
+    },
     {
       "id": "75612c531d79e01c0b24f23ad4bc697a",
       "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
@@ -35,7 +262,7 @@
       "source_category": "analysis",
       "source_color": "#2ecc71",
       "published": "2026-11-18T12:05:35+00:00",
-      "summary": "Interesting : U.S. intelligence agencies have recently reached a ow confidence assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A low confidence assessment generally means that there is some intelligence that points in a certa…",
+      "summary": "Interesting : U.S. intelligence agencies have recently reached a low confidence assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A low confidence assessment generally means that there is some intelligence that points in a cert…",
       "tags": []
     },
     {
@@ -107,17 +334,6 @@
       "tags": []
     },
     {
-      "id": "8cb38fbbbb099f0dc452b2b55b78320b",
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T23:04:21+00:00",
-      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
-      "tags": []
-    },
-    {
       "id": "e74bb51c14beab249cb0196f3ba247b3",
       "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
       "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
@@ -126,19 +342,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-17T22:34:22+00:00",
       "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "5e7a90d912db157f1414699d540b7fc4",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T21:27:17+00:00",
-      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
       "tags": [
         "BREACH"
       ]
@@ -155,30 +358,6 @@
       "tags": []
     },
     {
-      "id": "95f82a75f7369334441e06ccf761aa9d",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T20:51:21+00:00",
-      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "d080f5e6d81c80273bef582915794876",
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T19:24:07+00:00",
-      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "tags": []
-    },
-    {
       "id": "3e69572b34d06ed42a634c88d6cd0938",
       "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
       "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
@@ -190,52 +369,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "0e7a032a4e9762b8d48ae18e30dafbc6",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T18:21:24+00:00",
-      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-      "tags": []
-    },
-    {
-      "id": "23ced53a80e1bfebbc3ecb29ab92ca29",
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T18:04:15+00:00",
-      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "cfdfd1190487843ec1cb9afff806e4ae",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T16:00:00+00:00",
-      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-      "tags": []
-    },
-    {
-      "id": "903fe8bbd3a86dd41aab45a608a3fc3e",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T15:01:11+00:00",
-      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-      "tags": []
     },
     {
       "id": "f216dd13cf8c409551cdfefcc1bbdf6e",
@@ -260,17 +393,6 @@
       "tags": []
     },
     {
-      "id": "f94992ccf52663a812283f308352ebaf",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T11:19:51+00:00",
-      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-      "tags": []
-    },
-    {
       "id": "1f39573ab110bef56f2fd85f7e1b08a6",
       "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
       "url": "https://isc.sans.edu/diary/rss/33526",
@@ -279,17 +401,6 @@
       "source_color": "#e74c3c",
       "published": "2026-11-17T10:56:38+00:00",
       "summary": "I&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x99 ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9c generic&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9d phishing messages in detail from time to time, since so…",
-      "tags": []
-    },
-    {
-      "id": "5182fa3cf61d54d9700b21dfe3ea3272",
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-17T09:44:22+00:00",
-      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
       "tags": []
     },
     {
@@ -494,17 +605,6 @@
       ]
     },
     {
-      "id": "89e71a877ff78aae8aa6cede7bdd20bf",
-      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-      "url": "https://isc.sans.edu/diary/rss/33516",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-13T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "13c7881e60896c3322c48fd5da431b60",
       "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
       "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
@@ -549,19 +649,6 @@
       "tags": []
     },
     {
-      "id": "ab3b0afdc50e9bbc59d1f13823ab5eaa",
-      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-      "url": "https://isc.sans.edu/diary/rss/33514",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-12T11:56:24+00:00",
-      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end of June. This vulnerability was not made public until the end of July,…",
-      "tags": [
-        "CVE"
-      ]
-    },
-    {
       "id": "461734a04549bbea228d1499ff138992",
       "title": "Inside an AI Attack Against a US Retailer",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
@@ -573,17 +660,6 @@
       "tags": [
         "BREACH"
       ]
-    },
-    {
-      "id": "c0f67c36585381e52e88c141c8275707",
-      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
-      "url": "https://isc.sans.edu/diary/rss/33512",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-12T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
     },
     {
       "id": "f34e1896341853ff348e29c9d44bd791",
@@ -607,53 +683,6 @@
       "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
       "tags": [
         "BREACH"
-      ]
-    },
-    {
-      "id": "6fae7b2c99bf546a32c74ef7bc490856",
-      "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
-      "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-11T22:14:44+00:00",
-      "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
-      "tags": []
-    },
-    {
-      "id": "d35625b0214f369e8d3e4afa0ff13826",
-      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-      "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-11T21:44:04+00:00",
-      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-      "tags": []
-    },
-    {
-      "id": "88e23916c72a547c6fdbf578ecfcbaf0",
-      "title": "AI Raises the Stakes for Cyber Resilience",
-      "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-11T21:20:41+00:00",
-      "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
-      "tags": []
-    },
-    {
-      "id": "eb51fac3ae21ce6ad7372bf702d12c39",
-      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
-      "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-11T20:05:18+00:00",
-      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
-      "tags": [
-        "0DAY",
-        "PATCH"
       ]
     },
     {
@@ -681,20 +710,6 @@
       "tags": []
     },
     {
-      "id": "220c3b4653f27c0d95afed4cccf7cfd3",
-      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T22:26:51+00:00",
-      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
-    },
-    {
       "id": "cd21f33e2e3d647f789b06f5612e02a1",
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
@@ -706,19 +721,6 @@
       "tags": [
         "0DAY",
         "PATCH"
-      ]
-    },
-    {
-      "id": "2324e4706516bf1cbf3c3c2bf1c7f085",
-      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-10T21:01:14+00:00",
-      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
-      "tags": [
-        "BREACH"
       ]
     },
     {
