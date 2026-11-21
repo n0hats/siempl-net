@@ -1,10 +1,122 @@
 {
-  "last_updated": "2026-11-20T15:55:41.857827+00:00",
+  "last_updated": "2026-11-21T15:07:03.581106+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "68a7cdaa6f8dfb25a4abe76a2ca8da3a",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-21T14:26:04+00:00",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "5e6da20d451a8e4528ce8492a597b10a",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "KrebsOnSecurity",
+      "source_category": "threat-intel",
+      "source_color": "#ff6b35",
+      "published": "2026-11-21T00:36:39+00:00",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup…",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "3d6600dba4617daa9197fc5d54f76387",
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-20T22:04:12+00:00",
+      "summary": "This is the story of the largest squid ever filmed, in December 2006 near Japan s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
+      "tags": []
+    },
+    {
+      "id": "2cd7e41e0463cf325a6f875d5f5974cb",
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-20T21:03:27+00:00",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+      "tags": [
+        "0DAY",
+        "PATCH"
+      ]
+    },
+    {
+      "id": "247a71d624897d715c8145b40bad3c29",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-20T18:51:43+00:00",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "ae7f06fd30690ad74df857d5deca9eaa",
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-20T18:35:40+00:00",
+      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+      "tags": []
+    },
+    {
+      "id": "bbf2c3f2ae6ac357de33f84c1ba33612",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-20T17:30:00+00:00",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "bcc6ac46d6dfbf814c1954a322f92699",
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-20T17:04:04+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+      "tags": []
+    },
+    {
+      "id": "eab77a63bf1e96bad199166b6b2171f7",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-20T15:58:06+00:00",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
     {
       "id": "0aee25c02bfae3635d7e664eff7242bd",
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
@@ -141,7 +253,7 @@
     },
     {
       "id": "bfbdf593369230a8f556c02ec522fa0d",
-      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
       "source": "Dark Reading",
       "source_category": "news",
@@ -154,7 +266,7 @@
     },
     {
       "id": "dea15aeedf56b5ce0ec8a2b999e465dd",
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
       "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
       "source": "Dark Reading",
       "source_category": "news",
@@ -217,17 +329,6 @@
       ]
     },
     {
-      "id": "fc871365b08e1f1bfd2a72a9eb56a9ac",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T14:57:24+00:00",
-      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-      "tags": []
-    },
-    {
       "id": "0dee9c447216f044a7ebf90fbeff9355",
       "title": "Why Holiday Security Can't Wait for Black Friday",
       "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
@@ -237,43 +338,6 @@
       "published": "2026-11-19T14:00:00+00:00",
       "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
       "tags": []
-    },
-    {
-      "id": "589942e72f1924f2f69d5b4cbb58c025",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T13:08:08+00:00",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "51d1fbddbc097023cf134677d3f97fd3",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T11:46:00+00:00",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "tags": []
-    },
-    {
-      "id": "05e9363c65cd5013f17d6b4359e10472",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T10:35:05+00:00",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "8521e574a5e864e432fe29436d7150a2",
@@ -646,19 +710,6 @@
       "tags": []
     },
     {
-      "id": "ceb06d1ac3996b35c546c97366257fb4",
-      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-13T13:00:00+00:00",
-      "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "1d8b68bb6887db61f8f97a88a3778e3a",
       "title": "AI Doesn’t Have to Go Rogue to Break the World",
       "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
@@ -667,28 +718,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-13T12:03:30+00:00",
       "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The l…",
-      "tags": []
-    },
-    {
-      "id": "13c7881e60896c3322c48fd5da431b60",
-      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-      "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-12T22:46:05+00:00",
-      "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-      "tags": []
-    },
-    {
-      "id": "338c2da908049cf5f868a7e1724d1596",
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-12T21:18:52+00:00",
-      "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
       "tags": []
     },
     {
@@ -739,17 +768,6 @@
         "0DAY",
         "PATCH"
       ]
-    },
-    {
-      "id": "d1660657e64a193e031738fbd5d90190",
-      "title": "New OpenSSH Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-11-10T12:02:38+00:00",
-      "summary": "It s a bad one , and it s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed *sshole, allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. Oversized means longer than 256 bytes. Details . Slas…",
-      "tags": []
     },
     {
       "id": "7543ee8beb8b7e75a1a1862169bc2549",
@@ -823,19 +841,6 @@
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
       "tags": [
         "PATCH"
-      ]
-    },
-    {
-      "id": "ebf8282e5b855b682649fcd7f69bfaca",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "source": "KrebsOnSecurity",
-      "source_category": "threat-intel",
-      "source_color": "#ff6b35",
-      "published": "2026-10-10T00:17:42+00:00",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-      "tags": [
-        "RANSOMWARE"
       ]
     }
   ]
