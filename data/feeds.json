@@ -1,10 +1,48 @@
 {
-  "last_updated": "2026-11-21T15:07:03.581106+00:00",
-  "item_count": 70,
+  "last_updated": "2026-11-22T15:04:42.565904+00:00",
+  "item_count": 60,
   "failed_sources": [
-    "Hacker News"
+    "Hacker News",
+    "SANS ISC"
   ],
   "items": [
+    {
+      "id": "577061a5363c99c29cff8cb988ced05f",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-21T22:59:58+00:00",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "3ac5106debba78e211e09786789f3861",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-21T18:01:58+00:00",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "4fa83550e4dfc642810ede6fde3c3452",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-21T15:17:27+00:00",
+      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "tags": []
+    },
     {
       "id": "68a7cdaa6f8dfb25a4abe76a2ca8da3a",
       "title": "FBI reportedly hacked again, this time targeting nationwide police database",
@@ -190,17 +228,6 @@
       ]
     },
     {
-      "id": "588e92f2f2a334aa7ed260efd0fbd5b8",
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-20T02:00:02+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
       "id": "21f62923abce367fd8cf0e23441c6f20",
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
       "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
@@ -289,46 +316,6 @@
       "tags": []
     },
     {
-      "id": "0bde8e37c6bf91856e2b923983e40243",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T18:20:01+00:00",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "a4027385edbb2b26bde6ea8a79e1bb1c",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T16:28:23+00:00",
-      "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "28596d73e6d5840c37a6b41e5b26c70f",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T15:00:10+00:00",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-      "tags": [
-        "RANSOMWARE",
-        "BREACH"
-      ]
-    },
-    {
       "id": "0dee9c447216f044a7ebf90fbeff9355",
       "title": "Why Holiday Security Can't Wait for Black Friday",
       "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
@@ -348,28 +335,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-19T08:00:00+00:00",
       "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
-      "tags": []
-    },
-    {
-      "id": "ecd5e429ce198f77331514ddd927361e",
-      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-      "url": "https://isc.sans.edu/diary/rss/33536",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-19T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "911c968ad91f92702bfc1269c19c6e68",
-      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI Guest Diary , (Wed, Nov 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33534",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-19T01:53:48+00:00",
-      "summary": "This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program",
       "tags": []
     },
     {
@@ -408,17 +373,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "566b0d51d711100d9b4f85d3bc1b3b28",
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-18T19:54:50+00:00",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an Infocon \"Yellow\" infocon . In the last few days, we …",
-      "tags": []
     },
     {
       "id": "dd1ab9a39c9b3ea5aaafb164d6da3b10",
@@ -462,17 +416,6 @@
       "source_color": "#ff6b35",
       "published": "2026-11-18T02:52:04+00:00",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected…",
-      "tags": []
-    },
-    {
-      "id": "c0b8e4421746b778f57bdffd950d9a48",
-      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33528",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-18T02:00:03+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -532,28 +475,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-17T12:05:43+00:00",
       "summary": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in …",
-      "tags": []
-    },
-    {
-      "id": "1f39573ab110bef56f2fd85f7e1b08a6",
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-17T10:56:38+00:00",
-      "summary": "I&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x99 ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9c generic&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9d phishing messages in detail from time to time, since so…",
-      "tags": []
-    },
-    {
-      "id": "c87e015a16a0fd802637f3f282ffdd5a",
-      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33524",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-17T02:05:15+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -618,19 +539,6 @@
       "tags": []
     },
     {
-      "id": "66074be992d92fb0a3981a899ccfa82f",
-      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33522",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-16T13:11:04+00:00",
-      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without authentication Horizon3",
-      "tags": [
-        "CVE"
-      ]
-    },
-    {
       "id": "139fe93a86c6e7a08c64ac0e9cdb35a1",
       "title": "Usable Security at Luxury Hotels",
       "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
@@ -640,30 +548,6 @@
       "published": "2026-11-16T12:04:42+00:00",
       "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why just don t click on links is bad advice. It can t work when answering strangers emails is the job. Even worse, in this ca…",
       "tags": []
-    },
-    {
-      "id": "ac6db506b4c9468b808d1efcb4de1724",
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33520",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-16T02:00:05+00:00",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "tags": []
-    },
-    {
-      "id": "7106c67c54477721916d1dec8644ce06",
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "url": "https://isc.sans.edu/diary/rss/33496",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-15T18:17:27+00:00",
-      "summary": "YARA-X& x26; 39& x26; x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "e109a4e996ba8e410faf05eeb4c41e5e",
