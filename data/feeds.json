@@ -1,11 +1,189 @@
 {
-  "last_updated": "2026-11-22T15:04:42.565904+00:00",
-  "item_count": 60,
+  "last_updated": "2026-11-23T18:59:49.862030+00:00",
+  "item_count": 70,
   "failed_sources": [
-    "Hacker News",
-    "SANS ISC"
+    "Hacker News"
   ],
   "items": [
+    {
+      "id": "ce19c4d88baf5fb82bc821f0a269768c",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T18:38:40+00:00",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "950021fbd4451269d7bfffe189abdc4f",
+      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-23T17:45:52+00:00",
+      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+      "tags": [
+        "RANSOMWARE"
+      ]
+    },
+    {
+      "id": "3942f7c33b61da7585daa6dd7003cfdb",
+      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T16:50:01+00:00",
+      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+      "tags": []
+    },
+    {
+      "id": "6f4e02202d83629072093c85d34d0f36",
+      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-23T16:17:21+00:00",
+      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "90fd6203958f5c827e7924a624027eb2",
+      "title": "AI Agents Are Creating a Shared Responsibility Gap",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T15:00:10+00:00",
+      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+      "tags": []
+    },
+    {
+      "id": "72e142cd1cf92990b1559cb072c18a1d",
+      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T13:28:45+00:00",
+      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "6a6c5e6b29ec466d094f90e26d962c6c",
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T12:02:23+00:00",
+      "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+      "tags": []
+    },
+    {
+      "id": "dcb1e49d6f398dccd5142a831e2b9aa3",
+      "title": "Humans Have Rights. Machines Do Not.",
+      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-23T12:00:54+00:00",
+      "summary": "This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, that the chatbot s words were speech that its use…",
+      "tags": []
+    },
+    {
+      "id": "c1609192bbc0bd84563a3aa9310d9d19",
+      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T09:11:15+00:00",
+      "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "22b7049d11bd95c1d833f0ba56c184a2",
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-23T07:44:19+00:00",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "fa6a4f85288360a3c428ac6c10a77e35",
+      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33548",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-23T02:00:04+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "0c7ba107785c12c8147e11f442dc8a17",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-22T18:45:37+00:00",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "tags": []
+    },
+    {
+      "id": "53a3b6fc5a72a005f76daa98dd2c79a1",
+      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+      "url": "https://isc.sans.edu/diary/rss/33530",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-22T18:40:18+00:00",
+      "summary": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.",
+      "tags": []
+    },
+    {
+      "id": "07ce35c33a8d0b20872e707947f02fcb",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-22T15:43:04+00:00",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "592626ee88c9021ef3c60367d52efea6",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-22T15:15:25+00:00",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "tags": []
+    },
     {
       "id": "577061a5363c99c29cff8cb988ced05f",
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -57,6 +235,17 @@
       ]
     },
     {
+      "id": "b35b7cb1c6b99c8cab9170f96271f459",
+      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-21T01:31:23+00:00",
+      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+      "tags": []
+    },
+    {
       "id": "5e6da20d451a8e4528ce8492a597b10a",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -95,6 +284,17 @@
       ]
     },
     {
+      "id": "819271e4c28ee0b9e1428ba7bf97b152",
+      "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-20T20:43:45+00:00",
+      "summary": "Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.",
+      "tags": []
+    },
+    {
       "id": "247a71d624897d715c8145b40bad3c29",
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
       "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
@@ -119,19 +319,6 @@
       "tags": []
     },
     {
-      "id": "bbf2c3f2ae6ac357de33f84c1ba33612",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T17:30:00+00:00",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "tags": [
-        "0DAY"
-      ]
-    },
-    {
       "id": "bcc6ac46d6dfbf814c1954a322f92699",
       "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
       "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
@@ -143,51 +330,14 @@
       "tags": []
     },
     {
-      "id": "eab77a63bf1e96bad199166b6b2171f7",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "source": "Bleeping Computer",
+      "id": "6b574d103fe19f59c7392122693c8187",
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "source": "Dark Reading",
       "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T15:58:06+00:00",
-      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "0aee25c02bfae3635d7e664eff7242bd",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T15:00:10+00:00",
-      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
-      "tags": []
-    },
-    {
-      "id": "ced8fb9dc519888c87ee4efda4ff8263",
-      "title": "N-able says recent security breach led to major service outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T13:18:36+00:00",
-      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "591bae00358714f1c8858d1d4efaa38e",
-      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T12:14:28+00:00",
-      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "source_color": "#9b59b6",
+      "published": "2026-11-20T13:51:30+00:00",
+      "summary": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
       "tags": []
     },
     {
@@ -202,44 +352,15 @@
       "tags": []
     },
     {
-      "id": "020cc916168672222488212597574187",
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T10:57:43+00:00",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "a7a67812faf6d6b11f7fa395b8c93000",
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T09:25:35+00:00",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "tags": [
-        "PATCH"
-      ]
-    },
-    {
-      "id": "21f62923abce367fd8cf0e23441c6f20",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-20T00:26:25+00:00",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "tags": [
-        "0DAY",
-        "PATCH"
-      ]
+      "id": "588e92f2f2a334aa7ed260efd0fbd5b8",
+      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+      "url": "https://isc.sans.edu/diary/rss/33538",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-20T02:00:02+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
     },
     {
       "id": "eca23ad94d9161d14bae1855ba52781e",
@@ -251,32 +372,6 @@
       "published": "2026-11-19T22:40:03+00:00",
       "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
       "tags": []
-    },
-    {
-      "id": "d34a04be557c8e39794255864a37ff1d",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T22:25:42+00:00",
-      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "b40523b9208dc1902323534d48f265ce",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-19T21:15:59+00:00",
-      "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "bfbdf593369230a8f556c02ec522fa0d",
@@ -338,6 +433,28 @@
       "tags": []
     },
     {
+      "id": "ecd5e429ce198f77331514ddd927361e",
+      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+      "url": "https://isc.sans.edu/diary/rss/33536",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-19T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "911c968ad91f92702bfc1269c19c6e68",
+      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI Guest Diary , (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33534",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-19T01:53:48+00:00",
+      "summary": "This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program",
+      "tags": []
+    },
+    {
       "id": "db2910247a514fdb014dcc298cfb6bd9",
       "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
@@ -373,6 +490,17 @@
       "tags": [
         "RANSOMWARE"
       ]
+    },
+    {
+      "id": "566b0d51d711100d9b4f85d3bc1b3b28",
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33532",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-18T19:54:50+00:00",
+      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an Infocon \"Yellow\" infocon . In the last few days, we …",
+      "tags": []
     },
     {
       "id": "dd1ab9a39c9b3ea5aaafb164d6da3b10",
@@ -416,6 +544,17 @@
       "source_color": "#ff6b35",
       "published": "2026-11-18T02:52:04+00:00",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected…",
+      "tags": []
+    },
+    {
+      "id": "c0b8e4421746b778f57bdffd950d9a48",
+      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33528",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-18T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "tags": []
     },
     {
@@ -478,6 +617,28 @@
       "tags": []
     },
     {
+      "id": "1f39573ab110bef56f2fd85f7e1b08a6",
+      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33526",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-17T10:56:38+00:00",
+      "summary": "I&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x99 ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9c generic&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9d phishing messages in detail from time to time, since so…",
+      "tags": []
+    },
+    {
+      "id": "c87e015a16a0fd802637f3f282ffdd5a",
+      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33524",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-17T02:05:15+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
       "id": "487893a570f4d7e5943c73ed8ae27a30",
       "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
       "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
@@ -504,39 +665,17 @@
       ]
     },
     {
-      "id": "7ebf1d68a8f623c3945da3e0964bba6b",
-      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-16T19:10:03+00:00",
-      "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
-      "tags": []
-    },
-    {
-      "id": "ff727c18698d09c72442337ea10a119f",
-      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-16T16:36:55+00:00",
-      "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+      "id": "66074be992d92fb0a3981a899ccfa82f",
+      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33522",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-16T13:11:04+00:00",
+      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without authentication Horizon3",
       "tags": [
-        "BREACH"
+        "CVE"
       ]
-    },
-    {
-      "id": "8995ec2567278403a847ad8349f13cf0",
-      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-16T14:22:15+00:00",
-      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-      "tags": []
     },
     {
       "id": "139fe93a86c6e7a08c64ac0e9cdb35a1",
@@ -561,17 +700,6 @@
       "tags": []
     },
     {
-      "id": "5c5a15f74c57130d51a624a64204fefc",
-      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
-      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-13T22:27:00+00:00",
-      "summary": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-      "tags": []
-    },
-    {
       "id": "1da07c9934607e4d8806e544e0277f0f",
       "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
       "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
@@ -580,17 +708,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-13T22:00:46+00:00",
       "summary": "Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
-      "tags": []
-    },
-    {
-      "id": "628eeb56ec6a4b3a1a45daad0a60248d",
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-13T20:20:27+00:00",
-      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
       "tags": []
     },
     {
@@ -627,17 +744,6 @@
       "tags": [
         "RANSOMWARE"
       ]
-    },
-    {
-      "id": "0fefb47e915baab287bd2d30171590c8",
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-11-11T12:05:34+00:00",
-      "summary": "It s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in ord…",
-      "tags": []
     },
     {
       "id": "cd21f33e2e3d647f789b06f5612e02a1",
