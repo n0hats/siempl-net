@@ -1,10 +1,231 @@
 {
-  "last_updated": "2026-11-24T18:40:26.936484+00:00",
+  "last_updated": "2026-11-25T17:49:32.076195+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "2063573f90b5956517719dfa59166902",
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T16:13:40+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "f765a4a4a41a5f9b80ca6ad039d683ee",
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-25T15:48:04+00:00",
+      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+      "tags": []
+    },
+    {
+      "id": "f75bd5c111dd503fd0c048143a3c43bb",
+      "title": "It's a Bot World. We're Just Living in It",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-25T15:20:27+00:00",
+      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+      "tags": []
+    },
+    {
+      "id": "4547cfabfef65efe2309c708a1b5cacd",
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T15:00:10+00:00",
+      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
+      "tags": []
+    },
+    {
+      "id": "f7a5b855304f19787aa7fbc841c23ccc",
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T15:00:00+00:00",
+      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+      "tags": []
+    },
+    {
+      "id": "21b811c730202f12ea97ada3d9103970",
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-25T15:00:00+00:00",
+      "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+      "tags": []
+    },
+    {
+      "id": "7995dd2302b8a6c48d5b7ace534e4138",
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-25T14:00:00+00:00",
+      "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+      "tags": []
+    },
+    {
+      "id": "d4ba949bbfe1b141be7f73bdbe90b9ad",
+      "title": "Tracking Incidents of Hacking Using AI Tools",
+      "url": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
+      "source": "Schneier on Security",
+      "source_category": "analysis",
+      "source_color": "#2ecc71",
+      "published": "2026-11-25T12:07:21+00:00",
+      "summary": "Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.",
+      "tags": []
+    },
+    {
+      "id": "ce4d9b33a04502c876d12df72243734f",
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T11:16:32+00:00",
+      "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "72063e02bc463aa7306044fc97257dcc",
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T10:10:20+00:00",
+      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "93a4daa5fb964907aa10787ad1229ec9",
+      "title": "Microsoft confirms authentication issues after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T09:02:57+00:00",
+      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+      "tags": [
+        "PATCH"
+      ]
+    },
+    {
+      "id": "91812d787fa5a09b789e7326a6db5188",
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T07:45:03+00:00",
+      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "113b2b788028bc79b39da078e2416de2",
+      "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33554",
+      "source": "SANS ISC",
+      "source_category": "threat-intel",
+      "source_color": "#e74c3c",
+      "published": "2026-11-25T02:00:03+00:00",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "tags": []
+    },
+    {
+      "id": "bbd60e9b13d31cb4aba13d07e25ea5a0",
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-24T22:05:34+00:00",
+      "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+      "tags": []
+    },
+    {
+      "id": "0cca4ffb57d2bc87d05d6f50c1e11964",
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-24T21:48:06+00:00",
+      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+      "tags": []
+    },
+    {
+      "id": "3ffc4563d26775d485976a962aec6d79",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-24T21:37:30+00:00",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "a9b4c8c238288a004918945b3879aad8",
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-24T21:36:11+00:00",
+      "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+      "tags": []
+    },
+    {
+      "id": "8d33b3ebc358d76e215dff48ae67285b",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-24T20:21:20+00:00",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "tags": []
+    },
+    {
+      "id": "24493133bb7904c1475984de6a6bb2df",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-24T18:59:52+00:00",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "tags": []
+    },
     {
       "id": "ce3052b7ea510ec00df8edb38922d868",
       "title": "Radware discloses breach exposing customer cloud access keys",
@@ -56,6 +277,17 @@
       "tags": []
     },
     {
+      "id": "4dde2914dcaa5fbd4c7f5a80af2cf5f4",
+      "title": "How Southeastern University Got a Handle on Its Data",
+      "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-24T15:46:46+00:00",
+      "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+      "tags": []
+    },
+    {
       "id": "c29f55ae351e0af43df4b08fce43f571",
       "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
       "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
@@ -65,43 +297,6 @@
       "published": "2026-11-24T15:10:10+00:00",
       "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
       "tags": []
-    },
-    {
-      "id": "78d4cb6bfa585dbdc8ae0caf7c24ad8f",
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T15:01:11+00:00",
-      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
-      "tags": []
-    },
-    {
-      "id": "3ca8f27a836e6b5a90b4c10c43e03688",
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T14:09:37+00:00",
-      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "6490509bd2c93c74603aae1facdd1c11",
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T13:34:23+00:00",
-      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-      "tags": [
-        "PATCH"
-      ]
     },
     {
       "id": "ac5a917a6d460bac4335b37c18d0e1fd",
@@ -161,19 +356,6 @@
       "tags": []
     },
     {
-      "id": "9ae49cb371d25d34017d2a201df08540",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T20:54:51+00:00",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "e27ef02fde96c540d53718fc354d1580",
       "title": "US Cyber Director Pick Signals Shift Toward Expertise",
       "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
@@ -183,43 +365,6 @@
       "published": "2026-11-23T20:13:48+00:00",
       "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
       "tags": []
-    },
-    {
-      "id": "6ff4710e1b26d15edf4cea7492842520",
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T20:00:20+00:00",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "46973957d2c3932823cf87be81463672",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T19:42:20+00:00",
-      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-      "tags": []
-    },
-    {
-      "id": "ce19c4d88baf5fb82bc821f0a269768c",
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T18:38:40+00:00",
-      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-      "tags": [
-        "BREACH"
-      ]
     },
     {
       "id": "950021fbd4451269d7bfffe189abdc4f",
@@ -235,17 +380,6 @@
       ]
     },
     {
-      "id": "3942f7c33b61da7585daa6dd7003cfdb",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T16:50:01+00:00",
-      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "tags": []
-    },
-    {
       "id": "6f4e02202d83629072093c85d34d0f36",
       "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
@@ -256,30 +390,6 @@
       "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
       "tags": [
         "0DAY"
-      ]
-    },
-    {
-      "id": "90fd6203958f5c827e7924a624027eb2",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T15:00:10+00:00",
-      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-      "tags": []
-    },
-    {
-      "id": "72e142cd1cf92990b1559cb072c18a1d",
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-23T13:28:45+00:00",
-      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "tags": [
-        "PATCH"
       ]
     },
     {
@@ -523,43 +633,6 @@
       "tags": []
     },
     {
-      "id": "db2910247a514fdb014dcc298cfb6bd9",
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-18T21:59:46+00:00",
-      "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "e015edf1c09cb8e99033a4f642ae36ee",
-      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-      "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-18T20:45:49+00:00",
-      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
-      "tags": []
-    },
-    {
-      "id": "0c597ec3c532313dd3b7b8ba3cff899a",
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-18T20:38:42+00:00",
-      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-      "tags": [
-        "RANSOMWARE"
-      ]
-    },
-    {
       "id": "566b0d51d711100d9b4f85d3bc1b3b28",
       "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
       "url": "https://isc.sans.edu/diary/rss/33532",
@@ -568,28 +641,6 @@
       "source_color": "#e74c3c",
       "published": "2026-11-18T19:54:50+00:00",
       "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an Infocon \"Yellow\" infocon . In the last few days, we …",
-      "tags": []
-    },
-    {
-      "id": "dd1ab9a39c9b3ea5aaafb164d6da3b10",
-      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-18T16:54:52+00:00",
-      "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-      "tags": []
-    },
-    {
-      "id": "e940eecb0492a12089e3e7b21f704d51",
-      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
       "tags": []
     },
     {
@@ -626,43 +677,6 @@
       "tags": []
     },
     {
-      "id": "e74bb51c14beab249cb0196f3ba247b3",
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-17T22:34:22+00:00",
-      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "4e69d819123c72ab6de272682be36153",
-      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-17T20:58:13+00:00",
-      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-      "tags": []
-    },
-    {
-      "id": "3e69572b34d06ed42a634c88d6cd0938",
-      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-17T18:38:37+00:00",
-      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
       "id": "20cbd8174f0c08993f78100f9fdd2b38",
       "title": "Formal Verification of the Signal Protocol Using AI",
       "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
@@ -671,17 +685,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-17T12:05:43+00:00",
       "summary": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in …",
-      "tags": []
-    },
-    {
-      "id": "1f39573ab110bef56f2fd85f7e1b08a6",
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "source": "SANS ISC",
-      "source_category": "threat-intel",
-      "source_color": "#e74c3c",
-      "published": "2026-11-17T10:56:38+00:00",
-      "summary": "I&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x99 ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9c generic&&#x23 x26 &#x23 xe2 &&#x23 x26 &#x23 x80 &&#x23 x26 &#x23 x9d phishing messages in detail from time to time, since so…",
       "tags": []
     },
     {
@@ -715,17 +718,6 @@
       "source_color": "#2ecc71",
       "published": "2026-11-13T22:00:46+00:00",
       "summary": "Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven t covered. Blog moderation policy.",
-      "tags": []
-    },
-    {
-      "id": "1d8b68bb6887db61f8f97a88a3778e3a",
-      "title": "AI Doesn’t Have to Go Rogue to Break the World",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "source": "Schneier on Security",
-      "source_category": "analysis",
-      "source_color": "#2ecc71",
-      "published": "2026-11-13T12:03:30+00:00",
-      "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The l…",
       "tags": []
     },
     {
