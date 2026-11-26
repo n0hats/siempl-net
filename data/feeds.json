@@ -1,10 +1,93 @@
 {
-  "last_updated": "2026-11-25T17:49:32.076195+00:00",
+  "last_updated": "2026-11-26T17:33:07.516050+00:00",
   "item_count": 70,
   "failed_sources": [
     "Hacker News"
   ],
   "items": [
+    {
+      "id": "286bf29719f439a77cacfdd7f6a7fe2f",
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-26T17:15:27+00:00",
+      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+      "tags": []
+    },
+    {
+      "id": "532849264f0fc15d1e9d65b8ad3588c8",
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-26T15:23:28+00:00",
+      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+      "tags": [
+        "0DAY"
+      ]
+    },
+    {
+      "id": "fd6848aaba1efbc8d874647656020f34",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-26T11:50:17+00:00",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+      "tags": []
+    },
+    {
+      "id": "9b76dd1191113e5b4206b3932a451090",
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+      "source": "Dark Reading",
+      "source_category": "news",
+      "source_color": "#9b59b6",
+      "published": "2026-11-26T08:00:00+00:00",
+      "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+      "tags": []
+    },
+    {
+      "id": "e0760c490f11ec94f6bbd9abeb87c169",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T22:05:09+00:00",
+      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "1a181b314ff3ace6ca6fdee671019bd0",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T21:33:33+00:00",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "tags": [
+        "BREACH"
+      ]
+    },
+    {
+      "id": "a305910d096800fb68167e7bbccd4822",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "source": "Bleeping Computer",
+      "source_category": "news",
+      "source_color": "#4a9eff",
+      "published": "2026-11-25T19:39:31+00:00",
+      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "tags": []
+    },
     {
       "id": "2063573f90b5956517719dfa59166902",
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
@@ -216,67 +299,6 @@
       "tags": []
     },
     {
-      "id": "24493133bb7904c1475984de6a6bb2df",
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T18:59:52+00:00",
-      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "tags": []
-    },
-    {
-      "id": "ce3052b7ea510ec00df8edb38922d868",
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T17:49:05+00:00",
-      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "6e868d4a5988ed46bf65b91f06b5dcf9",
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T16:30:19+00:00",
-      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "44ea44e95507cbd32ddf754086298b43",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T16:22:44+00:00",
-      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "tags": [
-        "BREACH"
-      ]
-    },
-    {
-      "id": "da16a63271bd95cd2b8f3fc26593567e",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T16:15:23+00:00",
-      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "tags": []
-    },
-    {
       "id": "4dde2914dcaa5fbd4c7f5a80af2cf5f4",
       "title": "How Southeastern University Got a Handle on Its Data",
       "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
@@ -285,17 +307,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-24T15:46:46+00:00",
       "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
-      "tags": []
-    },
-    {
-      "id": "c29f55ae351e0af43df4b08fce43f571",
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "source": "Bleeping Computer",
-      "source_category": "news",
-      "source_color": "#4a9eff",
-      "published": "2026-11-24T15:10:10+00:00",
-      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
       "tags": []
     },
     {
@@ -597,17 +608,6 @@
       "source_color": "#9b59b6",
       "published": "2026-11-19T14:00:00+00:00",
       "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-      "tags": []
-    },
-    {
-      "id": "8521e574a5e864e432fe29436d7150a2",
-      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-      "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-      "source": "Dark Reading",
-      "source_category": "news",
-      "source_color": "#9b59b6",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
       "tags": []
     },
     {
